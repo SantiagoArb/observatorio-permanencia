@@ -124,15 +124,15 @@ footer{background:var(--navy);color:#C9D3E3;padding:32px 0;margin-top:64px;font-
     <p class="intro">Los datos llegan de cinco sistemas que no se hablan entre sí. El proceso los lee tal como vienen, los limpia, los cruza y deja listas las tablas del modelo. Como todo está en un script, se puede volver a correr cuantas veces haga falta sobre los CSV originales y siempre da lo mismo: <b>1.200 estudiantes en la cohorte 2025-1</b>.</p>
 
     <div class="downloads">
-      <a class="btn" href="datos/cohorte_2025_1_limpia.csv" download>Descargar cohorte limpia (CSV)</a>
-      <a class="btn alt" href="etl/etl_observatorio.py" download>Script del ETL (Python)</a>
-      <a class="btn alt" href="datos/registro_transformaciones.csv" download>Registro de transformaciones (CSV)</a>
-      <a class="btn alt" href="datos/observatorio_looker.xlsx" download>Tablas del modelo (Excel)</a>
+      <a class="btn" href="cohorte_2025_1_limpia.csv" download>Descargar cohorte limpia (CSV)</a>
+      <a class="btn alt" href="etl_observatorio.py" download>Script del ETL (Python)</a>
+      <a class="btn alt" href="registro_transformaciones.csv" download>Registro de transformaciones (CSV)</a>
+      <a class="btn alt" href="observatorio_looker.xlsx" download>Tablas del modelo (Excel)</a>
     </div>
 
     <h3>Cómo se ejecuta</h3>
 <pre><code>pip install pandas openpyxl
-python etl/etl_observatorio.py carpeta_con_los_csv_originales carpeta_salida</code></pre>
+python etl_observatorio.py carpeta_con_los_csv_originales carpeta_salida</code></pre>
     <p>El script se detiene si algo no cuadra: por ejemplo, si la cohorte no da 1.200, si Moodle no trae 16 semanas por estudiante o si queda un registro de Bienestar sin estudiante.</p>
 
     <h3>Registro de transformaciones</h3>
@@ -269,7 +269,7 @@ python etl/etl_observatorio.py carpeta_con_los_csv_originales carpeta_salida</co
     </div>
 
     <figure>
-      <img src="img/modelo_looker.png" alt="Vista de la combinación de datos en Looker Studio con las relaciones entre la tabla de hechos y las dimensiones" onerror="this.closest('figure').style.display='none'">
+      <img src="modelo_looker.png" alt="Vista de la combinación de datos en Looker Studio con las relaciones entre la tabla de hechos y las dimensiones" onerror="this.closest('figure').style.display='none'">
       <figcaption>Vista del modelo en Looker Studio: la tabla de hechos se une a cada dimensión por su llave.</figcaption>
     </figure>
   </div>
