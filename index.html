@@ -1,0 +1,576 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observatorio de Permanencia · Universidad Andina del Norte</title>
+<meta name="description" content="Observatorio de Permanencia: ETL, modelo dimensional, arquitectura, tablero de indicadores, alerta temprana y prospectiva tecnológica.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#14213D; --ink:#1E2A44; --muted:#4A5568; --soft:#6B6F76;
+  --paper:#F6F4EE; --sand:#ECE7DA; --card:#FBFAF6; --line:#DDD6C6;
+  --orange:#E07A3F; --orange-ink:#B4471C; --blue:#2F6690; --blue-soft:#E1EAF0;
+  --green:#2E7D4F; --amber:#B7791F; --red:#B42318;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:'Public Sans',Arial,sans-serif;font-size:17px;line-height:1.6}
+a{color:var(--blue)}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header.hero{background:var(--navy);color:var(--paper);padding:56px 0 48px;position:relative;overflow:hidden}
+header.hero:before{content:"";position:absolute;left:0;top:0;bottom:0;width:10px;background:var(--orange)}
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#F0A272;margin:0 0 12px}
+h1,h2,h3{font-family:'Source Serif 4',Georgia,serif;line-height:1.15;margin:0}
+h1{font-size:clamp(34px,6vw,58px);font-weight:700}
+.hero p.lead{font-size:clamp(18px,2.4vw,22px);color:#C9D3E3;max-width:760px;margin:16px 0 28px}
+.meta{display:flex;flex-wrap:wrap;gap:8px 24px;font-size:15px;color:#C9D3E3}
+.meta b{color:var(--paper);font-weight:600}
+nav.toc{position:sticky;top:0;z-index:10;background:rgba(246,244,238,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}
+nav.toc .wrap{display:flex;gap:4px;overflow-x:auto;padding-top:8px;padding-bottom:8px;scrollbar-width:none}
+nav.toc a{flex:none;text-decoration:none;color:var(--ink);font-size:14px;font-weight:600;padding:6px 12px;border-radius:999px}
+nav.toc a:hover{background:var(--sand)}
+section{padding:64px 0 24px}
+section .kicker{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--orange-ink);margin:0 0 8px}
+section h2{font-size:clamp(28px,4vw,40px);margin-bottom:12px}
+section h3{font-size:22px;margin:32px 0 10px}
+p{margin:0 0 14px}
+.intro{font-size:19px;color:var(--muted);max-width:820px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:28px 0 0}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.kpi .v{font-family:'Source Serif 4',Georgia,serif;font-size:32px;font-weight:700;color:var(--navy);line-height:1.1}
+.kpi .l{font-size:14px;color:var(--muted)}
+.tbl{width:100%;overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--card);margin:12px 0 8px}
+table{border-collapse:collapse;width:100%;font-size:15px}
+th,td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--sand);font-weight:700;font-size:14px;white-space:nowrap}
+tr:last-child td{border-bottom:none}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.tag{display:inline-block;font-size:12px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.t-ext{background:#E3E7EE;color:var(--navy)} .t-lim{background:var(--blue-soft);color:#1F4E6E}
+.t-int{background:#F7E2D3;color:#8A3714} .t-car{background:#E3EFE7;color:#1F5A38}
+.t-no{background:#F7E2D3;color:#8A3714} .t-si{background:#E3EFE7;color:#1F5A38} .t-semi{background:#FFF1CC;color:#7A5200}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px}
+.card h4{font-family:'Source Serif 4',Georgia,serif;font-size:20px;margin:0 0 8px}
+.callout{background:var(--navy);color:var(--paper);border-radius:12px;padding:20px 24px;margin:16px 0}
+.callout b{color:#F0A272}
+.downloads{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:600;font-size:15px;padding:10px 16px;border-radius:10px;background:var(--navy);color:var(--paper)}
+.btn.alt{background:var(--card);color:var(--navy);border:1px solid var(--line)}
+code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14px;background:var(--sand);padding:2px 6px;border-radius:6px}
+pre{background:var(--navy);color:#E8EDF5;padding:16px;border-radius:12px;overflow-x:auto;font-size:14px}
+pre code{background:none;padding:0;color:inherit}
+.diagram{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;overflow-x:auto}
+.diagram svg{display:block;min-width:880px;width:100%;height:auto}
+figure{margin:16px 0}
+figcaption{font-size:14px;color:var(--soft);margin-top:8px}
+figure img{max-width:100%;border:1px solid var(--line);border-radius:12px;display:block}
+.embed{position:relative;width:100%;aspect-ratio:16/11;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.g{background:var(--green)} .y{background:var(--amber)} .r{background:var(--red)}
+.cm{display:grid;grid-template-columns:auto 1fr 1fr;gap:6px;max-width:520px;font-size:15px}
+.cm div{padding:12px;border-radius:8px;text-align:center}
+.cm .h{background:transparent;font-weight:700;color:var(--muted);font-size:13px}
+.cm .tp{background:#2F6690;color:#fff} .cm .fp{background:#F7E2D3} .cm .fn{background:#F7E2D3} .cm .tn{background:#E1EAF0}
+.cm .n{font-family:'Source Serif 4',Georgia,serif;font-size:26px;font-weight:700;display:block}
+.prosp{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.prosp .card dl{margin:0;display:grid;grid-template-columns:1fr;gap:8px}
+.prosp dt{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--orange-ink)}
+.prosp dd{margin:0 0 6px}
+.refs p{padding-left:2em;text-indent:-2em;overflow-wrap:anywhere}
+footer{background:var(--navy);color:#C9D3E3;padding:32px 0;margin-top:64px;font-size:14px}
+@media (max-width:640px){body{font-size:16px} section{padding:48px 0 16px} .kpi .v{font-size:28px}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">Universidad Andina del Norte · Caso académico</p>
+    <h1>Observatorio de Permanencia</h1>
+    <p class="lead">Un solo lugar para saber cuántos estudiantes se quedan, cuántos se van y a quién conviene buscar antes de que se vaya.</p>
+    <div class="meta">
+      <span><b>Equipo:</b> Santiago Cardona Saldarriaga · Santiago Alonso Arbeláez Ocampo</span>
+      <span><b>Curso:</b> Introducción a la Inteligencia de Negocios · Universidad Católica del Norte</span>
+      <span><b>Actividad 2</b></span>
+    </div>
+    <div class="kpis">
+      <div class="kpi" style="background:#1E2E52;border-color:#2C3E66"><div class="v" style="color:#F6F4EE">82,8 %</div><div class="l" style="color:#C9D3E3">Absorción</div></div>
+      <div class="kpi" style="background:#1E2E52;border-color:#2C3E66"><div class="v" style="color:#F6F4EE">85,4 %</div><div class="l" style="color:#C9D3E3">Retención 1.er periodo</div></div>
+      <div class="kpi" style="background:#1E2E52;border-color:#2C3E66"><div class="v" style="color:#F6F4EE">14,6 %</div><div class="l" style="color:#C9D3E3">Deserción</div></div>
+      <div class="kpi" style="background:#1E2E52;border-color:#2C3E66"><div class="v" style="color:#F6F4EE">3,38</div><div class="l" style="color:#C9D3E3">Promedio de la cohorte</div></div>
+    </div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Secciones">
+  <div class="wrap">
+    <a href="#etl">1 · ETL</a><a href="#modelo">2 · Modelo</a><a href="#arquitectura">3 · Arquitectura</a>
+    <a href="#tablero">4 · Tablero</a><a href="#alerta">5 · Alerta temprana</a><a href="#prospectiva">6 · Prospectiva</a>
+    <a href="#referencias">Referencias</a>
+  </div>
+</nav>
+
+<main>
+<!-- ============================ RETO 1 ============================ -->
+<section id="etl">
+  <div class="wrap">
+    <p class="kicker">Reto 1 · ETL</p>
+    <h2>De cinco archivos desordenados a una sola tabla confiable</h2>
+    <p class="intro">Los datos llegan de cinco sistemas que no se hablan entre sí. El proceso los lee tal como vienen, los limpia, los cruza y deja listas las tablas del modelo. Como todo está en un script, se puede volver a correr cuantas veces haga falta sobre los CSV originales y siempre da lo mismo: <b>1.200 estudiantes en la cohorte 2025-1</b>.</p>
+
+    <div class="downloads">
+      <a class="btn" href="datos/cohorte_2025_1_limpia.csv" download>Descargar cohorte limpia (CSV)</a>
+      <a class="btn alt" href="etl/etl_observatorio.py" download>Script del ETL (Python)</a>
+      <a class="btn alt" href="datos/registro_transformaciones.csv" download>Registro de transformaciones (CSV)</a>
+      <a class="btn alt" href="datos/observatorio_looker.xlsx" download>Tablas del modelo (Excel)</a>
+    </div>
+
+    <h3>Cómo se ejecuta</h3>
+<pre><code>pip install pandas openpyxl
+python etl/etl_observatorio.py carpeta_con_los_csv_originales carpeta_salida</code></pre>
+    <p>El script se detiene si algo no cuadra: por ejemplo, si la cohorte no da 1.200, si Moodle no trae 16 semanas por estudiante o si queda un registro de Bienestar sin estudiante.</p>
+
+    <h3>Registro de transformaciones</h3>
+    <p>Cada regla queda anotada con la etapa en que se aplica y cuántas filas tocó en la última ejecución.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>#</th><th>Etapa</th><th>Archivo</th><th>Problema</th><th>Regla</th><th class="num">Filas</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><span class="tag t-ext">Extracción</span></td><td><code>todos</code></td><td>Archivos con BOM UTF-8 y celdas vacías</td><td>Leer como texto con codificación utf-8-sig; nada se modifica en el origen</td><td class="num">24.370</td></tr>
+        <tr><td>2</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Documento con puntos de miles (1.000.902.633)</td><td>Quitar puntos y espacios; el documento se trata como texto</td><td class="num">29</td></tr>
+        <tr><td>3</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Periodo escrito &#x27;2025-II&#x27;</td><td>Reemplazar por &#x27;2025-2&#x27;</td><td class="num">7</td></tr>
+        <tr><td>4</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Programa con nombres no estándar (ADMON EMPRESAS)</td><td>Homologar con la tabla oficial de programas</td><td class="num">139</td></tr>
+        <tr><td>5</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Promedio con coma decimal (&#x27;2,6&#x27;)</td><td>Cambiar coma por punto y convertir a número</td><td class="num">40</td></tr>
+        <tr><td>6</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Promedio fuera de escala 0-5 (36 en vez de 3,6)</td><td>Si el promedio es mayor que 5, dividir entre 10</td><td class="num">13</td></tr>
+        <tr><td>7</td><td><span class="tag t-lim">Limpieza</span></td><td><code>sis_matriculas</code></td><td>Filas duplicadas</td><td>Conservar una fila por documento + periodo</td><td class="num">17</td></tr>
+        <tr><td>8</td><td><span class="tag t-int">Integración</span></td><td><code>sis_matriculas</code></td><td>Transferencias entrantes de 2025-2 mezcladas con la cohorte</td><td>Cohorte = periodo 2025-1 y tipo de ingreso &#x27;Nuevo&#x27; (se excluyen transferencias)</td><td class="num">40</td></tr>
+        <tr><td>9</td><td><span class="tag t-lim">Limpieza</span></td><td><code>admisiones</code></td><td>Admitidos duplicados (nombre repetido en MAYÚSCULAS)</td><td>Conservar una fila por documento</td><td class="num">30</td></tr>
+        <tr><td>10</td><td><span class="tag t-lim">Limpieza</span></td><td><code>admisiones</code></td><td>Fecha en tres formatos (31/12/2024, 2024-12-31, 31-dic-2024)</td><td>Convertir cada formato a fecha (AAAA-MM-DD)</td><td class="num">687</td></tr>
+        <tr><td>11</td><td><span class="tag t-lim">Limpieza</span></td><td><code>erp_pagos_2025_2</code></td><td>Estado de pago con mayúsculas inconsistentes (PENDIENTE)</td><td>Unificar a Pagado / Pendiente / Anulado</td><td class="num">50</td></tr>
+        <tr><td>12</td><td><span class="tag t-int">Integración</span></td><td><code>erp_pagos_2025_2</code></td><td>El ERP no compartía llave con el SIS (documento con puntos)</td><td>Cruzar por documento limpio; sin cruce = &#x27;Sin liquidación&#x27;</td><td class="num">68</td></tr>
+        <tr><td>13</td><td><span class="tag t-int">Integración</span></td><td><code>moodle_actividad_2025_1</code></td><td>Dos estudiantes comparten el mismo correo (32 filas mezcladas)</td><td>Asignar cada bloque de 16 semanas al código estudiantil según su posición, no por correo</td><td class="num">4</td></tr>
+        <tr><td>14</td><td><span class="tag t-lim">Limpieza</span></td><td><code>moodle_actividad_2025_1</code></td><td>Nota parcial en escala 0-100</td><td>Convertir a escala 0-5 dividiendo entre 20</td><td class="num">4.800</td></tr>
+        <tr><td>15</td><td><span class="tag t-lim">Limpieza</span></td><td><code>bienestar_registros_2025_1</code></td><td>Programa abreviado (Adm., Psico.)</td><td>Homologar con la tabla oficial de programas</td><td class="num">276</td></tr>
+        <tr><td>16</td><td><span class="tag t-int">Integración</span></td><td><code>bienestar_registros_2025_1</code></td><td>Bienestar no registra documento y hay homónimos</td><td>Cruzar por nombre normalizado + programa homologado; los homónimos quedan separados por programa</td><td class="num">2</td></tr>
+        <tr><td>17</td><td><span class="tag t-car">Carga</span></td><td><code>bienestar_registros_2025_1</code></td><td>Observaciones y atenciones psicológicas son datos sensibles</td><td>Se publican solo conteos de cancelaciones y alertas; nombres, observaciones y atenciones no salen de la zona protegida</td><td class="num">92</td></tr>
+        <tr><td>18</td><td><span class="tag t-car">Carga</span></td><td><code>todos</code></td><td>Documento, nombre y correo son datos personales</td><td>Reemplazar por una llave seudónima (hash) antes de publicar</td><td class="num">1.450</td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="callout"><b>Bienestar y los homónimos.</b> Bienestar no guarda el documento, solo el nombre. Por eso se cruza con el nombre sin tildes ni mayúsculas más el programa homologado. Así, “Diana Agudelo López” de Psicología y la de Trabajo Social quedan como dos personas distintas. Los 276 registros de Bienestar encontraron su estudiante.</div>
+  </div>
+</section>
+
+<!-- ============================ RETO 2 ============================ -->
+<section id="modelo">
+  <div class="wrap">
+    <p class="kicker">Reto 2 · Modelo dimensional</p>
+    <h2>Un modelo estrella para filtrar por programa, facultad y estrato</h2>
+    <div class="callout"><b>Granularidad:</b> una fila por estudiante por periodo académico (2025-1 para los 1.450 admitidos únicos y 2025-2 para los 1.200 estudiantes de la cohorte).</div>
+
+    <div class="diagram" role="img" aria-label="Modelo estrella: tabla de hechos fact_permanencia en el centro, unida a dim_estudiante, dim_programa, dim_periodo y dim_estrato">
+<svg viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" font-family="Public Sans, Arial, sans-serif"><line x1="240" y1="130.0" x2="330" y2="120" stroke="#B4471C" stroke-width="2.5"/>
+<text x="248" y="122.0" font-size="15" font-weight="700" fill="#B4471C">1</text>
+<text x="314" y="112" font-size="17" font-weight="700" fill="#B4471C">*</text>
+<line x1="240" y1="406.0" x2="330" y2="280" stroke="#B4471C" stroke-width="2.5"/>
+<text x="248" y="398.0" font-size="15" font-weight="700" fill="#B4471C">1</text>
+<text x="314" y="272" font-size="17" font-weight="700" fill="#B4471C">*</text>
+<line x1="760" y1="118.0" x2="670" y2="160" stroke="#B4471C" stroke-width="2.5"/>
+<text x="742" y="110.0" font-size="15" font-weight="700" fill="#B4471C">1</text>
+<text x="678" y="152" font-size="17" font-weight="700" fill="#B4471C">*</text>
+<line x1="760" y1="394.0" x2="670" y2="320" stroke="#B4471C" stroke-width="2.5"/>
+<text x="742" y="386.0" font-size="15" font-weight="700" fill="#B4471C">1</text>
+<text x="678" y="312" font-size="17" font-weight="700" fill="#B4471C">*</text>
+<g><rect x="330" y="60" width="340" height="368" rx="10" fill="#FBFAF6" stroke="#14213D" stroke-width="2"/>
+<rect x="330" y="60" width="340" height="40" rx="10" fill="#14213D"/>
+<rect x="330" y="90" width="340" height="10" fill="#14213D"/>
+<text x="344" y="87" font-size="17" font-weight="700" fill="#FBFAF6">fact_permanencia</text>
+<text x="344" y="120" font-size="14" font-weight="700" fill="#1E2A44">estudiante_key (FK)</text>
+<text x="344" y="144" font-size="14" font-weight="700" fill="#1E2A44">periodo_key (FK)</text>
+<text x="344" y="168" font-size="14" font-weight="700" fill="#1E2A44">programa_key (FK)</text>
+<text x="344" y="192" font-size="14" font-weight="700" fill="#1E2A44">estrato_key (FK)</text>
+<text x="344" y="216" font-size="14" font-weight="400" fill="#1E2A44">admitido · en_cohorte</text>
+<text x="344" y="240" font-size="14" font-weight="400" fill="#1E2A44">matriculado · retenido · desertor</text>
+<text x="344" y="264" font-size="14" font-weight="400" fill="#1E2A44">creditos · promedio_periodo · con_promedio</text>
+<text x="344" y="288" font-size="14" font-weight="400" fill="#1E2A44">accesos_sem_1_8 · accesos_sem_5_8</text>
+<text x="344" y="312" font-size="14" font-weight="400" fill="#1E2A44">nota_parcial_s4_s8</text>
+<text x="344" y="336" font-size="14" font-weight="400" fill="#1E2A44">alerta_actual · alerta_nueva</text>
+<text x="344" y="360" font-size="14" font-weight="400" fill="#1E2A44">alerta_*_desertor</text>
+<text x="344" y="384" font-size="14" font-weight="400" fill="#1E2A44">cancelacion_formal · alertas_docentes</text>
+<text x="344" y="408" font-size="14" font-weight="400" fill="#1E2A44">valor_liquidado · pago_pendiente</text>
+</g>
+<g><rect x="20" y="30" width="220" height="200" rx="10" fill="#FBFAF6" stroke="#2F6690" stroke-width="2"/>
+<rect x="20" y="30" width="220" height="40" rx="10" fill="#2F6690"/>
+<rect x="20" y="60" width="220" height="10" fill="#2F6690"/>
+<text x="34" y="57" font-size="17" font-weight="700" fill="#FBFAF6">dim_estudiante</text>
+<text x="34" y="90" font-size="14" font-weight="700" fill="#1E2A44">estudiante_key (PK)</text>
+<text x="34" y="114" font-size="14" font-weight="400" fill="#1E2A44">condicion</text>
+<text x="34" y="138" font-size="14" font-weight="400" fill="#1E2A44">tipo_colegio</text>
+<text x="34" y="162" font-size="14" font-weight="400" fill="#1E2A44">puntaje_saber11</text>
+<text x="34" y="186" font-size="14" font-weight="400" fill="#1E2A44">rango_saber11</text>
+<text x="34" y="210" font-size="14" font-weight="400" fill="#1E2A44">fecha_admision</text>
+</g>
+<g><rect x="20" y="330" width="220" height="152" rx="10" fill="#FBFAF6" stroke="#2F6690" stroke-width="2"/>
+<rect x="20" y="330" width="220" height="40" rx="10" fill="#2F6690"/>
+<rect x="20" y="360" width="220" height="10" fill="#2F6690"/>
+<text x="34" y="357" font-size="17" font-weight="700" fill="#FBFAF6">dim_programa</text>
+<text x="34" y="390" font-size="14" font-weight="700" fill="#1E2A44">programa_key (PK)</text>
+<text x="34" y="414" font-size="14" font-weight="400" fill="#1E2A44">programa</text>
+<text x="34" y="438" font-size="14" font-weight="400" fill="#1E2A44">sigla</text>
+<text x="34" y="462" font-size="14" font-weight="400" fill="#1E2A44">facultad</text>
+</g>
+<g><rect x="760" y="30" width="220" height="176" rx="10" fill="#FBFAF6" stroke="#2F6690" stroke-width="2"/>
+<rect x="760" y="30" width="220" height="40" rx="10" fill="#2F6690"/>
+<rect x="760" y="60" width="220" height="10" fill="#2F6690"/>
+<text x="774" y="57" font-size="17" font-weight="700" fill="#FBFAF6">dim_periodo</text>
+<text x="774" y="90" font-size="14" font-weight="700" fill="#1E2A44">periodo_key (PK)</text>
+<text x="774" y="114" font-size="14" font-weight="400" fill="#1E2A44">periodo</text>
+<text x="774" y="138" font-size="14" font-weight="400" fill="#1E2A44">anio</text>
+<text x="774" y="162" font-size="14" font-weight="400" fill="#1E2A44">semestre</text>
+<text x="774" y="186" font-size="14" font-weight="400" fill="#1E2A44">etapa</text>
+</g>
+<g><rect x="760" y="330" width="220" height="128" rx="10" fill="#FBFAF6" stroke="#2F6690" stroke-width="2"/>
+<rect x="760" y="330" width="220" height="40" rx="10" fill="#2F6690"/>
+<rect x="760" y="360" width="220" height="10" fill="#2F6690"/>
+<text x="774" y="357" font-size="17" font-weight="700" fill="#FBFAF6">dim_estrato</text>
+<text x="774" y="390" font-size="14" font-weight="700" fill="#1E2A44">estrato_key (PK)</text>
+<text x="774" y="414" font-size="14" font-weight="400" fill="#1E2A44">estrato</text>
+<text x="774" y="438" font-size="14" font-weight="400" fill="#1E2A44">nivel_estrato</text>
+</g></svg>
+    </div>
+
+    <h3>Tabla de hechos: fact_permanencia (2.650 filas)</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Medida</th><th>Qué guarda</th><th>Aditividad</th></tr></thead>
+      <tbody>
+        <tr><td><code>admitido</code>, <code>en_cohorte</code></td><td>1 si el estudiante fue admitido / se matriculó como nuevo en 2025-1</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>retenido</code>, <code>desertor</code></td><td>1 si el estudiante de la cohorte se matriculó / no se matriculó en 2025-2</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>matriculado</code></td><td>1 si estaba matriculado en ese periodo</td><td><span class="tag t-semi">Semiaditiva</span> no se suma entre periodos</td></tr>
+        <tr><td><code>creditos</code>, <code>accesos_sem_1_8</code>, <code>accesos_sem_5_8</code></td><td>Créditos inscritos y accesos a Moodle</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>con_promedio</code></td><td>1 si el estudiante tiene promedio registrado (base del promedio de la cohorte)</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>alerta_actual</code>, <code>alerta_nueva</code> y sus versiones <code>_desertor</code></td><td>1 si la regla alertó al estudiante (y si además desertó)</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>cancelacion_formal</code>, <code>alertas_docentes</code></td><td>Conteo de registros de Bienestar</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>valor_liquidado</code>, <code>pago_pendiente</code></td><td>Liquidación 2025-2 y si sigue sin pagar</td><td><span class="tag t-si">Aditiva</span></td></tr>
+        <tr><td><code>promedio_periodo</code>, <code>nota_parcial_s4_s8</code></td><td>Promedio del periodo y nota parcial (escala 0–5)</td><td><span class="tag t-no">No aditiva</span> se promedia</td></tr>
+        <tr><td>Absorción, retención, deserción, precisión, cobertura</td><td>Indicadores calculados como cociente de sumas</td><td><span class="tag t-no">No aditiva</span></td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Dimensiones</h3>
+    <div class="grid2">
+      <div class="card"><h4>dim_estudiante</h4><p>Llave seudónima, condición (cohorte o admitido no matriculado), tipo de colegio, puntaje y rango Saber 11, fecha de admisión.</p></div>
+      <div class="card"><h4>dim_programa</h4><p>Programa, sigla y <b>facultad</b>. Los datos no traían facultad, así que se asignó con la tabla institucional de programas.</p></div>
+      <div class="card"><h4>dim_periodo</h4><p>2025-1 (ingreso de la cohorte) y 2025-2 (primer seguimiento), con año y semestre.</p></div>
+      <div class="card"><h4>dim_estrato</h4><p>Estrato 1 a 6 y nivel socioeconómico (bajo, medio, alto).</p></div>
+    </div>
+
+    <figure>
+      <img src="img/modelo_looker.png" alt="Vista de la combinación de datos en Looker Studio con las relaciones entre la tabla de hechos y las dimensiones" onerror="this.closest('figure').style.display='none'">
+      <figcaption>Vista del modelo en Looker Studio: la tabla de hechos se une a cada dimensión por su llave.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<!-- ============================ RETO 3 ============================ -->
+<section id="arquitectura">
+  <div class="wrap">
+    <p class="kicker">Reto 3 · Arquitectura</p>
+    <h2>Cómo viajan los datos, de los sistemas al consejero</h2>
+    <p class="intro">La arquitectura objetivo mezcla un lago de datos por zonas con un almacén en BigQuery. Los sistemas académicos y financieros entran por lotes cada noche; la actividad de Moodle entra por streaming para que la alerta llegue casi en tiempo real.</p>
+    <div class="diagram" role="img" aria-label="Diagrama de arquitectura del Observatorio de Permanencia">
+<svg viewBox="0 0 1200 625" xmlns="http://www.w3.org/2000/svg" font-family="Public Sans, Arial, sans-serif"><defs><marker id="mn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#14213D"/></marker><marker id="mo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#B4471C"/></marker></defs>
+<text x="20" y="24" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">FUENTES INTERNAS</text>
+<rect x="20" y="36" width="190" height="52" rx="8" fill="#FBFAF6" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="58" font-size="15" font-weight="700" fill="#14213D">Admisiones</text>
+<text x="32" y="78" font-size="13" fill="#4A5568">admitidos, Saber 11, estrato</text>
+<rect x="20" y="98" width="190" height="52" rx="8" fill="#FBFAF6" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="120" font-size="15" font-weight="700" fill="#14213D">SIS Académico</text>
+<text x="32" y="140" font-size="13" fill="#4A5568">matrículas, promedios</text>
+<rect x="20" y="160" width="190" height="52" rx="8" fill="#FBFAF6" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="182" font-size="15" font-weight="700" fill="#14213D">ERP Financiero</text>
+<text x="32" y="202" font-size="13" fill="#4A5568">liquidaciones y pagos</text>
+<rect x="20" y="222" width="190" height="52" rx="8" fill="#F7E2D3" stroke="#B4471C" stroke-width="1.6"/>
+<text x="32" y="244" font-size="15" font-weight="700" fill="#14213D">Bienestar</text>
+<text x="32" y="264" font-size="13" fill="#4A5568">dato sensible</text>
+<rect x="20" y="284" width="190" height="52" rx="8" fill="#FBFAF6" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="306" font-size="15" font-weight="700" fill="#14213D">Moodle</text>
+<text x="32" y="326" font-size="13" fill="#4A5568">accesos y notas parciales</text>
+<text x="20" y="372" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">FUENTES EXTERNAS</text>
+<rect x="20" y="384" width="190" height="52" rx="8" fill="#ECE7DA" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="406" font-size="15" font-weight="700" fill="#14213D">ICFES</text>
+<text x="32" y="426" font-size="13" fill="#4A5568">resultados Saber 11</text>
+<rect x="20" y="446" width="190" height="52" rx="8" fill="#ECE7DA" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="468" font-size="15" font-weight="700" fill="#14213D">MEN · SPADIES</text>
+<text x="32" y="488" font-size="13" fill="#4A5568">deserción nacional</text>
+<rect x="20" y="508" width="190" height="52" rx="8" fill="#ECE7DA" stroke="#14213D" stroke-width="1.6"/>
+<text x="32" y="530" font-size="15" font-weight="700" fill="#14213D">DANE</text>
+<text x="32" y="550" font-size="13" fill="#4A5568">estratificación</text>
+<text x="250" y="24" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">INGESTA</text>
+<rect x="250" y="50" width="170" height="110" rx="8" fill="#E3E7EE" stroke="#14213D" stroke-width="1.6"/>
+<text x="262" y="72" font-size="15" font-weight="700" fill="#14213D">Lotes</text>
+<text x="262" y="92" font-size="13" fill="#4A5568">ETL en Python</text>
+<text x="262" y="109" font-size="13" fill="#4A5568">Cloud Run Jobs</text>
+<text x="262" y="126" font-size="13" fill="#4A5568">diaria, 2:00 a. m.</text>
+<rect x="250" y="262" width="170" height="92" rx="8" fill="#F7E2D3" stroke="#B4471C" stroke-width="1.6"/>
+<text x="262" y="284" font-size="15" font-weight="700" fill="#14213D">Streaming</text>
+<text x="262" y="304" font-size="13" fill="#4A5568">Google Pub/Sub</text>
+<text x="262" y="321" font-size="13" fill="#4A5568">eventos de Moodle</text>
+<text x="262" y="338" font-size="13" fill="#4A5568">cada 5 minutos</text>
+<rect x="250" y="420" width="170" height="92" rx="8" fill="#E3E7EE" stroke="#14213D" stroke-width="1.6"/>
+<text x="262" y="442" font-size="15" font-weight="700" fill="#14213D">Lotes externos</text>
+<text x="262" y="462" font-size="13" fill="#4A5568">descarga programada</text>
+<text x="262" y="479" font-size="13" fill="#4A5568">semestral / anual</text>
+<line x1="210" y1="62" x2="250" y2="105" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="124" x2="250" y2="105" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="186" x2="250" y2="105" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="248" x2="250" y2="140" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="310" x2="250" y2="308" stroke="#B4471C" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mo)"/>
+<line x1="210" y1="410" x2="250" y2="466" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="472" x2="250" y2="466" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="210" y1="534" x2="250" y2="466" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<text x="460" y="24" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">DATA LAKE · CLOUD STORAGE</text>
+<rect x="460" y="36" width="230" height="480" rx="12" fill="none" stroke="#14213D" stroke-width="1.6" stroke-dasharray="4 4"/>
+<rect x="476" y="52" width="198" height="110" rx="8" fill="#F3E3D3" stroke="#9A6B3F" stroke-width="1.6"/>
+<text x="488" y="74" font-size="15" font-weight="700" fill="#14213D">Zona Bronce</text>
+<text x="488" y="94" font-size="13" fill="#4A5568">datos crudos, tal cual llegan</text>
+<text x="488" y="111" font-size="13" fill="#4A5568">Bienestar en carpeta</text>
+<text x="488" y="128" font-size="13" fill="#4A5568">restringida</text>
+<rect x="476" y="196" width="198" height="150" rx="8" fill="#E9ECEF" stroke="#6B7280" stroke-width="1.6"/>
+<text x="488" y="218" font-size="15" font-weight="700" fill="#14213D">Zona Plata</text>
+<text x="488" y="238" font-size="13" fill="#4A5568">limpios, homologados</text>
+<text x="488" y="255" font-size="13" fill="#4A5568">y seudonimizados</text>
+<rect x="488" y="268" width="174" height="64" rx="6" fill="#B4471C"/>
+<text x="498" y="290" font-size="13" font-weight="700" fill="#FBFAF6">Aquí se anonimiza</text>
+<text x="498" y="307" font-size="13" font-weight="700" fill="#FBFAF6">Bienestar (Cloud DLP)</text>
+<text x="498" y="324" font-size="12" fill="#FBFAF6">nombre → llave seudónima</text>
+<rect x="476" y="380" width="198" height="120" rx="8" fill="#FFF1CC" stroke="#B7791F" stroke-width="1.6"/>
+<text x="488" y="402" font-size="15" font-weight="700" fill="#14213D">Zona Oro</text>
+<text x="488" y="422" font-size="13" fill="#4A5568">tablas curadas</text>
+<text x="488" y="439" font-size="13" fill="#4A5568">listas para el modelo</text>
+<text x="488" y="456" font-size="13" fill="#4A5568">estrella</text>
+<line x1="575" y1="162" x2="575" y2="196" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="575" y1="346" x2="575" y2="380" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="420" y1="105" x2="476" y2="105" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/><text x="448.0" y="97" font-size="12" font-weight="600" fill="#14213D" text-anchor="middle">diaria</text>
+<line x1="420" y1="308" x2="476" y2="140" stroke="#B4471C" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mo)"/><text x="412" y="240" font-size="12" font-weight="600" fill="#B4471C" text-anchor="end">5 min</text>
+<line x1="420" y1="466" x2="476" y2="150" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/><text x="422" y="400" font-size="12" font-weight="600" fill="#14213D" text-anchor="end">semestral</text>
+<text x="730" y="24" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">ALMACÉN Y SERVICIO</text>
+<rect x="730" y="50" width="200" height="120" rx="8" fill="#14213D" stroke="#14213D" stroke-width="1.6"/>
+<text x="742" y="72" font-size="15" font-weight="700" fill="#FBFAF6">Lakehouse · BigQuery</text>
+<text x="742" y="92" font-size="13" fill="#C9D3E3">modelo estrella</text>
+<text x="742" y="109" font-size="13" fill="#C9D3E3">fact_permanencia + 4 dim.</text>
+<text x="742" y="126" font-size="13" fill="#C9D3E3">carga diaria + 15 min</text>
+<rect x="730" y="214" width="200" height="110" rx="8" fill="#E1EAF0" stroke="#2F6690" stroke-width="1.6"/>
+<text x="742" y="236" font-size="15" font-weight="700" fill="#14213D">Capa semántica</text>
+<text x="742" y="256" font-size="13" fill="#4A5568">vistas BigQuery +</text>
+<text x="742" y="273" font-size="13" fill="#4A5568">métricas oficiales</text>
+<text x="742" y="290" font-size="13" fill="#4A5568">(una sola fórmula)</text>
+<rect x="730" y="370" width="200" height="130" rx="8" fill="#F7E2D3" stroke="#B4471C" stroke-width="1.6"/>
+<text x="742" y="392" font-size="15" font-weight="700" fill="#14213D">Canal de alertas</text>
+<text x="742" y="412" font-size="13" fill="#4A5568">Cloud Functions</text>
+<text x="742" y="429" font-size="13" fill="#4A5568">correo / Google Chat</text>
+<text x="742" y="446" font-size="13" fill="#4A5568">casi tiempo real +</text>
+<text x="742" y="463" font-size="13" fill="#4A5568">resumen semanal</text>
+<line x1="674" y1="440" x2="730" y2="110" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/><text x="696" y="478" font-size="12" font-weight="600" fill="#14213D" text-anchor="start">diaria</text>
+<line x1="830" y1="170" x2="830" y2="214" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="830" y1="324" x2="830" y2="370" stroke="#B4471C" stroke-width="2" marker-end="url(#mo)"/><text x="885" y="352" font-size="12" font-weight="600" fill="#B4471C" text-anchor="middle">regla de alerta</text>
+<text x="970" y="24" font-size="13" font-weight="700" fill="#B4471C" letter-spacing="1.5">CONSUMO</text>
+<rect x="970" y="50" width="210" height="120" rx="8" fill="#FBFAF6" stroke="#2F6690" stroke-width="1.6"/>
+<text x="982" y="72" font-size="15" font-weight="700" fill="#14213D">Tablero Looker Studio</text>
+<text x="982" y="92" font-size="13" fill="#4A5568">filtros: programa,</text>
+<text x="982" y="109" font-size="13" fill="#4A5568">facultad, estrato</text>
+<text x="982" y="126" font-size="13" fill="#4A5568">embebido en esta web</text>
+<text x="982" y="143" font-size="13" fill="#4A5568">refresco 15 min</text>
+<line x1="930" y1="269" x2="970" y2="120" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/><text x="926" y="200" font-size="12" font-weight="600" fill="#14213D" text-anchor="end">15 min</text>
+<rect x="970" y="214" width="210" height="286" rx="8" fill="#FBFAF6" stroke="#14213D" stroke-width="1.6"/>
+<text x="982" y="236" font-size="15" font-weight="700" fill="#14213D">Usuarios por rol</text>
+<text x="982" y="262" font-size="14" font-weight="700" fill="#1E2A44">Rectoría y Consejo</text>
+<text x="982" y="279" font-size="12.5" fill="#4A5568">estratégico · semestral</text>
+<text x="982" y="309" font-size="14" font-weight="700" fill="#1E2A44">Decanos y Financiera</text>
+<text x="982" y="326" font-size="12.5" fill="#4A5568">táctico · mensual</text>
+<text x="982" y="356" font-size="14" font-weight="700" fill="#1E2A44">Bienestar</text>
+<text x="982" y="373" font-size="12.5" fill="#4A5568">táctico · acceso protegido</text>
+<text x="982" y="403" font-size="14" font-weight="700" fill="#1E2A44">Consejeros</text>
+<text x="982" y="420" font-size="12.5" fill="#4A5568">operativo · semanal + alertas</text>
+<text x="982" y="450" font-size="14" font-weight="700" fill="#1E2A44">Público</text>
+<text x="982" y="467" font-size="12.5" fill="#4A5568">solo cifras agregadas</text>
+<line x1="1075" y1="170" x2="1075" y2="214" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/>
+<line x1="930" y1="435" x2="970" y2="435" stroke="#B4471C" stroke-width="2" marker-end="url(#mo)"/>
+<line x1="20" y1="600" x2="70" y2="600" stroke="#14213D" stroke-width="2" marker-end="url(#mn)"/><text x="80" y="605" font-size="13" fill="#1E2A44">Flujo por lotes</text>
+<line x1="210" y1="600" x2="260" y2="600" stroke="#B4471C" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mo)"/><text x="270" y="605" font-size="13" fill="#1E2A44">Streaming (Moodle)</text>
+<rect x="430" y="590" width="16" height="16" rx="3" fill="#F7E2D3" stroke="#B4471C"/><text x="454" y="605" font-size="13" fill="#1E2A44">Dato sensible</text></svg>
+    </div>
+
+    <h3>Frecuencia de cada flujo</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Flujo</th><th>Tipo</th><th>Frecuencia</th></tr></thead>
+      <tbody>
+        <tr><td>SIS Académico, Admisiones, ERP Financiero → zona Bronce</td><td>Lotes</td><td>Diaria (2:00 a. m.)</td></tr>
+        <tr><td>Bienestar → zona Bronce protegida → zona Plata seudonimizada</td><td>Lotes</td><td>Diaria; se anonimiza antes de salir de Bronce</td></tr>
+        <tr><td>Moodle (accesos y notas) → Pub/Sub → zona Bronce</td><td>Streaming</td><td>Eventos continuos, consolidados cada 5 minutos</td></tr>
+        <tr><td>ICFES Saber 11, SPADIES (MEN), DANE → zona Bronce</td><td>Lotes</td><td>Semestral / anual</td></tr>
+        <tr><td>Bronce → Plata → Oro → BigQuery (modelo estrella)</td><td>Lotes</td><td>Diaria; micro-lotes cada 15 minutos para las variables de Moodle</td></tr>
+        <tr><td>BigQuery → tablero Looker Studio</td><td>Consulta</td><td>Actualización de datos cada 15 minutos</td></tr>
+        <tr><td>Regla de alerta → consejeros (correo / Google Chat)</td><td>Evento</td><td>Casi en tiempo real + resumen semanal los lunes</td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="callout"><b>¿Dónde se anonimiza Bienestar?</b> Al pasar de la zona Bronce (acceso restringido solo a Bienestar) a la zona Plata. Ahí el nombre se cambia por la llave seudónima, se borran las observaciones y las atenciones psicológicas se reducen a conteos. Nada con nombre o diagnóstico llega al almacén ni al tablero.</div>
+
+    <h3>Por qué cada tecnología</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Componente</th><th>Tecnología</th><th>Justificación</th></tr></thead>
+      <tbody>
+        <tr><td>ETL por lotes</td><td>Python + pandas (Cloud Run Jobs)</td><td>Es el mismo script del Reto 1: repetible, gratuito y fácil de auditar.</td></tr>
+        <tr><td>Ingesta en streaming</td><td>Google Pub/Sub</td><td>Recibe los eventos de Moodle en segundos y escala solo, sin servidores que mantener.</td></tr>
+        <tr><td>Data Lake por zonas</td><td>Google Cloud Storage</td><td>Guarda barato los archivos crudos y separa Bronce, Plata y Oro con permisos distintos.</td></tr>
+        <tr><td>Almacén / Lakehouse</td><td>BigQuery</td><td>Consulta con SQL tanto el lago como el modelo estrella y se conecta directo con Looker Studio.</td></tr>
+        <tr><td>Anonimización</td><td>Sensitive Data Protection (Cloud DLP)</td><td>Detecta y seudonimiza nombres y datos sensibles de Bienestar antes de la zona Plata.</td></tr>
+        <tr><td>Capa semántica</td><td>Vistas de BigQuery + campos calculados de Looker Studio</td><td>Cada indicador se define una sola vez y todos los tableros usan la misma fórmula.</td></tr>
+        <tr><td>Tablero</td><td>Looker Studio</td><td>Gratuito, con filtros de autoservicio y se puede embeber en esta página.</td></tr>
+        <tr><td>Canal de alertas</td><td>Cloud Functions + correo / Google Chat</td><td>Avisa al consejero en cuanto un estudiante cruza el umbral de la regla.</td></tr>
+      </tbody>
+    </table></div>
+  </div>
+</section>
+
+<!-- ============================ RETO 4 ============================ -->
+<section id="tablero">
+  <div class="wrap">
+    <p class="kicker">Reto 4 · Tablero</p>
+    <h2>Los indicadores, con semáforo y filtros en vivo</h2>
+    <p class="intro">Use los filtros de programa, facultad y estrato para ver cualquier combinación, por ejemplo la deserción de Psicología en estrato 1.</p>
+    <div class="embed">
+      <iframe src="https://datastudio.google.com/embed/reporting/0ce31073-4d20-4199-a1a7-d9d63aa7c016/page/ea9CG" title="Tablero del Observatorio de Permanencia en Looker Studio" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+    </div>
+    <p style="font-size:14px;color:var(--soft);margin-top:8px">¿No carga? <a href="https://datastudio.google.com/reporting/0ce31073-4d20-4199-a1a7-d9d63aa7c016/page/ea9CG" target="_blank" rel="noopener">Abrir el tablero en otra pestaña</a>.</p>
+
+    <h3>Metas y semáforo</h3>
+    <p>Verde cumple la meta, amarillo está cerca y rojo está lejos. Los valores son los de toda la cohorte, sin filtros.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Indicador</th><th class="num">Valor</th><th>Meta</th><th>Amarillo</th><th>Estado</th></tr></thead>
+      <tbody>
+        <tr><td>Absorción</td><td class="num"><b>82,8 %</b></td><td>≥ 85 %</td><td>80 % – 85 %</td><td><span class="dot y"></span>Cerca</td></tr>
+        <tr><td>Retención de primer periodo</td><td class="num"><b>85,4 %</b></td><td>≥ 88 %</td><td>85 % – 88 %</td><td><span class="dot y"></span>Cerca</td></tr>
+        <tr><td>Deserción</td><td class="num"><b>14,6 %</b></td><td>≤ 12 %</td><td>12 % – 15 %</td><td><span class="dot y"></span>Cerca</td></tr>
+        <tr><td>Promedio de la cohorte</td><td class="num"><b>3,38</b></td><td>≥ 3,50</td><td>3,30 – 3,50</td><td><span class="dot y"></span>Cerca</td></tr>
+        <tr><td>Alertados (regla actual)</td><td class="num"><b>371</b></td><td>≤ 120</td><td>121 – 180</td><td><span class="dot r"></span>Lejos</td></tr>
+        <tr><td>Precisión de la alerta</td><td class="num"><b>32,6 %</b></td><td>≥ 50 %</td><td>40 % – 50 %</td><td><span class="dot r"></span>Lejos</td></tr>
+        <tr><td>Cobertura de la alerta</td><td class="num"><b>69,1 %</b></td><td>≥ 60 %</td><td>50 % – 60 %</td><td><span class="dot g"></span>Cumple</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Deserción por programa</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Programa</th><th>Facultad</th><th class="num">Cohorte</th><th class="num">Desertores</th><th class="num">Deserción</th></tr></thead>
+      <tbody>
+        <tr><td>Administración de Empresas</td><td>Ciencias Económicas y Administrativas</td><td class="num">254</td><td class="num">46</td><td class="num"><b>18,1 %</b></td></tr>
+        <tr><td>Ingeniería Informática</td><td>Ingenierías</td><td class="num">236</td><td class="num">39</td><td class="num"><b>16,5 %</b></td></tr>
+        <tr><td>Trabajo Social</td><td>Ciencias Sociales y Humanas</td><td class="num">152</td><td class="num">22</td><td class="num"><b>14,5 %</b></td></tr>
+        <tr><td>Contaduría Pública</td><td>Ciencias Económicas y Administrativas</td><td class="num">154</td><td class="num">22</td><td class="num"><b>14,3 %</b></td></tr>
+        <tr><td>Ingeniería Industrial</td><td>Ingenierías</td><td class="num">176</td><td class="num">22</td><td class="num"><b>12,5 %</b></td></tr>
+        <tr><td>Psicología</td><td>Ciencias Sociales y Humanas</td><td class="num">228</td><td class="num">24</td><td class="num"><b>10,5 %</b></td></tr>
+        <tr style="background:#ECE7DA"><td><b>Total cohorte</b></td><td></td><td class="num"><b>1.200</b></td><td class="num"><b>175</b></td><td class="num"><b>14,6 %</b></td></tr>
+      </tbody>
+    </table></div>
+  </div>
+</section>
+
+<!-- ============================ RETO 5 ============================ -->
+<section id="alerta">
+  <div class="wrap">
+    <p class="kicker">Reto 5 · Alerta temprana</p>
+    <h2>Menos alertas, pero más certeras</h2>
+    <p class="intro">La regla actual alerta a 371 estudiantes y los consejeros solo alcanzan a atender 120. Buscamos en Moodle de las semanas 1 a 8 la señal que mejor separa a quienes se van, y resultó ser la más sencilla: dejar de entrar a la plataforma en la segunda mitad del corte.</p>
+
+    <div class="callout" style="font-size:20px"><b>Regla nueva:</b> alertar al estudiante que suma <b>8 accesos o menos</b> en Moodle entre las semanas 5 y 8.</div>
+
+    <div class="tbl"><table>
+      <thead><tr><th>Regla</th><th class="num">Alertados</th><th class="num">Alertados que desertaron</th><th class="num">Precisión</th><th class="num">Cobertura</th></tr></thead>
+      <tbody>
+        <tr><td>Actual: nota parcial (s4 y s8) &lt; 3,0 o 0 accesos en s7 + s8</td><td class="num">371</td><td class="num">121</td><td class="num">32,6 %</td><td class="num">69,1 %</td></tr>
+        <tr style="background:#F7E2D3"><td><b>Nueva: accesos s5 a s8 ≤ 8</b></td><td class="num"><b>113</b></td><td class="num"><b>65</b></td><td class="num"><b>57,5 %</b></td><td class="num"><b>37,1 %</b></td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="grid2" style="margin-top:24px">
+      <div>
+        <h3 style="margin-top:0">Matriz de confusión · regla nueva</h3>
+        <div class="cm" role="table" aria-label="Matriz de confusión de la regla nueva">
+          <div class="h"></div><div class="h">Desertó</div><div class="h">No desertó</div>
+          <div class="h" style="text-align:right">Alertó</div><div class="tp"><span class="n">65</span>aciertos</div><div class="fp"><span class="n">48</span>falsas alarmas</div>
+          <div class="h" style="text-align:right">No alertó</div><div class="fn"><span class="n">110</span>se escaparon</div><div class="tn"><span class="n">977</span>bien descartados</div>
+        </div>
+      </div>
+      <div>
+        <h3 style="margin-top:0">Lo que gana la universidad</h3>
+        <p>Con la regla actual, de cada 10 estudiantes que llama un consejero, 3 se iban a ir. Con la nueva son casi 6 de cada 10, y la lista cabe en la capacidad de atención (113 de 120).</p>
+        <p>El costo es que la cobertura baja: la regla nueva encuentra a 65 de los 175 desertores (37,1 %). Por eso la proponemos como la lista prioritaria, no como la única señal: la nota parcial sigue sirviendo para tutorías.</p>
+      </div>
+    </div>
+    <h3>Cómo se eligió</h3>
+    <p>Probamos umbrales sobre accesos acumulados, semanas sin entrar, caída de accesos entre la primera y la segunda mitad del corte, y combinaciones con la nota parcial. Las reglas con nota alertaban a muchos estudiantes que sí se quedaron; la de accesos de las semanas 5 a 8 fue la que más desertores encontró sin pasar de 120 alertas.</p>
+  </div>
+</section>
+
+<!-- ============================ RETO 6 ============================ -->
+<section id="prospectiva">
+  <div class="wrap">
+    <p class="kicker">Reto 6 · Prospectiva tecnológica</p>
+    <h2>Tres tecnologías para la siguiente fase</h2>
+    <div class="prosp">
+      <div class="card">
+        <h4>1. Modelo predictivo con BigQuery ML</h4>
+        <dl>
+          <dt>Problema del caso</dt><dd>La regla actual alerta a 371 estudiantes con 32,6 % de precisión, y los consejeros solo atienden 120.</dd>
+          <dt>Indicador que mejora</dt><dd>Precisión y cobertura de la alerta.</dd>
+          <dt>Riesgo</dt><dd>Que el modelo discrimine por estrato o colegio, o que nadie entienda por qué alerta.</dd>
+          <dt>Mitigación</dt><dd>Usar modelos explicables (regresión logística), revisar la precisión por estrato cada semestre y dejar siempre la decisión final al consejero.</dd>
+        </dl>
+      </div>
+      <div class="card">
+        <h4>2. Gestión de datos maestros (MDM)</h4>
+        <dl>
+          <dt>Problema del caso</dt><dd>No hay una llave común: Bienestar registra por nombre, dos estudiantes comparten correo y el ERP escribe el documento con puntos.</dd>
+          <dt>Indicador que mejora</dt><dd>Retención y deserción (exactitud de la cifra) y cobertura de la alerta, porque Bienestar y Moodle cruzan sin errores.</dd>
+          <dt>Riesgo</dt><dd>Que cada área siga usando su propia llave y el maestro quede desactualizado.</dd>
+          <dt>Mitigación</dt><dd>Un responsable de datos por área, el documento como llave obligatoria en todos los formularios y reglas de calidad automáticas en la zona Plata.</dd>
+        </dl>
+      </div>
+      <div class="card">
+        <h4>3. Learning analytics con xAPI y un LRS</h4>
+        <dl>
+          <dt>Problema del caso</dt><dd>Moodle solo entrega accesos semanales; la alerta llega tarde y sin detalle de qué dejó de hacer el estudiante.</dd>
+          <dt>Indicador que mejora</dt><dd>Número de alertados y cobertura: se detecta antes y con más señales (entregas, foros, tiempo en curso).</dd>
+          <dt>Riesgo</dt><dd>Volumen alto de eventos y percepción de vigilancia por parte de los estudiantes.</dd>
+          <dt>Mitigación</dt><dd>Seudonimizar en la ingesta, guardar solo agregados después de un semestre e informar a los estudiantes para qué se usan sus datos.</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================ REFERENCIAS ============================ -->
+<section id="referencias">
+  <div class="wrap refs">
+    <p class="kicker">Referencias · APA 7</p>
+    <h2>Referencias</h2>
+    <p>Armbrust, M., Ghodsi, A., Xin, R., &amp; Zaharia, M. (2021). Lakehouse: A new generation of open platforms that unify data warehousing and advanced analytics. En <i>Proceedings of the 11th Conference on Innovative Data Systems Research (CIDR)</i>. https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf</p>
+    <p>Kimball, R., &amp; Ross, M. (2013). <i>The data warehouse toolkit: The definitive guide to dimensional modeling</i> (3.ª ed.). Wiley.</p>
+    <p>Ministerio de Educación Nacional. (2015). <i>Guía para la implementación del modelo de gestión de permanencia y graduación estudiantil en instituciones de educación superior</i>. MEN.</p>
+    <p>Universidad Católica del Norte. (2026). <i>[Título de la lectura o unidad 1]</i> [Material del curso Introducción a la Inteligencia de Negocios]. https://fucn.instructure.com/courses/30440</p>
+    <p>Universidad Católica del Norte. (2026). <i>[Título de la lectura o unidad 2]</i> [Material del curso Introducción a la Inteligencia de Negocios]. https://fucn.instructure.com/courses/30440</p>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    Observatorio de Permanencia · Universidad Andina del Norte (institución ficticia, datos sintéticos con fines académicos) · Introducción a la Inteligencia de Negocios, Universidad Católica del Norte · 2026
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿n,etapa,archivo,problema,regla,filas_afectadas
+1,Extracción,todos,Archivos con BOM UTF-8 y celdas vacías,Leer como texto con codificación utf-8-sig; nada se modifica en el origen,24370
+2,Limpieza,sis_matriculas,Documento con puntos de miles (1.000.902.633),Quitar puntos y espacios; el documento se trata como texto,29
+3,Limpieza,sis_matriculas,Periodo escrito '2025-II',Reemplazar por '2025-2',7
+4,Limpieza,sis_matriculas,Programa con nombres no estándar (ADMON EMPRESAS),Homologar con la tabla oficial de programas,139
+5,Limpieza,sis_matriculas,"Promedio con coma decimal ('2,6')",Cambiar coma por punto y convertir a número,40
+6,Limpieza,sis_matriculas,"Promedio fuera de escala 0-5 (36 en vez de 3,6)","Si el promedio es mayor que 5, dividir entre 10",13
+7,Limpieza,sis_matriculas,Filas duplicadas,Conservar una fila por documento + periodo,17
+8,Integración,sis_matriculas,Transferencias entrantes de 2025-2 mezcladas con la cohorte,Cohorte = periodo 2025-1 y tipo de ingreso 'Nuevo' (se excluyen transferencias),40
+9,Limpieza,admisiones,Admitidos duplicados (nombre repetido en MAYÚSCULAS),Conservar una fila por documento,30
+10,Limpieza,admisiones,"Fecha en tres formatos (31/12/2024, 2024-12-31, 31-dic-2024)",Convertir cada formato a fecha (AAAA-MM-DD),687
+11,Limpieza,erp_pagos_2025_2,Estado de pago con mayúsculas inconsistentes (PENDIENTE),Unificar a Pagado / Pendiente / Anulado,50
+12,Integración,erp_pagos_2025_2,El ERP no compartía llave con el SIS (documento con puntos),Cruzar por documento limpio; sin cruce = 'Sin liquidación',68
+13,Integración,moodle_actividad_2025_1,Dos estudiantes comparten el mismo correo (32 filas mezcladas),"Asignar cada bloque de 16 semanas al código estudiantil según su posición, no por correo",4
+14,Limpieza,moodle_actividad_2025_1,Nota parcial en escala 0-100,Convertir a escala 0-5 dividiendo entre 20,4800
+15,Limpieza,bienestar_registros_2025_1,"Programa abreviado (Adm., Psico.)",Homologar con la tabla oficial de programas,276
+16,Integración,bienestar_registros_2025_1,Bienestar no registra documento y hay homónimos,Cruzar por nombre normalizado + programa homologado; los homónimos quedan separados por programa,2
+17,Carga,bienestar_registros_2025_1,Observaciones y atenciones psicológicas son datos sensibles,"Se publican solo conteos de cancelaciones y alertas; nombres, observaciones y atenciones no salen de la zona protegida",92
+18,Carga,todos,"Documento, nombre y correo son datos personales",Reemplazar por una llave seudónima (hash) antes de publicar,1450

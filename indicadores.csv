@@ -1,0 +1,11 @@
+﻿indicador,valor,definicion
+Absorción,0.8275862068965517,Estudiantes de la cohorte / admitidos únicos
+Retención de primer periodo,0.8541666666666666,Cohorte matriculada en 2025-2 / cohorte
+Deserción,0.14583333333333334,100 % - retención
+Promedio de la cohorte,3.3796595744680853,Promedio 2025-1 (0-5) de los estudiantes con nota registrada
+Alertados (regla actual),371.0,"Nota parcial s4-s8 < 3,0 o 0 accesos en s7+s8"
+Precisión de la alerta actual,0.3261455525606469,Alertados que desertaron / alertados
+Cobertura de la alerta actual,0.6914285714285714,Alertados que desertaron / desertores
+Alertados (regla nueva),113.0,Accesos semanas 5 a 8 <= 8
+Precisión de la alerta nueva,0.5752212389380531,Alertados que desertaron / alertados
+Cobertura de la alerta nueva,0.37142857142857144,Alertados que desertaron / desertores

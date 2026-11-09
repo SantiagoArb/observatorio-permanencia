@@ -1,0 +1,1201 @@
+﻿estudiante_key,programa,facultad,estrato,tipo_colegio,puntaje_saber11,creditos,promedio_periodo,accesos_sem_1,accesos_sem_2,accesos_sem_3,accesos_sem_4,accesos_sem_5,accesos_sem_6,accesos_sem_7,accesos_sem_8,accesos_sem_5_8,accesos_sem_7_8,nota_parcial_s4,nota_parcial_s8,nota_parcial_s4_s8,alerta_actual,alerta_nueva,cancelacion_formal,alertas_docentes,estado_pago,matriculado_2025_2,desertor
+EST-9990408805,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,355,18,4.1,5,5,7,6,4,9,2,7,22,9,5.0,3.9,4.45,0,0,0,0,Pagado,1,0
+EST-DB7DAB556F,Ingeniería Industrial,Ingenierías,1,Privado,283,17,3.7,11,6,4,8,8,10,10,11,39,21,2.25,3.55,2.9,1,0,0,0,Pagado,1,0
+EST-C6052AF555,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,274,15,3.2,5,3,9,5,7,6,5,7,25,12,3.25,3.95,3.6,0,0,0,0,Pagado,1,0
+EST-4B7DA600F5,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,3.9,5,16,4,6,12,7,12,8,39,20,3.25,3.25,3.25,0,0,0,0,Pagado,1,0
+EST-E657E99AC1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,315,18,4.5,8,9,10,11,11,11,5,5,32,10,4.75,4.4,4.575,0,0,0,0,Pagado,1,0
+EST-D48FBFC9E6,Psicología,Ciencias Sociales y Humanas,3,Privado,209,15,2.0,2,3,1,2,2,4,0,3,9,3,2.85,1.2,2.025,1,0,0,0,Pagado,1,0
+EST-06B6AC4027,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,18,3.2,4,9,7,4,9,8,10,4,31,14,2.8,2.4,2.5999999999999996,1,0,0,0,Pagado,1,0
+EST-DB9F0BCB3F,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,18,3.3,2,5,8,3,4,4,6,3,17,9,3.6,3.3,3.45,0,0,0,0,Pagado,1,0
+EST-A7824A6D0D,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,248,18,3.0,3,3,5,5,3,13,5,9,30,14,3.15,4.15,3.6500000000000004,0,0,0,0,Pagado,1,0
+EST-0AA2E304B5,Psicología,Ciencias Sociales y Humanas,4,Oficial,356,17,4.4,7,3,5,5,3,3,9,7,22,16,5.0,4.8,4.9,0,0,0,0,Pagado,1,0
+EST-E4AC041842,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,265,16,3.3,6,5,5,4,3,6,4,5,18,9,4.05,3.5,3.775,0,0,0,0,Pagado,1,0
+EST-457ECAA0E6,Psicología,Ciencias Sociales y Humanas,6,Privado,283,17,3.0,0,1,4,3,5,2,5,2,14,7,4.3,4.25,4.275,0,0,0,1,Pagado,1,0
+EST-F082F2F073,Ingeniería Informática,Ingenierías,2,Oficial,306,15,3.2,2,4,2,5,4,6,4,3,17,7,2.8,2.1,2.45,1,0,0,0,Pagado,1,0
+EST-DA3C6BB6AC,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,231,18,3.9,3,11,13,7,8,7,6,5,26,11,3.65,4.25,3.95,0,0,0,0,Pagado,1,0
+EST-5919FE68E2,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,347,16,3.0,9,9,4,7,2,1,1,0,4,1,3.7,3.7,3.7,0,1,1,0,Sin liquidación,0,1
+EST-26097A2FF4,Psicología,Ciencias Sociales y Humanas,3,Oficial,337,18,3.7,11,9,14,9,8,3,7,8,26,15,3.3,3.3,3.3,0,0,0,0,Pagado,1,0
+EST-2DF2BCCFE1,Psicología,Ciencias Sociales y Humanas,1,Privado,247,15,2.8,8,7,5,4,6,7,4,7,24,11,2.25,3.0,2.625,1,0,0,0,Sin liquidación,0,1
+EST-6451E0DD54,Ingeniería Informática,Ingenierías,4,Oficial,270,15,3.3,5,8,6,2,1,5,5,7,18,12,3.4,3.4,3.4,0,0,0,1,Pagado,1,0
+EST-2B9263177D,Ingeniería Industrial,Ingenierías,5,Privado,250,15,2.7,3,5,6,3,2,4,2,4,12,6,3.15,3.25,3.2,0,0,0,0,Pagado,1,0
+EST-FB6B173B40,Ingeniería Industrial,Ingenierías,3,Oficial,272,15,3.5,4,5,4,5,10,4,3,3,20,6,3.65,3.9,3.775,0,0,0,0,Pagado,1,0
+EST-DA6A57118C,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,198,14,,0,0,0,1,0,0,1,0,1,1,1.75,2.2,1.975,1,1,0,0,Sin liquidación,0,1
+EST-93F9743FAD,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,16,3.0,8,7,3,4,11,2,10,4,27,14,2.85,3.85,3.35,0,0,0,0,Pagado,1,0
+EST-140F9DDBA1,Psicología,Ciencias Sociales y Humanas,1,Oficial,273,15,3.4,3,6,3,0,3,1,1,3,8,4,3.7,3.75,3.725,0,1,0,0,Pagado,1,0
+EST-9F250C24C9,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,373,18,4.3,6,6,10,10,6,7,6,10,29,16,4.2,4.55,4.375,0,0,0,0,Pagado,1,0
+EST-AA2C49B0B2,Ingeniería Informática,Ingenierías,1,Privado,314,14,3.6,9,7,5,9,6,8,7,5,26,12,3.55,2.8,3.175,0,0,0,0,Pagado,1,0
+EST-11756FF699,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,302,15,3.2,5,7,6,5,2,4,3,8,17,11,3.55,3.35,3.45,0,0,0,0,Pagado,1,0
+EST-952F46E0A2,Ingeniería Industrial,Ingenierías,1,Oficial,257,18,3.4,5,1,10,8,7,2,9,6,24,15,3.05,3.65,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-AF2DFE4402,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,258,17,2.1,3,2,3,2,4,2,4,4,14,8,3.3,1.6,2.45,1,0,0,0,Pagado,1,0
+EST-81AA6083F7,Psicología,Ciencias Sociales y Humanas,4,Privado,295,16,3.4,4,9,9,3,5,3,2,3,13,5,4.05,4.05,4.05,0,0,0,0,Pagado,1,0
+EST-F8C9BF2B0B,Ingeniería Informática,Ingenierías,4,Oficial,299,17,3.7,5,8,9,10,4,6,5,8,23,13,3.7,3.55,3.625,0,0,0,0,Pagado,1,0
+EST-5604A947D4,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,18,3.9,9,8,7,9,9,7,5,7,28,12,3.4,4.55,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-D46A44EB21,Ingeniería Informática,Ingenierías,3,Oficial,247,14,3.3,10,3,6,7,4,6,6,6,22,12,3.7,2.9,3.3,0,0,0,0,Pagado,1,0
+EST-00D379603F,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,282,16,4.3,4,6,7,5,3,6,8,6,23,14,4.9,4.75,4.825,0,0,0,0,Pagado,1,0
+EST-EBD1730715,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,402,16,3.5,3,6,4,1,5,4,4,3,16,7,4.35,4.0,4.175,0,0,0,0,Pagado,1,0
+EST-1510CD998C,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,18,3.7,6,6,3,3,4,10,5,6,25,11,3.85,3.95,3.9000000000000004,0,0,0,0,Pagado,1,0
+EST-C147865AD0,Ingeniería Industrial,Ingenierías,3,Privado,318,15,4.3,12,12,8,8,4,7,11,3,25,14,4.15,4.6,4.375,0,0,0,0,Pagado,1,0
+EST-EAE736C7D3,Psicología,Ciencias Sociales y Humanas,2,Privado,263,16,3.7,15,3,9,7,8,6,4,5,23,9,3.55,3.15,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-812AFEFE80,Ingeniería Industrial,Ingenierías,1,Privado,193,15,2.1,0,3,1,0,2,1,0,2,5,2,1.5,2.15,1.825,1,1,1,0,Pendiente,0,1
+EST-A57C5E8CB4,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,242,16,2.5,3,2,1,3,5,4,1,2,12,3,2.55,2.55,2.55,1,0,0,0,Pagado,1,0
+EST-DBF7263461,Psicología,Ciencias Sociales y Humanas,2,Oficial,347,17,4.0,7,11,7,10,4,5,6,8,23,14,4.25,4.5,4.375,0,0,0,0,Pagado,1,0
+EST-27BE8CB3FD,Psicología,Ciencias Sociales y Humanas,2,Oficial,251,16,2.9,4,6,4,1,3,3,3,2,11,5,2.65,2.55,2.5999999999999996,1,0,0,0,Pagado,1,0
+EST-8A0CB16EB9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,321,18,3.5,7,7,5,5,9,7,5,7,28,12,3.55,3.45,3.5,0,0,0,0,Pagado,1,0
+EST-2E0F752750,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,243,18,2.0,2,5,2,3,4,1,5,0,10,5,2.15,2.25,2.2,1,0,0,0,Sin liquidación,0,1
+EST-BB9FC4EED1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,322,15,3.2,4,6,8,5,3,7,7,0,17,7,2.85,2.45,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-BEA2462E5C,Ingeniería Industrial,Ingenierías,2,Oficial,237,16,2.9,3,8,4,7,9,6,7,8,30,15,3.35,2.8,3.075,0,0,0,1,Pendiente,0,1
+EST-B3AA78D072,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,410,15,4.2,1,10,5,4,6,4,2,4,16,6,4.35,4.15,4.25,0,0,0,0,Pagado,1,0
+EST-865038DCCE,Psicología,Ciencias Sociales y Humanas,2,Oficial,266,16,2.9,3,4,3,5,4,0,3,2,9,5,3.1,2.7,2.9000000000000004,1,0,0,0,Pagado,1,0
+EST-D4B2C2E14D,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,265,18,3.2,4,4,6,6,4,3,1,6,14,7,2.0,3.2,2.6,1,0,0,0,Pagado,1,0
+EST-C735C53656,Ingeniería Industrial,Ingenierías,1,Privado,280,15,3.5,2,3,5,6,4,8,2,6,20,8,3.6,2.55,3.075,0,0,0,0,Pagado,1,0
+EST-8487E6520D,Ingeniería Informática,Ingenierías,3,Oficial,388,16,3.8,6,5,7,5,6,6,7,7,26,14,4.05,3.3,3.675,0,0,0,0,Pagado,1,0
+EST-B3D09432D0,Ingeniería Informática,Ingenierías,4,Privado,317,18,3.8,5,10,3,6,8,5,8,7,28,15,4.6,3.4,4.0,0,0,0,0,Pagado,1,0
+EST-6808A17AD7,Ingeniería Industrial,Ingenierías,2,Oficial,333,15,3.8,6,10,8,4,6,4,2,8,20,10,4.35,4.6,4.475,0,0,0,0,Pagado,1,0
+EST-8C02CBDC4A,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,282,14,2.8,3,4,3,2,3,0,3,2,8,5,3.0,2.95,2.975,1,1,0,1,Sin liquidación,0,1
+EST-D6F466959C,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,267,14,3.8,6,10,5,7,2,5,3,5,15,8,4.45,3.95,4.2,0,0,0,0,Pendiente,1,0
+EST-133A182E37,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,262,15,2.5,3,1,4,1,4,2,3,4,13,7,3.5,2.25,2.875,1,0,0,1,Pendiente,0,1
+EST-D77BE9916D,Psicología,Ciencias Sociales y Humanas,6,Oficial,277,17,2.8,5,3,5,3,4,2,0,2,8,2,2.65,3.2,2.925,1,1,0,0,Pagado,1,0
+EST-F0C4D6E5AB,Ingeniería Informática,Ingenierías,3,Oficial,335,18,3.9,5,4,4,5,3,8,5,5,21,10,4.0,3.35,3.675,0,0,0,0,Pagado,1,0
+EST-A30BDDEBFA,Ingeniería Industrial,Ingenierías,3,Oficial,323,14,4.5,5,8,14,7,8,13,11,5,37,16,4.85,4.4,4.625,0,0,0,0,Pagado,1,0
+EST-690C5717B9,Psicología,Ciencias Sociales y Humanas,2,Privado,300,14,3.3,2,7,3,1,3,4,6,3,16,9,2.8,4.15,3.475,0,0,0,0,Pagado,1,0
+EST-2223622084,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,223,16,2.2,2,2,0,0,1,0,0,0,1,0,1.9,2.65,2.275,1,1,1,0,Sin liquidación,0,1
+EST-D2D6A2996A,Ingeniería Informática,Ingenierías,1,Oficial,307,14,3.4,5,6,4,9,8,4,8,5,25,13,3.25,2.75,3.0,0,0,0,0,Pagado,1,0
+EST-C1B8965B41,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,16,2.9,2,6,6,3,2,8,6,7,23,13,2.1,3.15,2.625,1,0,0,0,Sin liquidación,0,1
+EST-A066CB2749,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,15,4.6,10,11,7,16,7,4,9,6,26,15,5.0,4.0,4.5,0,0,0,0,Pagado,1,0
+EST-349F239B8F,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,349,18,3.8,5,5,9,4,7,5,5,8,25,13,4.35,4.1,4.225,0,0,0,0,Pagado,1,0
+EST-190F5B348F,Psicología,Ciencias Sociales y Humanas,3,Privado,340,14,3.9,10,7,4,4,7,7,4,6,24,10,4.1,3.75,3.925,0,0,0,0,Pagado,1,0
+EST-180329C705,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,6,5,6,3,3,3,4,3,13,7,2.35,2.65,2.5,1,0,0,1,Anulado,0,1
+EST-1C55BE4B10,Psicología,Ciencias Sociales y Humanas,1,Oficial,309,17,3.4,5,7,8,10,9,4,9,6,28,15,3.8,2.85,3.325,0,0,0,0,Pagado,1,0
+EST-F800F0583D,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,313,16,,3,4,3,1,6,2,4,2,14,6,4.25,4.6,4.425,0,0,0,0,Pendiente,1,0
+EST-21A29B80B4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,292,16,4.0,12,8,7,8,7,3,9,5,24,14,4.8,4.35,4.574999999999999,0,0,0,0,Pagado,1,0
+EST-9A32EB4D26,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,287,14,2.8,0,7,7,4,8,5,0,1,14,1,2.65,0.75,1.7,1,0,1,0,Sin liquidación,0,1
+EST-248E6481DC,Ingeniería Industrial,Ingenierías,6,Privado,224,15,3.2,12,10,5,3,9,10,5,10,34,15,4.8,3.1,3.95,0,0,0,0,Pagado,1,0
+EST-A078CD9C27,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,16,3.4,7,10,9,6,6,10,1,7,24,8,3.7,3.05,3.375,0,0,0,0,Pendiente,1,0
+EST-969084982A,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,342,14,3.8,8,16,13,7,4,9,11,10,34,21,3.0,4.05,3.525,0,0,0,1,Pagado,1,0
+EST-2BB6E93E6C,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,263,14,3.1,4,4,3,2,3,1,11,5,20,16,2.45,2.3,2.375,1,0,0,0,Pagado,1,0
+EST-0EEC8809FB,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,301,18,2.8,5,6,7,9,5,4,3,5,17,8,3.1,1.8,2.45,1,0,0,0,Pendiente,1,0
+EST-AD6B21A211,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,17,3.7,7,3,1,4,3,6,4,5,18,9,4.65,3.3,3.975,0,0,0,0,Pagado,1,0
+EST-BC5B0B5628,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,292,14,2.9,2,9,7,5,10,4,6,2,22,8,3.0,3.5,3.25,0,0,0,0,Pagado,1,0
+EST-48B994BA7D,Ingeniería Informática,Ingenierías,3,Privado,287,14,3.1,7,6,2,3,4,4,3,7,18,10,3.45,2.95,3.2,0,0,0,0,Pagado,1,0
+EST-A5ED3F590F,Ingeniería Informática,Ingenierías,2,Oficial,342,15,3.3,4,3,3,6,0,2,0,0,2,0,3.1,2.2,2.6500000000000004,1,1,1,1,Sin liquidación,0,1
+EST-64D511D03B,Ingeniería Informática,Ingenierías,3,Oficial,346,16,3.9,6,5,6,7,6,6,4,9,25,13,3.85,4.05,3.95,0,0,0,0,Pagado,1,0
+EST-1FF1A9B495,Ingeniería Informática,Ingenierías,3,Oficial,272,14,3.6,12,3,5,6,3,5,4,4,16,8,2.95,3.9,3.425,0,0,0,0,Pagado,1,0
+EST-18364A0367,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,16,3.3,4,7,8,9,9,4,6,8,27,14,3.55,2.55,3.05,0,0,0,0,Pagado,1,0
+EST-CDFC80FC02,Ingeniería Informática,Ingenierías,1,Privado,246,14,2.0,3,1,2,0,1,0,6,2,9,8,2.7,2.65,2.675,1,0,0,0,Pagado,1,0
+EST-79C93F3271,Psicología,Ciencias Sociales y Humanas,2,Oficial,314,18,2.6,2,4,4,4,4,3,3,2,12,5,2.8,1.6,2.2,1,0,0,0,Pagado,1,0
+EST-2C6C3712C4,Ingeniería Industrial,Ingenierías,3,Oficial,236,18,2.1,1,2,0,4,5,1,3,2,11,5,3.8,1.2,2.5,1,0,0,1,Sin liquidación,0,1
+EST-189337C8EF,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,202,16,2.6,2,3,3,1,5,4,5,2,16,7,2.4,2.7,2.55,1,0,0,0,Pagado,1,0
+EST-DE497DE134,Ingeniería Industrial,Ingenierías,3,Oficial,220,18,2.3,8,4,4,6,2,2,3,3,10,6,1.65,3.4,2.525,1,0,1,0,Sin liquidación,0,1
+EST-39DF48AB80,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,278,17,4.2,8,12,11,10,9,14,9,14,46,23,4.5,4.3,4.4,0,0,0,0,Pagado,1,0
+EST-4EA1206DF3,Psicología,Ciencias Sociales y Humanas,1,Privado,203,16,2.0,1,0,0,0,0,0,0,0,0,0,1.9,1.85,1.875,1,1,0,0,Pendiente,0,1
+EST-8BF06E21A6,Ingeniería Informática,Ingenierías,2,Oficial,333,15,4.2,9,3,6,5,4,6,11,5,26,16,4.6,4.2,4.4,0,0,0,0,Pagado,1,0
+EST-36F388F542,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,301,14,4.4,3,10,7,10,6,12,7,5,30,12,3.7,4.25,3.975,0,0,0,0,Pagado,1,0
+EST-FE9C370933,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,301,16,4.2,4,6,8,12,9,3,10,6,28,16,3.95,4.2,4.075,0,0,0,0,Pagado,1,0
+EST-3E4E09CF5E,Ingeniería Informática,Ingenierías,3,Oficial,278,14,3.2,3,4,3,7,2,3,9,3,17,12,2.75,2.4,2.575,1,0,0,0,Pagado,1,0
+EST-2C0C8FBBA7,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,258,16,2.8,1,3,6,3,4,5,1,2,12,3,2.15,3.1,2.625,1,0,0,0,Pendiente,0,1
+EST-682C7D33DF,Ingeniería Informática,Ingenierías,3,Oficial,356,18,3.0,3,5,5,6,2,5,10,4,21,14,3.0,2.65,2.825,1,0,0,0,Pagado,1,0
+EST-B65A53A27D,Psicología,Ciencias Sociales y Humanas,4,Oficial,268,17,3.3,4,4,1,3,3,1,4,6,14,10,2.0,2.85,2.425,1,0,0,0,Pagado,1,0
+EST-EC7824E919,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,17,,11,13,3,4,6,5,12,6,29,18,5.0,2.6,3.8,0,0,0,0,Pagado,1,0
+EST-57E1CB5878,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,308,18,4.4,10,16,11,12,7,6,7,8,28,15,4.8,5.0,4.9,0,0,0,0,Pagado,1,0
+EST-7AB6DEDB5F,Ingeniería Informática,Ingenierías,2,Oficial,365,14,4.3,4,2,5,2,3,1,2,5,11,7,4.4,3.7,4.050000000000001,0,0,0,0,Pagado,1,0
+EST-8C325772B4,Ingeniería Informática,Ingenierías,1,Oficial,197,16,1.8,2,3,2,1,3,2,4,7,16,11,1.7,1.85,1.775,1,0,0,1,Pendiente,0,1
+EST-D383958D28,Psicología,Ciencias Sociales y Humanas,3,Oficial,310,16,3.2,0,0,3,2,3,4,4,1,12,5,2.4,3.15,2.775,1,0,0,0,Pagado,1,0
+EST-5E99B096A6,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,335,18,3.6,4,5,2,2,5,1,6,3,15,9,3.7,3.5,3.6,0,0,0,0,Pagado,1,0
+EST-1315AEA203,Psicología,Ciencias Sociales y Humanas,1,Privado,305,18,3.6,5,7,9,8,2,8,2,8,20,10,3.3,4.05,3.675,0,0,0,0,Pendiente,1,0
+EST-70E0D5A53C,Ingeniería Industrial,Ingenierías,2,Oficial,309,15,3.0,2,6,2,5,2,5,1,3,11,4,2.5,3.9,3.2,0,0,0,0,Pagado,1,0
+EST-2DB2F7EC5F,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,286,17,3.8,10,8,6,8,7,7,9,8,31,17,3.35,3.5,3.425,0,0,0,0,Pagado,1,0
+EST-044A83B1C0,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,306,14,4.6,12,7,6,8,7,4,3,8,22,11,5.0,5.0,5.0,0,0,0,0,Pagado,1,0
+EST-C8031FB5D5,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,341,17,4.5,7,11,9,1,10,8,5,2,25,7,5.0,4.55,4.775,0,0,0,0,Pagado,1,0
+EST-29B3446DFA,Psicología,Ciencias Sociales y Humanas,2,Privado,347,16,4.3,10,8,10,10,10,12,8,6,36,14,3.9,4.1,4.0,0,0,0,0,Pendiente,1,0
+EST-C393FEB662,Psicología,Ciencias Sociales y Humanas,1,Privado,287,17,3.8,2,4,5,4,5,5,3,6,19,9,4.0,4.75,4.375,0,0,0,0,Pagado,1,0
+EST-C40DE29819,Ingeniería Informática,Ingenierías,2,Oficial,324,14,4.0,9,8,8,11,10,3,5,4,22,9,3.95,4.35,4.15,0,0,0,0,Pagado,1,0
+EST-C255695C4C,Ingeniería Industrial,Ingenierías,4,Oficial,281,14,2.9,4,1,2,4,7,3,1,2,13,3,3.15,2.75,2.95,1,0,1,0,Pendiente,0,1
+EST-63E4535B8A,Psicología,Ciencias Sociales y Humanas,6,Oficial,234,16,4.5,9,4,1,3,3,9,5,8,25,13,4.7,3.9,4.3,0,0,0,0,Pagado,1,0
+EST-60A4EA46CB,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,296,16,3.4,3,6,4,6,3,4,9,5,21,14,3.65,4.2,3.925,0,0,0,0,Pagado,1,0
+EST-D0427DE100,Ingeniería Informática,Ingenierías,4,Oficial,306,16,3.4,8,4,11,7,10,7,3,4,24,7,2.7,3.8,3.25,0,0,0,0,Pendiente,1,0
+EST-7B77A17777,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,14,3.8,4,7,4,8,3,7,9,6,25,15,4.5,3.35,3.925,0,0,0,0,Pagado,1,0
+EST-F69C2DD259,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,321,17,4.2,7,6,7,7,3,6,8,6,23,14,4.25,4.65,4.45,0,0,0,0,Pagado,1,0
+EST-D258B9FB59,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,17,4.8,6,3,7,11,9,7,5,5,26,10,4.45,4.85,4.65,0,0,0,0,Pagado,1,0
+EST-8AF836FC8F,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,269,17,2.6,4,11,3,0,1,3,3,2,9,5,2.2,3.0,2.6,1,0,0,1,Pendiente,0,1
+EST-8812FCE331,Psicología,Ciencias Sociales y Humanas,3,Oficial,221,16,2.4,2,8,4,4,2,3,2,2,9,4,2.45,1.2,1.8250000000000002,1,0,0,0,Pagado,1,0
+EST-B10C3EEABA,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,343,14,3.6,10,11,6,5,9,5,9,7,30,16,3.75,3.6,3.675,0,0,0,0,Pagado,1,0
+EST-CBB96D6498,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,292,16,3.6,6,6,6,9,9,8,4,8,29,12,3.85,3.95,3.9000000000000004,0,0,0,0,Pagado,1,0
+EST-28EBDBBA0F,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,294,18,3.6,8,2,2,4,2,5,5,4,16,9,3.55,3.75,3.65,0,0,0,0,Pagado,1,0
+EST-C840F7DEBC,Psicología,Ciencias Sociales y Humanas,3,Oficial,283,16,4.6,9,10,6,7,10,11,8,5,34,13,4.0,5.0,4.5,0,0,0,1,Pagado,1,0
+EST-8F60046CED,Ingeniería Informática,Ingenierías,4,Oficial,289,15,3.6,6,4,8,9,4,8,2,2,16,4,2.5,3.3,2.9,1,0,0,0,Pagado,1,0
+EST-A5262F6FEF,Ingeniería Informática,Ingenierías,1,Oficial,293,14,3.4,9,4,6,4,6,8,4,3,21,7,4.65,3.2,3.9250000000000003,0,0,0,0,Pagado,1,0
+EST-9B45502CAB,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,3.5,3,6,4,6,9,4,5,11,29,16,3.45,2.55,3.0,0,0,0,1,Pagado,1,0
+EST-4CD460C0A2,Psicología,Ciencias Sociales y Humanas,3,Privado,320,18,4.2,6,9,7,8,4,16,3,9,32,12,4.05,3.8,3.925,0,0,0,0,Pagado,1,0
+EST-F2E2618241,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,318,18,4.2,3,4,6,5,11,3,8,6,28,14,5.0,4.05,4.525,0,0,0,0,Pagado,1,0
+EST-A5A3740B92,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,304,15,3.3,11,7,11,8,9,6,10,6,31,16,3.15,1.4,2.275,1,0,0,0,Pagado,1,0
+EST-F775ED1FAF,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.8,3,2,5,2,3,4,2,0,9,2,3.4,3.1,3.25,0,0,0,1,Sin liquidación,0,1
+EST-9ED7427DCA,Ingeniería Informática,Ingenierías,1,Privado,317,16,3.7,2,7,6,2,0,1,0,0,1,0,4.85,3.2,4.025,1,1,0,0,Pendiente,0,1
+EST-660A5CA687,Ingeniería Industrial,Ingenierías,2,Oficial,308,15,3.4,5,6,2,4,6,4,8,3,21,11,2.25,3.45,2.85,1,0,0,0,Pagado,1,0
+EST-46E415C76A,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,297,14,3.9,4,5,6,4,6,7,6,9,28,15,4.85,3.4,4.125,0,0,0,0,Pagado,1,0
+EST-23C5F43A47,Ingeniería Industrial,Ingenierías,3,Oficial,305,14,2.9,1,1,1,2,0,0,1,0,1,1,1.75,3.0,2.375,1,1,1,0,Pendiente,0,1
+EST-DC2816FE89,Ingeniería Industrial,Ingenierías,5,Oficial,238,14,2.5,5,9,4,7,8,7,9,3,27,12,3.2,2.65,2.925,1,0,0,1,Sin liquidación,0,1
+EST-7E501563F1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.5,6,5,5,4,7,8,5,9,29,14,3.5,2.05,2.775,1,0,1,1,Sin liquidación,0,1
+EST-DC7A5F112D,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,280,15,3.1,7,4,2,6,3,3,9,4,19,13,3.05,3.15,3.0999999999999996,0,0,0,0,Pagado,1,0
+EST-AFB88B22D5,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,17,3.5,10,9,7,5,2,7,9,7,25,16,2.7,3.65,3.175,0,0,0,0,Pagado,1,0
+EST-2BE98181A2,Ingeniería Informática,Ingenierías,1,Oficial,322,14,3.8,1,4,0,5,5,4,4,1,14,5,4.65,3.8,4.225,0,0,0,0,Pagado,1,0
+EST-6B56D77509,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,340,16,4.3,9,6,6,6,6,5,13,3,27,16,5.0,4.3,4.65,0,0,0,0,Pagado,1,0
+EST-00C3DCBE9F,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,318,15,3.6,6,8,5,6,6,3,3,5,17,8,2.95,3.5,3.225,0,0,0,0,Pagado,1,0
+EST-B938D82A81,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,268,16,2.9,4,6,10,7,5,6,4,2,17,6,3.4,2.65,3.025,0,0,0,0,Pagado,1,0
+EST-9BDCF40C23,Ingeniería Informática,Ingenierías,2,Privado,264,15,3.2,11,6,1,6,4,4,3,6,17,9,3.55,4.25,3.9,0,0,0,0,Pagado,1,0
+EST-276C4E8DC5,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,263,15,2.6,4,4,4,4,4,1,1,2,8,3,2.45,3.85,3.1500000000000004,0,1,0,0,Pagado,1,0
+EST-8DA75746ED,Ingeniería Informática,Ingenierías,1,Privado,272,17,2.0,2,4,5,4,4,1,7,6,18,13,2.75,1.85,2.3,1,0,1,1,Pendiente,0,1
+EST-3D448B5E55,Psicología,Ciencias Sociales y Humanas,3,Privado,283,15,2.8,9,1,1,2,1,4,2,1,8,3,3.6,3.7,3.6500000000000004,0,1,0,1,Sin liquidación,0,1
+EST-9FC8E27926,Ingeniería Industrial,Ingenierías,3,Oficial,250,16,2.9,3,5,2,5,2,2,6,6,16,12,3.55,3.5,3.525,0,0,0,0,Pagado,1,0
+EST-09964D844A,Ingeniería Informática,Ingenierías,1,Privado,199,17,3.0,7,5,9,7,5,6,14,8,33,22,3.3,3.35,3.325,0,0,0,0,Pagado,1,0
+EST-8A349F09F5,Ingeniería Informática,Ingenierías,2,Privado,299,16,4.2,10,12,10,8,8,6,6,10,30,16,5.0,3.65,4.325,0,0,0,0,Pagado,1,0
+EST-E2DD51A458,Psicología,Ciencias Sociales y Humanas,3,Oficial,312,16,4.2,4,8,5,4,4,4,5,5,18,10,3.6,3.25,3.425,0,0,0,0,Pagado,1,0
+EST-602FE2B8C9,Psicología,Ciencias Sociales y Humanas,2,Privado,304,17,3.4,8,6,8,10,7,6,6,2,21,8,4.1,3.15,3.625,0,0,0,0,Pagado,1,0
+EST-263F4DC31C,Ingeniería Informática,Ingenierías,1,Oficial,340,16,3.6,9,6,6,6,5,8,2,2,17,4,4.95,3.5,4.225,0,0,0,0,Pagado,1,0
+EST-1A6AE3AA39,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,292,15,3.0,4,9,8,7,3,9,4,2,18,6,3.15,2.65,2.9,1,0,1,0,Sin liquidación,0,1
+EST-D7CA6C0DE3,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,306,18,3.0,5,5,3,2,0,3,3,3,9,6,2.8,3.15,2.9749999999999996,1,0,0,0,Pagado,1,0
+EST-CC217133F5,Psicología,Ciencias Sociales y Humanas,2,Oficial,307,18,4.0,2,10,11,8,5,4,12,4,25,16,3.7,3.65,3.675,0,0,0,0,Pagado,1,0
+EST-206D9E08CE,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,18,3.2,5,3,7,3,4,7,3,8,22,11,3.3,2.45,2.875,1,0,0,0,Pagado,1,0
+EST-3B5CC560E8,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,17,2.8,4,1,6,2,4,4,1,1,10,2,3.05,2.2,2.625,1,0,0,0,Sin liquidación,0,1
+EST-F0623F77DB,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,16,3.1,2,2,2,0,2,2,2,2,8,4,2.55,3.4,2.9749999999999996,1,1,0,0,Pagado,1,0
+EST-9E04ADFE98,Ingeniería Industrial,Ingenierías,3,Privado,313,15,4.1,4,2,4,8,7,3,4,9,23,13,5.0,3.35,4.175,0,0,0,0,Pagado,1,0
+EST-BB9A1D9656,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,260,16,2.8,3,6,9,6,4,5,3,8,20,11,2.65,2.85,2.75,1,0,0,1,Pendiente,1,0
+EST-F2CF8116A1,Ingeniería Industrial,Ingenierías,2,Oficial,322,15,3.9,6,7,3,9,0,10,7,5,22,12,3.05,3.1,3.075,0,0,0,1,Pagado,1,0
+EST-7F4BA3903F,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,208,15,2.1,4,1,0,3,0,1,4,4,9,8,1.85,1.8,1.8250000000000002,1,0,0,0,Pagado,1,0
+EST-F2AFC7C32F,Psicología,Ciencias Sociales y Humanas,5,Oficial,227,14,1.6,5,2,2,2,3,3,2,2,10,4,1.6,2.2,1.9000000000000001,1,0,0,0,Pendiente,0,1
+EST-E6285A10F0,Psicología,Ciencias Sociales y Humanas,3,Privado,270,15,3.1,1,3,2,6,6,5,6,2,19,8,2.3,2.9,2.5999999999999996,1,0,0,0,Pagado,1,0
+EST-D3F7ACD157,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,370,16,4.5,3,9,9,12,11,9,12,11,43,23,5.0,5.0,5.0,0,0,0,0,Pagado,1,0
+EST-66C7D1BA10,Ingeniería Industrial,Ingenierías,3,Privado,302,14,3.4,15,6,14,8,10,8,7,9,34,16,4.15,2.45,3.3000000000000003,0,0,0,0,Pagado,1,0
+EST-AAF3C8FA2F,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,324,16,3.8,9,11,11,7,10,4,5,7,26,12,4.15,3.95,4.050000000000001,0,0,0,1,Pagado,1,0
+EST-412CF3FCEE,Psicología,Ciencias Sociales y Humanas,2,Privado,301,15,3.2,5,4,4,4,7,6,1,5,19,6,2.75,3.7,3.225,0,0,0,0,Pagado,1,0
+EST-DA6707D6D0,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,295,14,3.5,2,3,4,6,5,7,3,3,18,6,2.85,2.6,2.725,1,0,0,0,Pagado,1,0
+EST-25F56AFEA5,Ingeniería Informática,Ingenierías,5,Privado,318,16,3.6,8,8,6,9,5,6,2,6,19,8,3.75,3.55,3.65,0,0,0,0,Pagado,1,0
+EST-0BB2D6ACCA,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,15,3.1,0,4,3,3,1,3,7,5,16,12,2.5,2.95,2.725,1,0,0,0,Pagado,1,0
+EST-7E4180466E,Psicología,Ciencias Sociales y Humanas,6,Oficial,391,17,3.8,7,4,3,6,5,7,7,3,22,10,3.8,3.35,3.575,0,0,0,1,Pagado,1,0
+EST-E1D205F397,Psicología,Ciencias Sociales y Humanas,1,Oficial,285,14,3.0,7,7,4,10,5,3,3,9,20,12,2.4,2.4,2.4,1,0,0,1,Pagado,1,0
+EST-005CF3F683,Psicología,Ciencias Sociales y Humanas,1,Oficial,311,16,3.8,4,8,5,8,5,3,2,9,19,11,4.1,4.45,4.275,0,0,0,0,Pagado,1,0
+EST-3C7E2B4D97,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,16,2.9,6,6,4,3,9,4,5,8,26,13,2.6,3.85,3.225,0,0,0,0,Pagado,1,0
+EST-B072A62485,Ingeniería Industrial,Ingenierías,1,Oficial,282,14,3.7,3,9,9,5,7,8,7,7,29,14,2.85,3.95,3.4000000000000004,0,0,0,0,Pagado,1,0
+EST-C3A5F2B467,Ingeniería Informática,Ingenierías,2,Privado,330,17,4.7,4,7,7,8,7,8,11,7,33,18,5.0,4.4,4.7,0,0,0,0,Pagado,1,0
+EST-A86CB5BB60,Psicología,Ciencias Sociales y Humanas,4,Privado,198,18,2.9,6,4,3,5,5,3,2,5,15,7,2.85,2.25,2.55,1,0,0,0,Pagado,1,0
+EST-D28262604E,Psicología,Ciencias Sociales y Humanas,2,Oficial,372,18,4.4,7,10,2,3,5,4,6,4,19,10,5.0,3.95,4.475,0,0,0,0,Pagado,1,0
+EST-3C5145B6A6,Ingeniería Informática,Ingenierías,3,Oficial,324,17,3.4,1,3,11,7,10,6,7,6,29,13,3.5,3.9,3.7,0,0,0,0,Pagado,1,0
+EST-385B5C6539,Ingeniería Informática,Ingenierías,2,Oficial,334,15,4.7,8,9,8,13,16,9,9,5,39,14,4.55,5.0,4.775,0,0,0,0,Pagado,1,0
+EST-3561254417,Psicología,Ciencias Sociales y Humanas,3,Oficial,328,16,3.6,4,9,9,9,12,4,4,8,28,12,2.95,3.4,3.175,0,0,0,0,Pagado,1,0
+EST-AAC8D1C1FF,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,296,17,2.9,3,10,3,8,11,7,3,10,31,13,3.3,2.15,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-903139538D,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,246,16,3.3,3,7,6,4,3,4,5,4,16,9,3.15,3.5,3.325,0,0,0,0,Pagado,1,0
+EST-41B75F5DE5,Ingeniería Informática,Ingenierías,1,Oficial,338,14,3.5,3,4,8,7,19,7,4,5,35,9,2.9,3.45,3.175,0,0,0,1,Sin liquidación,0,1
+EST-7C1E725A9E,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,16,3.0,8,7,4,6,11,6,6,6,29,12,2.25,3.45,2.85,1,0,0,0,Pagado,1,0
+EST-7858F937B7,Ingeniería Informática,Ingenierías,3,Privado,282,18,3.1,1,1,3,5,0,4,4,5,13,9,3.3,3.25,3.275,0,0,0,0,Pagado,1,0
+EST-C15B62FBD7,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,318,14,3.2,6,3,4,3,4,5,6,5,20,11,4.05,2.75,3.4,0,0,0,0,Pagado,1,0
+EST-41F3E30E99,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,403,14,3.9,4,5,7,9,8,7,5,8,28,13,4.2,5.0,4.6,0,0,0,0,Pagado,1,0
+EST-460275F47B,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,18,2.3,3,5,3,7,6,10,7,5,28,12,2.4,1.9,2.15,1,0,0,0,Pagado,1,0
+EST-C82A0F688D,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,231,15,2.7,5,1,0,4,0,0,0,0,0,0,1.95,3.05,2.5,1,1,0,1,Pendiente,0,1
+EST-1B57DB69B8,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,298,15,3.7,10,11,10,12,7,8,10,7,32,17,4.5,3.9,4.2,0,0,0,0,Pagado,1,0
+EST-64451822DA,Ingeniería Informática,Ingenierías,3,Privado,180,17,2.1,5,2,0,2,5,4,4,1,14,5,1.7,2.05,1.875,1,0,0,0,Pagado,1,0
+EST-E8E482A921,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,218,18,3.0,7,3,6,4,11,8,7,6,32,13,2.6,2.5,2.55,1,0,0,0,Pagado,1,0
+EST-21EEBABB20,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,319,16,4.2,6,10,13,9,10,9,8,11,38,19,3.5,4.05,3.775,0,0,0,0,Pagado,1,0
+EST-0ED637CAAA,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,287,17,2.6,1,2,2,5,4,4,3,2,13,5,2.95,1.8,2.375,1,0,0,0,Pagado,1,0
+EST-4D4FAC7F68,Ingeniería Informática,Ingenierías,3,Oficial,260,17,2.9,5,8,5,5,5,9,5,7,26,12,3.25,1.9,2.575,1,0,0,0,Pagado,1,0
+EST-CD3929AA67,Ingeniería Industrial,Ingenierías,1,Oficial,206,14,2.1,0,0,0,1,1,0,0,0,1,0,1.7,2.0,1.85,1,1,1,0,Pendiente,0,1
+EST-0B38C63D24,Psicología,Ciencias Sociales y Humanas,3,Oficial,199,16,3.0,2,5,9,5,1,4,3,7,15,10,4.05,2.55,3.3,0,0,0,0,Pagado,1,0
+EST-806AE1B838,Ingeniería Informática,Ingenierías,3,Oficial,332,15,3.4,5,7,6,9,4,10,6,8,28,14,4.35,4.1,4.225,0,0,0,0,Pagado,1,0
+EST-09E53C7375,Ingeniería Informática,Ingenierías,3,Oficial,318,18,3.6,7,11,7,8,9,7,8,13,37,21,3.6,2.85,3.225,0,0,0,0,Pagado,1,0
+EST-D0945733AC,Ingeniería Industrial,Ingenierías,2,Oficial,353,18,3.3,1,3,3,3,3,10,4,4,21,8,4.2,3.05,3.625,0,0,0,0,Pagado,1,0
+EST-9AEA9FC018,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,363,15,3.3,2,1,3,4,1,3,1,1,6,2,3.4,3.65,3.525,0,1,0,0,Pendiente,1,0
+EST-093D6F9879,Ingeniería Industrial,Ingenierías,3,Oficial,317,14,3.6,7,4,4,9,8,7,5,2,22,7,3.0,5.0,4.0,0,0,0,0,Pagado,1,0
+EST-72AF2649A7,Psicología,Ciencias Sociales y Humanas,1,Privado,248,15,2.4,5,1,1,2,2,7,2,3,14,5,2.25,3.65,2.95,1,0,0,0,Pagado,1,0
+EST-6EE8C3AF6D,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,17,3.8,17,7,8,10,17,8,7,13,45,20,3.5,4.0,3.75,0,0,0,0,Pagado,1,0
+EST-9383241CC6,Psicología,Ciencias Sociales y Humanas,2,Privado,357,15,3.3,7,4,8,5,4,5,7,6,22,13,3.3,3.65,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-77DB5FF372,Psicología,Ciencias Sociales y Humanas,1,Privado,300,14,3.3,10,6,5,5,2,1,4,5,12,9,3.55,3.85,3.7,0,0,0,0,Pagado,1,0
+EST-AA2241DBD7,Psicología,Ciencias Sociales y Humanas,2,Oficial,232,16,3.4,3,2,8,5,7,2,3,3,15,6,3.15,3.9,3.525,0,0,0,0,Pagado,1,0
+EST-42CF1D2822,Ingeniería Informática,Ingenierías,2,Oficial,279,16,3.0,3,2,7,5,8,4,6,8,26,14,2.0,2.9,2.45,1,0,0,0,Pagado,1,0
+EST-A300B2AF64,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,254,18,3.2,6,4,3,1,4,6,1,7,18,8,2.55,3.9,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-BEFFD227F2,Psicología,Ciencias Sociales y Humanas,3,Oficial,194,18,3.3,6,4,6,6,8,3,11,3,25,14,2.25,2.75,2.5,1,0,0,0,Pagado,1,0
+EST-D2A0DE1C48,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,316,15,3.8,5,8,10,4,6,7,7,6,26,13,3.05,4.05,3.55,0,0,0,0,Pendiente,1,0
+EST-8ED4FAE555,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,15,2.9,6,5,2,4,1,5,9,8,23,17,3.5,3.1,3.3,0,0,0,0,Pagado,1,0
+EST-F248DE8406,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,355,17,3.6,8,9,7,4,3,2,5,7,17,12,4.05,2.8,3.425,0,0,0,0,Pagado,1,0
+EST-541D253C73,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,277,18,3.6,6,5,4,3,5,3,3,3,14,6,3.25,2.9,3.075,0,0,0,0,Pagado,1,0
+EST-D4E186E181,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,300,15,,6,1,4,8,5,3,5,3,16,8,1.75,2.45,2.1,1,0,0,1,Pagado,1,0
+EST-7E826B6E84,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,15,3.8,2,5,8,8,3,5,9,7,24,16,3.8,4.45,4.125,0,0,0,0,Pagado,1,0
+EST-8373F33646,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,311,18,2.7,3,4,6,1,3,5,4,3,15,7,2.85,2.15,2.5,1,0,0,0,Pagado,1,0
+EST-87FD493CEA,Psicología,Ciencias Sociales y Humanas,1,Oficial,303,14,3.3,6,2,8,6,8,10,11,8,37,19,3.45,3.7,3.575,0,0,0,0,Pagado,1,0
+EST-AB12220714,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,297,18,3.1,9,5,3,6,6,7,1,4,18,5,1.95,3.35,2.65,1,0,0,0,Pagado,1,0
+EST-3530F8F294,Ingeniería Informática,Ingenierías,1,Privado,310,17,3.7,5,5,7,5,5,5,5,4,19,9,3.75,4.0,3.875,0,0,0,0,Pendiente,1,0
+EST-411AB8C627,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,291,15,3.9,5,13,3,6,6,7,8,6,27,14,2.8,3.55,3.175,0,0,0,0,Pagado,1,0
+EST-EFCA839CA1,Psicología,Ciencias Sociales y Humanas,4,Oficial,256,17,2.4,3,3,3,3,1,2,3,2,8,5,3.5,2.7,3.1,0,1,0,0,Pagado,1,0
+EST-84EC3FF7B7,Psicología,Ciencias Sociales y Humanas,5,Privado,221,16,2.7,6,7,6,4,4,6,3,3,16,6,2.8,3.2,3.0,0,0,0,0,Pagado,1,0
+EST-B081BCA00B,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,294,17,4.2,8,10,7,6,9,14,7,6,36,13,4.35,4.8,4.574999999999999,0,0,0,0,Pagado,1,0
+EST-1FAD062DDE,Ingeniería Industrial,Ingenierías,3,Oficial,253,18,3.7,7,8,12,9,6,4,11,14,35,25,3.85,3.4,3.625,0,0,0,0,Pagado,1,0
+EST-8DE1908381,Ingeniería Informática,Ingenierías,3,Privado,304,17,4.4,7,7,7,9,3,10,4,5,22,9,4.5,4.4,4.45,0,0,0,0,Pagado,1,0
+EST-EB7A18D8DE,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,290,15,3.8,10,5,9,9,6,12,7,12,37,19,3.85,2.85,3.35,0,0,0,0,Pagado,1,0
+EST-FAD194052A,Ingeniería Industrial,Ingenierías,6,Oficial,339,17,3.8,3,4,9,6,9,10,5,6,30,11,4.25,2.8,3.525,0,0,0,0,Pagado,1,0
+EST-582BBDEF7F,Ingeniería Industrial,Ingenierías,5,Oficial,310,14,3.9,5,7,8,15,8,4,6,3,21,9,5.0,2.75,3.875,0,0,0,0,Pendiente,1,0
+EST-8825D3DD68,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,321,15,3.3,4,4,6,4,5,9,5,6,25,11,3.05,2.9,2.9749999999999996,1,0,0,0,Pagado,1,0
+EST-23956BE337,Psicología,Ciencias Sociales y Humanas,3,Oficial,227,14,3.7,5,3,5,8,6,2,5,7,20,12,2.45,3.5,2.975,1,0,0,0,Pagado,1,0
+EST-175EFADF04,Ingeniería Informática,Ingenierías,2,Oficial,293,17,3.2,3,3,2,7,5,7,8,8,28,16,3.5,3.15,3.325,0,0,0,0,Pagado,1,0
+EST-CFD2D67A4D,Ingeniería Informática,Ingenierías,3,Privado,352,16,3.8,7,4,8,9,9,2,8,6,25,14,4.1,3.95,4.025,0,0,0,0,Sin liquidación,0,1
+EST-EFC6108C77,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,294,14,2.9,4,1,1,3,0,0,0,1,1,1,3.8,2.5,3.15,0,1,0,0,Anulado,0,1
+EST-E04E0BC7EC,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,266,15,4.4,11,8,14,8,7,8,6,15,36,21,3.6,4.0,3.8,0,0,0,0,Pendiente,0,1
+EST-1B1693A457,Psicología,Ciencias Sociales y Humanas,1,Privado,344,18,3.4,9,4,6,4,2,4,5,6,17,11,3.75,3.85,3.8,0,0,0,1,Pagado,1,0
+EST-A1037C611A,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,260,16,3.4,8,5,4,5,8,8,5,7,28,12,4.4,2.75,3.575,0,0,0,0,Pagado,1,0
+EST-E7B3AF97FE,Psicología,Ciencias Sociales y Humanas,1,Oficial,242,14,3.2,4,5,7,6,4,7,4,7,22,11,3.0,2.65,2.825,1,0,0,0,Pagado,1,0
+EST-36EAB312F8,Ingeniería Industrial,Ingenierías,2,Oficial,221,18,4.0,3,8,9,4,4,6,5,9,24,14,3.95,4.25,4.1,0,0,0,0,Pagado,1,0
+EST-AD20EC1E7C,Ingeniería Informática,Ingenierías,2,Oficial,285,18,2.9,3,3,1,1,0,1,0,0,1,0,3.05,3.7,3.375,1,1,1,0,Anulado,0,1
+EST-19C17DAD36,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,248,18,3.3,7,5,4,5,7,3,6,2,18,8,3.4,3.45,3.425,0,0,0,0,Pagado,1,0
+EST-54CF01EB36,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,232,14,2.5,2,1,2,0,1,1,1,2,5,3,2.25,1.65,1.95,1,1,1,0,Anulado,0,1
+EST-313B6FF12F,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,452,17,4.6,11,14,9,9,11,16,5,7,39,12,4.1,4.25,4.175,0,0,0,0,Pagado,1,0
+EST-9EAFC0DA8F,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,17,4.2,7,9,8,8,9,14,8,8,39,16,4.5,4.5,4.5,0,0,0,0,Pagado,1,0
+EST-C8CE90AF1D,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,315,14,3.9,7,9,6,12,10,6,5,9,30,14,4.3,3.25,3.775,0,0,0,0,Pagado,1,0
+EST-815B370CCA,Psicología,Ciencias Sociales y Humanas,4,Oficial,218,16,3.3,4,2,7,8,10,6,5,3,24,8,2.95,2.3,2.625,1,0,0,0,Pagado,1,0
+EST-C879D3A343,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,263,17,4.0,7,6,6,2,8,6,4,2,20,6,4.9,3.5,4.2,0,0,0,0,Pagado,1,0
+EST-8F4AC98C4D,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,0,3,4,3,2,3,1,2,8,3,3.2,2.8,3.0,0,1,0,0,Pagado,1,0
+EST-2D7B6B375F,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,238,15,3.8,10,8,5,8,4,9,6,8,27,14,3.85,3.6,3.725,0,0,0,0,Pagado,1,0
+EST-CD082F434A,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,260,14,3.9,8,9,8,4,6,5,5,5,21,10,3.6,4.65,4.125,0,0,0,1,Pagado,1,0
+EST-85E8B80314,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,229,18,2.2,2,2,3,2,3,5,5,3,16,8,1.55,2.3,1.9249999999999998,1,0,0,0,Pagado,1,0
+EST-0E02603F30,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,320,17,4.3,4,8,8,7,0,1,0,0,1,0,3.65,3.75,3.7,1,1,0,1,Sin liquidación,0,1
+EST-796A0C4FF0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,345,15,3.3,3,1,5,2,2,7,6,3,18,9,3.55,2.95,3.25,0,0,0,0,Pagado,1,0
+EST-71E6243324,Psicología,Ciencias Sociales y Humanas,2,Privado,326,18,3.7,8,4,6,4,10,11,8,12,41,20,3.35,4.95,4.15,0,0,0,0,Pagado,1,0
+EST-A92AC956DE,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,245,14,2.9,1,5,4,5,1,1,2,2,6,4,2.85,3.4,3.125,0,1,0,1,Pendiente,0,1
+EST-DD1669789B,Psicología,Ciencias Sociales y Humanas,3,Privado,194,18,3.1,8,2,4,1,3,3,9,6,21,15,2.05,2.25,2.15,1,0,0,1,Pagado,1,0
+EST-9A3CC79813,Psicología,Ciencias Sociales y Humanas,4,Oficial,316,16,4.0,3,9,5,6,7,9,7,8,31,15,3.45,5.0,4.225,0,0,0,0,Pagado,1,0
+EST-E610416B4C,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,345,18,4.1,3,17,11,3,4,6,4,3,17,7,4.1,4.7,4.4,0,0,0,0,Pagado,1,0
+EST-B8CA19427A,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,257,16,3.2,5,6,11,10,9,9,10,9,37,19,3.9,2.75,3.325,0,0,0,0,Pagado,1,0
+EST-F72DDF2E4B,Psicología,Ciencias Sociales y Humanas,2,Privado,266,18,2.4,2,2,4,1,1,0,1,0,2,1,2.2,2.65,2.425,1,1,0,1,Anulado,0,1
+EST-5DA032A328,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,305,16,3.6,5,8,8,11,6,4,5,7,22,12,3.65,3.7,3.675,0,0,0,0,Pagado,1,0
+EST-98B563D897,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,284,16,2.8,4,3,2,1,1,3,1,2,7,3,3.4,1.7,2.55,1,1,0,0,Pagado,1,0
+EST-EACBD419B5,Ingeniería Industrial,Ingenierías,6,Oficial,307,16,3.0,5,0,4,3,5,2,2,5,14,7,3.8,3.45,3.625,0,0,0,0,Pagado,1,0
+EST-EF157247E5,Psicología,Ciencias Sociales y Humanas,1,Privado,255,15,3.3,5,8,8,1,6,9,4,5,24,9,2.65,3.45,3.05,0,0,0,0,Pagado,1,0
+EST-E9CDAAF7FC,Psicología,Ciencias Sociales y Humanas,1,Oficial,302,16,3.0,1,5,4,3,1,1,3,3,8,6,3.95,3.4,3.675,0,1,0,0,Pagado,1,0
+EST-31EE0D74D4,Psicología,Ciencias Sociales y Humanas,1,Privado,336,15,4.2,2,7,8,3,13,7,8,8,36,16,3.95,3.8,3.875,0,0,1,0,Pendiente,0,1
+EST-F6F8B9F924,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,357,15,3.9,6,3,6,5,6,6,4,7,23,11,3.6,4.1,3.8499999999999996,0,0,0,0,Pagado,1,0
+EST-C2B829C566,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.8,5,13,11,8,4,6,7,8,25,15,3.6,2.85,3.225,0,0,0,0,Pagado,1,0
+EST-04E1DAFC31,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,344,17,3.2,1,2,4,3,4,4,2,1,11,3,3.05,3.7,3.375,0,0,0,0,Pagado,1,0
+EST-A7467C288C,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,322,14,3.6,10,7,8,4,9,11,4,6,30,10,3.65,3.1,3.375,0,0,0,0,Pagado,1,0
+EST-024D903C81,Ingeniería Informática,Ingenierías,3,Privado,211,16,2.8,4,4,5,2,4,2,3,7,16,10,2.25,3.2,2.725,1,0,0,0,Pagado,1,0
+EST-6513C52D28,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,252,18,3.2,7,4,4,3,3,4,4,3,14,7,2.3,3.25,2.775,1,0,0,0,Pagado,1,0
+EST-FAD45AE8A6,Ingeniería Industrial,Ingenierías,3,Privado,331,15,3.5,6,4,4,2,1,7,1,3,12,4,3.5,3.45,3.475,0,0,0,0,Pagado,1,0
+EST-29A8E8CADA,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,246,18,2.4,1,4,2,1,2,0,3,1,6,4,2.55,2.6,2.575,1,1,0,0,Pendiente,0,1
+EST-B344A91895,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,290,15,3.0,5,2,11,4,2,4,2,2,10,4,2.5,3.7,3.1,0,0,0,1,Pagado,1,0
+EST-BD0F46959F,Ingeniería Industrial,Ingenierías,2,Privado,269,16,3.5,6,2,6,3,6,6,4,4,20,8,3.55,3.8,3.675,0,0,0,0,Pagado,1,0
+EST-998CF80FF9,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,356,15,4.2,7,8,4,10,8,8,7,10,33,17,5.0,4.1,4.55,0,0,0,0,Pagado,1,0
+EST-FC2686AEED,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,290,14,2.7,6,5,8,6,5,7,7,6,25,13,1.5,2.6,2.05,1,0,0,0,Pagado,1,0
+EST-0E08C88FD7,Ingeniería Informática,Ingenierías,2,Oficial,307,18,4.1,8,9,9,6,10,4,3,4,21,7,4.05,4.3,4.175,0,0,0,0,Pagado,1,0
+EST-0CCAF78340,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,348,14,3.1,7,7,3,4,8,7,1,5,21,6,2.75,3.5,3.125,0,0,0,0,Pagado,1,0
+EST-80D76FFB79,Ingeniería Industrial,Ingenierías,3,Oficial,339,15,3.7,9,8,4,5,4,6,2,6,18,8,3.9,4.65,4.275,0,0,0,0,Pagado,1,0
+EST-FE7F3C143E,Ingeniería Informática,Ingenierías,3,Privado,269,14,2.9,4,5,2,5,5,4,2,5,16,7,4.65,2.2,3.4250000000000003,0,0,0,0,Pagado,1,0
+EST-853A50196B,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,270,14,2.6,3,1,1,1,0,1,0,3,4,3,2.35,2.35,2.35,1,1,0,0,Pagado,1,0
+EST-68D56EBA33,Ingeniería Industrial,Ingenierías,3,Oficial,328,17,4.1,9,9,3,3,1,7,4,8,20,12,3.55,4.85,4.199999999999999,0,0,0,0,Pagado,1,0
+EST-240961135F,Psicología,Ciencias Sociales y Humanas,1,Oficial,308,16,,7,4,7,8,8,11,3,9,31,12,4.1,4.2,4.15,0,0,0,0,Pagado,1,0
+EST-655911DB2C,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,367,14,3.7,7,7,8,4,6,7,3,5,21,8,3.3,3.65,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-36E7339F1A,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,289,14,2.8,3,5,4,4,6,4,8,1,19,9,2.95,2.7,2.825,1,0,0,0,Pagado,1,0
+EST-13FCBB2EFE,Ingeniería Industrial,Ingenierías,2,Oficial,269,15,2.2,6,4,6,2,4,2,3,3,12,6,1.55,2.1,1.8250000000000002,1,0,0,0,Pagado,1,0
+EST-A63A799A60,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,14,3.4,5,8,8,1,5,5,4,6,20,10,3.1,2.3,2.7,1,0,0,0,Pagado,1,0
+EST-45396D1310,Ingeniería Informática,Ingenierías,3,Oficial,298,14,3.8,5,5,6,3,9,3,6,12,30,18,3.45,3.8,3.625,0,0,0,0,Pagado,1,0
+EST-A6DA8D4084,Ingeniería Industrial,Ingenierías,5,Oficial,353,14,4.2,6,3,7,1,4,8,8,4,24,12,3.9,4.55,4.225,0,0,0,0,Pagado,1,0
+EST-A336069408,Ingeniería Informática,Ingenierías,1,Privado,334,18,3.6,6,8,7,7,4,12,4,6,26,10,3.85,3.3,3.575,0,0,0,0,Pagado,1,0
+EST-46A58D4576,Ingeniería Industrial,Ingenierías,4,Oficial,298,14,3.9,9,5,6,5,4,9,6,4,23,10,3.55,3.65,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-592D8F014C,Ingeniería Informática,Ingenierías,3,Oficial,376,17,3.7,9,5,4,6,5,4,5,9,23,14,1.9,4.8,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-BF8155ACBA,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,319,17,3.6,9,4,6,5,4,10,4,12,30,16,3.85,3.85,3.85,0,0,0,0,Sin liquidación,0,1
+EST-44A12DAE79,Ingeniería Informática,Ingenierías,3,Privado,292,18,3.2,3,2,0,0,3,2,5,1,11,6,3.0,4.15,3.575,0,0,0,1,Pagado,1,0
+EST-906F1EE53B,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,245,14,2.7,3,4,9,5,6,4,10,5,25,15,3.45,2.0,2.725,1,0,0,0,Pagado,1,0
+EST-0709BF5F03,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,266,14,4.2,4,8,3,9,8,5,10,4,27,14,4.3,4.25,4.275,0,0,0,0,Pagado,1,0
+EST-C265580D5C,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,292,17,3.5,9,3,5,11,4,9,8,5,26,13,3.55,3.9,3.7249999999999996,0,0,0,0,Pagado,1,0
+EST-160E09070B,Ingeniería Industrial,Ingenierías,1,Oficial,261,15,3.3,9,8,4,6,4,5,5,5,19,10,3.7,3.8,3.75,0,0,0,0,Pagado,1,0
+EST-F0BE76231E,Ingeniería Informática,Ingenierías,2,Oficial,206,18,2.8,5,9,6,7,6,7,6,5,24,11,1.8,2.5,2.15,1,0,0,0,Pagado,1,0
+EST-8DCAE92F7B,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,16,4.5,13,8,8,4,3,5,9,10,27,19,5.0,4.55,4.775,0,0,0,0,Pendiente,1,0
+EST-CD8DD9BE56,Psicología,Ciencias Sociales y Humanas,3,Privado,255,14,,3,2,1,1,3,1,2,1,7,3,2.9,2.2,2.55,1,1,1,0,Pendiente,0,1
+EST-258654020E,Psicología,Ciencias Sociales y Humanas,3,Privado,267,15,2.6,4,8,3,4,3,3,3,0,9,3,1.95,2.1,2.025,1,0,0,0,Pagado,1,0
+EST-88B6493CCC,Ingeniería Industrial,Ingenierías,2,Privado,310,17,3.6,15,5,4,7,7,8,12,4,31,16,4.05,4.1,4.074999999999999,0,0,0,0,Pagado,1,0
+EST-29B3EB6519,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,338,16,4.4,9,9,6,7,15,10,7,7,39,14,3.9,4.05,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-69D00FA3B2,Ingeniería Industrial,Ingenierías,2,Privado,319,17,3.5,2,1,3,1,5,1,2,5,13,7,3.45,3.25,3.35,0,0,0,0,Pagado,1,0
+EST-F041833A5C,Ingeniería Industrial,Ingenierías,2,Oficial,220,16,2.7,2,4,3,6,1,5,0,0,6,0,2.4,1.65,2.025,1,1,0,0,Sin liquidación,0,1
+EST-96878035B7,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,17,3.9,9,10,4,8,6,9,10,15,40,25,2.55,4.2,3.375,0,0,0,0,Pagado,1,0
+EST-9BB737D263,Ingeniería Informática,Ingenierías,2,Oficial,226,15,2.6,9,6,5,4,2,8,7,6,23,13,1.9,3.45,2.675,1,0,0,0,Pendiente,1,0
+EST-AC05C59291,Ingeniería Informática,Ingenierías,3,Oficial,273,17,2.8,5,4,4,3,8,2,6,2,18,8,3.75,3.1,3.425,0,0,1,0,Sin liquidación,0,1
+EST-97450E4857,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,2.5,3,0,4,3,1,0,0,0,1,0,2.75,2.5,2.625,1,1,0,0,Anulado,0,1
+EST-2D3F175868,Ingeniería Industrial,Ingenierías,4,Privado,282,17,3.1,8,5,4,3,9,5,8,7,29,15,3.9,3.3,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-5D347EFFE0,Ingeniería Informática,Ingenierías,5,Privado,273,18,3.1,7,7,3,2,5,10,7,6,28,13,2.5,2.8,2.65,1,0,0,1,Pagado,1,0
+EST-87717E5298,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,235,14,2.7,5,7,3,4,9,5,4,6,24,10,1.4,2.85,2.125,1,0,0,0,Pagado,1,0
+EST-110BDCCAA4,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,16,4.7,8,5,7,10,3,5,5,7,20,12,4.3,4.25,4.275,0,0,0,0,Pagado,1,0
+EST-1BBA11B037,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,309,15,3.2,4,5,11,4,5,7,3,12,27,15,3.15,3.4,3.275,0,0,0,0,Pagado,1,0
+EST-F130FA4B86,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,382,18,5.0,4,9,6,12,5,9,10,7,31,17,5.0,5.0,5.0,0,0,0,0,Pagado,1,0
+EST-B1341AEC90,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,238,15,2.4,3,8,0,1,3,6,3,3,15,6,2.2,2.0,2.1,1,0,1,1,Pendiente,0,1
+EST-0B4CC34358,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,15,3.1,6,2,5,4,3,1,8,9,21,17,3.65,2.75,3.2,0,0,0,0,Pendiente,1,0
+EST-C489DFE236,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,266,14,3.1,0,5,4,2,1,3,6,2,12,8,2.95,3.1,3.0250000000000004,0,0,0,1,Pendiente,0,1
+EST-2F18837D0F,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,248,14,2.3,5,3,1,2,4,0,2,0,6,2,1.45,2.55,2.0,1,1,1,0,Sin liquidación,0,1
+EST-B2C05E9ECC,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,293,14,4.0,7,6,9,8,14,10,10,11,45,21,3.75,3.9,3.825,0,0,0,0,Pagado,1,0
+EST-ABF9B6B41A,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,14,2.6,3,3,1,2,2,1,1,1,5,2,1.9,2.85,2.375,1,1,0,1,Pagado,1,0
+EST-25A987285F,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,334,18,3.2,5,15,6,12,12,6,12,2,32,14,2.9,2.25,2.575,1,0,1,0,Sin liquidación,0,1
+EST-4460120677,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,281,17,3.5,3,3,4,4,6,4,4,5,19,9,4.35,4.55,4.449999999999999,0,0,0,0,Pagado,1,0
+EST-70B63A17E0,Ingeniería Informática,Ingenierías,6,Oficial,294,16,3.1,0,0,2,0,2,2,1,1,6,2,4.15,3.35,3.75,0,1,0,0,Pagado,1,0
+EST-5A197F9147,Ingeniería Industrial,Ingenierías,2,Privado,306,17,,9,6,6,8,6,7,6,3,22,9,3.3,3.15,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-949E3C3731,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,17,4.3,8,8,5,12,6,4,6,9,25,15,3.35,4.2,3.7750000000000004,0,0,0,0,Pagado,1,0
+EST-0BEF8E6AFA,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,328,16,3.0,9,9,4,9,9,8,4,13,34,17,3.05,2.4,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-32CBC0519D,Psicología,Ciencias Sociales y Humanas,3,Privado,268,18,3.6,4,8,7,4,6,5,5,5,21,10,2.75,4.1,3.425,0,0,0,0,Pagado,1,0
+EST-720BDB0263,Ingeniería Industrial,Ingenierías,3,Oficial,256,15,3.4,8,3,8,7,3,4,6,5,18,11,2.35,3.1,2.725,1,0,0,0,Pagado,1,0
+EST-DE2D800032,Ingeniería Industrial,Ingenierías,1,Oficial,297,15,3.0,7,5,1,12,5,5,10,2,22,12,3.3,3.1,3.2,0,0,0,0,Pagado,1,0
+EST-F0A8EF47BA,Ingeniería Informática,Ingenierías,1,Oficial,299,16,3.5,9,2,9,5,2,5,7,5,19,12,3.6,4.45,4.025,0,0,0,0,Pagado,1,0
+EST-1CB574441F,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,316,14,4.5,5,9,4,6,12,10,6,7,35,13,4.5,4.35,4.425,0,0,0,0,Pagado,1,0
+EST-061CAF7B25,Ingeniería Informática,Ingenierías,4,Privado,280,16,3.6,9,12,3,11,3,2,10,8,23,18,3.9,3.45,3.675,0,0,0,0,Pendiente,1,0
+EST-5703C23E0D,Ingeniería Industrial,Ingenierías,4,Oficial,313,14,3.8,6,5,4,7,7,1,6,8,22,14,4.25,4.25,4.25,0,0,0,0,Pagado,1,0
+EST-671DF3C416,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,358,17,3.6,5,5,2,3,5,4,4,6,19,10,3.15,3.45,3.3,0,0,0,0,Pagado,1,0
+EST-A0B360FFCF,Psicología,Ciencias Sociales y Humanas,5,Privado,259,17,3.0,3,5,4,0,4,6,1,3,14,4,3.1,3.25,3.175,0,0,0,0,Pagado,1,0
+EST-BBF022F9D1,Ingeniería Informática,Ingenierías,3,Privado,271,17,2.1,2,4,2,6,0,3,3,0,6,3,0.8,2.0,1.4,1,1,0,0,Pagado,1,0
+EST-B2279DF5F8,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,258,17,3.5,7,5,4,4,4,4,6,6,20,12,4.15,2.95,3.5500000000000003,0,0,0,0,Pagado,1,0
+EST-66819995AD,Psicología,Ciencias Sociales y Humanas,5,Oficial,313,15,3.4,3,2,7,3,5,5,0,3,13,3,3.85,4.1,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-59BF703FC2,Ingeniería Informática,Ingenierías,3,Oficial,308,14,2.7,4,3,4,6,4,6,2,3,15,5,1.95,2.35,2.15,1,0,0,0,Pagado,1,0
+EST-08B5858903,Ingeniería Informática,Ingenierías,3,Oficial,339,16,3.7,3,3,3,2,3,8,2,5,18,7,3.35,4.05,3.7,0,0,0,0,Pagado,1,0
+EST-F5A6535E04,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,284,17,3.5,5,4,5,7,4,3,7,8,22,15,3.6,4.35,3.9749999999999996,0,0,1,1,Sin liquidación,0,1
+EST-EA2F32ED5A,Ingeniería Industrial,Ingenierías,2,Privado,321,14,3.6,3,6,10,5,6,5,8,11,30,19,4.0,4.6,4.3,0,0,0,0,Pagado,1,0
+EST-4305F9734C,Ingeniería Informática,Ingenierías,3,Oficial,366,14,4.1,7,3,18,12,9,8,8,10,35,18,3.5,3.55,3.525,0,0,0,0,Pagado,1,0
+EST-978DF56AFF,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,266,16,3.1,7,2,5,5,7,7,6,4,24,10,4.15,4.3,4.225,0,0,0,0,Pagado,1,0
+EST-D13310FDB4,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,354,17,2.9,6,3,2,4,5,3,1,7,16,8,2.65,1.45,2.05,1,0,0,0,Pagado,1,0
+EST-89AF5AD502,Ingeniería Informática,Ingenierías,4,Privado,316,16,3.6,4,0,5,2,1,3,2,9,15,11,3.55,3.45,3.5,0,0,0,0,Pagado,1,0
+EST-B43B347174,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,259,14,3.0,1,2,4,4,4,3,3,4,14,7,2.45,4.1,3.275,0,0,1,0,Sin liquidación,0,1
+EST-46D3C79A3C,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,279,15,4.0,8,11,4,7,6,9,8,12,35,20,4.9,3.85,4.375,0,0,0,0,Pagado,1,0
+EST-072D803326,Ingeniería Informática,Ingenierías,4,Privado,305,14,3.4,8,6,3,9,7,3,7,7,24,14,3.05,3.8,3.425,0,0,0,0,Pagado,1,0
+EST-61706C7D95,Ingeniería Informática,Ingenierías,2,Oficial,262,15,3.4,3,3,5,2,4,4,3,6,17,9,3.0,2.7,2.85,1,0,0,0,Pendiente,0,1
+EST-B33F9245EA,Ingeniería Industrial,Ingenierías,2,Privado,230,17,3.0,2,1,1,3,0,0,0,0,0,0,3.9,2.85,3.375,1,1,0,0,Sin liquidación,0,1
+EST-9FC6B51293,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,283,14,3.4,5,6,4,4,5,2,12,7,26,19,3.5,3.75,3.625,0,0,0,0,Pagado,1,0
+EST-71A5121045,Psicología,Ciencias Sociales y Humanas,1,Privado,254,14,3.7,4,6,10,6,7,11,6,9,33,15,3.55,3.75,3.65,0,0,0,0,Pagado,1,0
+EST-BFF39BB4D7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,309,17,3.3,10,6,4,5,10,8,5,8,31,13,3.7,2.85,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-5545BABB66,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,232,18,2.6,7,7,6,11,7,0,0,0,7,0,2.3,2.95,2.625,1,1,0,0,Sin liquidación,0,1
+EST-C69CE1EB4B,Ingeniería Informática,Ingenierías,2,Oficial,298,16,3.0,7,2,1,2,4,5,5,3,17,8,3.2,3.55,3.375,0,0,0,1,Pendiente,1,0
+EST-34ECFED248,Ingeniería Informática,Ingenierías,2,Oficial,223,14,2.9,2,3,3,2,9,2,5,4,20,9,2.45,2.95,2.7,1,0,0,0,Pagado,1,0
+EST-EF77FB1CAF,Ingeniería Industrial,Ingenierías,5,Privado,245,15,,4,1,3,4,3,0,2,2,7,4,0.05,0.8,0.42500000000000004,1,1,0,0,Pagado,1,0
+EST-86AF925361,Ingeniería Industrial,Ingenierías,3,Privado,289,18,4.0,2,5,7,5,4,5,10,3,22,13,4.85,3.25,4.05,0,0,0,0,Pagado,1,0
+EST-FF85C48355,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,14,2.8,5,2,1,7,3,3,2,1,9,3,2.45,2.45,2.45,1,0,0,1,Pendiente,0,1
+EST-E2E3B9A576,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,282,15,3.3,1,2,1,1,1,2,5,0,8,5,3.6,3.85,3.725,0,1,0,0,Pagado,1,0
+EST-3EB298448F,Ingeniería Industrial,Ingenierías,3,Privado,261,14,3.3,2,6,5,7,4,3,5,4,16,9,3.55,3.9,3.7249999999999996,0,0,0,1,Pagado,1,0
+EST-6F1B494DC9,Psicología,Ciencias Sociales y Humanas,3,Oficial,286,14,3.0,2,0,5,6,1,1,7,3,12,10,3.25,2.5,2.875,1,0,0,0,Pagado,1,0
+EST-DAF478D462,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,288,16,3.8,2,12,4,3,6,4,6,3,19,9,2.65,3.0,2.825,1,0,0,0,Pendiente,0,1
+EST-19D4583047,Ingeniería Informática,Ingenierías,1,Privado,268,16,3.3,1,1,5,0,5,1,3,3,12,6,2.85,4.05,3.45,0,0,0,0,Pagado,1,0
+EST-09A4BBE300,Ingeniería Informática,Ingenierías,2,Oficial,285,17,3.4,9,4,7,5,5,5,7,10,27,17,3.85,3.55,3.7,0,0,0,0,Pagado,1,0
+EST-39A1A36F53,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,311,18,3.5,8,5,5,10,6,2,6,5,19,11,3.15,3.4,3.275,0,0,0,0,Pagado,1,0
+EST-8F4E72E57D,Ingeniería Industrial,Ingenierías,2,Oficial,295,18,3.5,6,10,6,12,11,8,11,8,38,19,4.35,3.15,3.75,0,0,0,0,Pagado,1,0
+EST-C8EC2E4420,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,279,14,2.4,4,5,5,4,1,2,2,5,10,7,1.85,1.7,1.775,1,0,0,0,Pagado,1,0
+EST-8FF40ECC10,Psicología,Ciencias Sociales y Humanas,3,Oficial,371,15,4.9,7,7,10,9,7,10,5,4,26,9,5.0,5.0,5.0,0,0,0,0,Pagado,1,0
+EST-845D284F42,Psicología,Ciencias Sociales y Humanas,4,Oficial,261,16,3.3,7,5,6,4,5,7,7,10,29,17,3.9,2.6,3.25,0,0,0,0,Pagado,1,0
+EST-8EBD42AA8C,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,261,14,3.1,5,6,4,9,3,5,4,6,18,10,2.2,2.8,2.5,1,0,0,0,Sin liquidación,0,1
+EST-29021999E5,Psicología,Ciencias Sociales y Humanas,1,Oficial,281,18,3.4,6,7,2,7,7,7,5,5,24,10,2.2,3.5,2.85,1,0,0,0,Pendiente,0,1
+EST-F737BC75E4,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,332,15,3.8,3,7,7,1,6,9,4,3,22,7,3.45,4.2,3.825,0,0,0,0,Pendiente,1,0
+EST-A8FFC9178F,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,235,16,3.1,3,3,3,8,9,3,4,4,20,8,3.8,2.95,3.375,0,0,0,0,Pagado,1,0
+EST-61ACA9DD31,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,214,14,2.1,1,2,2,3,2,4,4,0,10,4,1.65,2.45,2.05,1,0,1,0,Pendiente,0,1
+EST-C13D9F0CD0,Ingeniería Informática,Ingenierías,2,Privado,329,14,4.1,9,4,9,5,9,8,5,11,33,16,4.05,4.15,4.1,0,0,0,0,Pagado,1,0
+EST-18495B9336,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,355,16,3.5,2,6,6,3,11,7,5,3,26,8,3.2,3.2,3.2,0,0,0,0,Pagado,1,0
+EST-28433B3C30,Ingeniería Industrial,Ingenierías,2,Privado,247,15,2.6,5,5,4,5,7,6,4,6,23,10,3.25,2.7,2.975,1,0,0,0,Pagado,1,0
+EST-9E07C111EE,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,325,14,3.0,11,5,5,6,3,7,4,7,21,11,2.05,2.7,2.375,1,0,0,0,Pagado,1,0
+EST-0F3EE77B2A,Ingeniería Industrial,Ingenierías,2,Oficial,262,18,3.8,4,8,9,5,9,3,8,2,22,10,3.75,3.55,3.65,0,0,0,0,Pendiente,1,0
+EST-A258CAEBD7,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,17,3.4,13,10,6,9,4,5,8,6,23,14,3.0,3.85,3.425,0,0,0,0,Pagado,1,0
+EST-54B0D65854,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,18,3.7,3,4,2,1,4,4,4,4,16,8,4.6,3.5,4.05,0,0,0,0,Pagado,1,0
+EST-0E7B532FA9,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,315,15,2.5,2,1,1,2,1,5,1,3,10,4,1.9,1.55,1.725,1,0,0,0,Pagado,1,0
+EST-17D18D700D,Psicología,Ciencias Sociales y Humanas,3,Privado,250,15,2.8,1,8,4,4,1,4,4,5,14,9,2.5,1.9,2.2,1,0,0,0,Pagado,1,0
+EST-EE83F6D58B,Ingeniería Informática,Ingenierías,3,Oficial,405,16,,7,8,8,3,6,5,5,5,21,10,4.15,4.85,4.5,0,0,0,0,Pagado,1,0
+EST-D2634B274D,Ingeniería Industrial,Ingenierías,3,Oficial,296,14,3.4,5,2,6,4,2,4,6,3,15,9,3.65,2.25,2.95,1,0,0,0,Pagado,1,0
+EST-DCFBFB6AD1,Ingeniería Informática,Ingenierías,2,Oficial,279,18,3.2,1,9,6,5,4,5,5,7,21,12,3.15,3.6,3.375,0,0,0,0,Pagado,1,0
+EST-960E3568CA,Ingeniería Informática,Ingenierías,2,Oficial,180,16,2.4,3,5,2,3,4,5,5,3,17,8,3.4,1.5,2.45,1,0,0,0,Pagado,1,0
+EST-CA25DF4A4B,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,288,16,3.0,0,6,3,0,2,0,0,1,3,1,2.9,2.45,2.675,1,1,0,0,Pagado,1,0
+EST-E4420AE347,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,267,14,3.2,4,1,5,3,9,4,5,3,21,8,2.95,3.05,3.0,0,0,0,0,Pagado,1,0
+EST-89C4E3A273,Ingeniería Industrial,Ingenierías,3,Privado,338,15,4.4,4,12,4,8,11,8,12,6,37,18,4.05,5.0,4.525,0,0,0,0,Pagado,1,0
+EST-DC7FBC8981,Psicología,Ciencias Sociales y Humanas,2,Oficial,315,18,3.7,10,6,6,4,6,5,3,7,21,10,5.0,3.7,4.35,0,0,0,0,Pagado,1,0
+EST-CA19D940F1,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,237,18,2.6,7,3,5,2,8,5,5,0,18,5,1.4,3.85,2.625,1,0,0,1,Anulado,0,1
+EST-8275719D0D,Psicología,Ciencias Sociales y Humanas,3,Privado,296,14,3.1,1,1,3,2,1,1,2,1,5,3,4.15,4.1,4.125,0,1,0,0,Pagado,1,0
+EST-4D859F55D7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,335,16,4.0,6,5,9,10,3,4,6,9,22,15,3.2,4.4,3.8000000000000003,0,0,0,0,Pagado,1,0
+EST-169663E0EB,Psicología,Ciencias Sociales y Humanas,2,Privado,290,18,,7,8,9,7,8,7,2,3,20,5,3.4,2.35,2.875,1,0,0,0,Pagado,1,0
+EST-D5AD039030,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,344,15,4.6,8,7,10,12,8,4,10,5,27,15,5.0,4.55,4.775,0,0,0,0,Pagado,1,0
+EST-81C849AB46,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,222,18,2.2,4,1,3,2,1,1,1,3,6,4,1.1,2.75,1.925,1,1,0,1,Sin liquidación,0,1
+EST-60106B6250,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,328,14,,2,2,2,4,7,1,0,0,8,0,4.1,3.6,3.8499999999999996,1,1,0,0,Pendiente,0,1
+EST-1E87DDE04F,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,256,14,3.0,4,2,5,4,8,3,2,7,20,9,2.75,3.5,3.125,0,0,0,0,Pagado,1,0
+EST-BAAEE09B81,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,14,2.3,3,8,3,4,3,2,6,4,15,10,2.15,2.65,2.4,1,0,0,0,Pagado,1,0
+EST-3D370EFDD7,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,290,15,3.8,1,8,5,5,4,5,6,5,20,11,3.6,4.25,3.925,0,0,0,0,Pagado,1,0
+EST-749A290338,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,336,18,3.5,2,6,8,5,5,12,8,3,28,11,3.4,3.55,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-038F79A53F,Ingeniería Industrial,Ingenierías,1,Oficial,327,18,4.2,6,4,4,5,6,4,8,7,25,15,3.8,4.05,3.925,0,0,0,1,Pagado,1,0
+EST-A26894AA36,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,289,15,2.9,6,1,5,3,3,2,2,6,13,8,3.45,3.1,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-428EBEB0C5,Ingeniería Informática,Ingenierías,1,Oficial,301,17,2.9,5,4,2,8,3,4,3,3,13,6,3.25,2.6,2.925,1,0,0,0,Pagado,1,0
+EST-A6A083EF22,Ingeniería Informática,Ingenierías,2,Oficial,255,15,2.2,3,0,1,0,2,2,1,1,6,2,1.4,2.7,2.05,1,1,0,1,Sin liquidación,0,1
+EST-B9E87D347F,Psicología,Ciencias Sociales y Humanas,2,Oficial,288,14,3.9,5,6,7,5,10,4,7,6,27,13,4.15,3.45,3.8000000000000003,0,0,0,0,Pagado,1,0
+EST-7D5AE9DD69,Ingeniería Informática,Ingenierías,1,Oficial,241,16,3.0,5,2,2,2,2,3,1,1,7,2,3.2,2.85,3.0250000000000004,0,1,1,0,Pendiente,0,1
+EST-E738DE53C9,Psicología,Ciencias Sociales y Humanas,4,Privado,281,17,3.6,5,3,7,7,3,4,3,5,15,8,3.9,4.3,4.1,0,0,0,0,Pagado,1,0
+EST-5DBD16B3A6,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,270,18,3.1,3,4,4,5,10,3,3,2,18,5,3.4,3.5,3.45,0,0,0,0,Pagado,1,0
+EST-135A953D38,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,323,15,4.6,5,9,10,5,6,4,3,6,19,9,4.75,5.0,4.875,0,0,0,0,Pagado,1,0
+EST-2B4B772729,Ingeniería Industrial,Ingenierías,1,Oficial,294,17,3.0,3,4,8,2,5,1,2,2,10,4,2.3,2.1,2.2,1,0,0,0,Pagado,1,0
+EST-1DFE250D6D,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,15,3.6,2,5,2,2,0,3,4,2,9,6,3.35,2.85,3.1,0,0,0,0,Pagado,1,0
+EST-3A6EEC2507,Psicología,Ciencias Sociales y Humanas,2,Privado,335,16,4.5,6,6,9,5,6,10,10,4,30,14,5.0,4.95,4.975,0,0,0,0,Pagado,1,0
+EST-A44DDF36AC,Ingeniería Industrial,Ingenierías,1,Oficial,288,14,3.6,4,6,3,4,6,4,6,3,19,9,3.7,3.65,3.675,0,0,0,0,Pagado,1,0
+EST-E0AB5DB72B,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,16,3.8,5,8,7,7,9,5,3,10,27,13,3.35,3.8,3.575,0,0,0,0,Pagado,1,0
+EST-A06DEE8941,Ingeniería Informática,Ingenierías,2,Privado,363,18,4.2,7,10,6,10,13,11,6,15,45,21,4.15,4.75,4.45,0,0,0,0,Pagado,1,0
+EST-BE3B297F37,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,246,15,3.4,3,3,7,3,4,6,6,3,19,9,2.7,1.6,2.1500000000000004,1,0,0,0,Pagado,1,0
+EST-C0DCBBE3A9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,16,3.7,9,7,6,7,9,6,9,5,29,14,4.3,3.05,3.675,0,0,0,0,Pagado,1,0
+EST-9140B52A1F,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,277,14,2.8,3,4,3,4,4,6,2,3,15,5,2.5,3.5,3.0,0,0,0,0,Pagado,1,0
+EST-8C9F1DF56E,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,258,14,3.4,3,2,1,2,0,4,1,6,11,7,2.35,3.45,2.9000000000000004,1,0,0,0,Pagado,1,0
+EST-3A1F21E0E0,Ingeniería Industrial,Ingenierías,3,Oficial,314,16,4.1,9,12,14,10,7,6,9,13,35,22,4.55,3.15,3.8499999999999996,0,0,0,0,Pagado,1,0
+EST-BA274F42D5,Psicología,Ciencias Sociales y Humanas,3,Privado,400,18,4.3,8,7,5,5,5,2,5,3,15,8,3.9,4.25,4.075,0,0,0,0,Pagado,1,0
+EST-D6BE91C3EF,Ingeniería Informática,Ingenierías,1,Privado,283,16,3.4,11,7,4,7,7,8,7,5,27,12,3.45,4.6,4.025,0,0,0,0,Pagado,1,0
+EST-B5289951B5,Psicología,Ciencias Sociales y Humanas,2,Privado,351,18,3.6,10,5,8,5,7,7,9,8,31,17,4.15,2.6,3.375,0,0,0,0,Pagado,1,0
+EST-D28D5E75F8,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,322,18,4.4,11,8,5,9,4,4,3,8,19,11,4.25,5.0,4.625,0,0,0,0,Pagado,1,0
+EST-E01688799F,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,249,18,3.6,4,9,3,1,8,9,4,5,26,9,3.4,3.6,3.5,0,0,0,0,Pagado,1,0
+EST-D31A39D518,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,273,14,3.0,1,4,6,2,3,1,2,2,8,4,2.3,3.9,3.0999999999999996,0,1,0,0,Pagado,1,0
+EST-4C0C50AB90,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,312,16,,5,1,3,5,2,2,4,3,11,7,2.55,1.4,1.9749999999999999,1,0,0,0,Anulado,0,1
+EST-A00D29AB9C,Ingeniería Industrial,Ingenierías,2,Privado,349,16,3.8,4,4,9,7,2,2,2,5,11,7,3.9,4.0,3.95,0,0,0,0,Pagado,1,0
+EST-1E77AB2CBB,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,272,14,2.1,2,0,0,4,1,0,2,3,6,5,2.25,2.15,2.2,1,1,1,0,Anulado,0,1
+EST-A931AA5D5E,Psicología,Ciencias Sociales y Humanas,4,Oficial,333,16,3.8,7,1,4,3,7,4,6,8,25,14,3.4,3.3,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-3BFE8A5D0E,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,347,14,3.7,11,5,6,8,7,4,2,9,22,11,3.35,2.0,2.675,1,0,0,0,Pagado,1,0
+EST-735FA8A43E,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,291,15,3.9,9,9,8,6,10,4,2,9,25,11,5.0,3.05,4.025,0,0,0,0,Pagado,1,0
+EST-A594FE20C3,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,343,15,3.3,3,6,1,9,4,7,6,6,23,12,3.45,3.9,3.675,0,0,0,0,Pagado,1,0
+EST-ADD8114E7C,Psicología,Ciencias Sociales y Humanas,3,Privado,332,16,3.5,4,4,2,6,5,4,2,6,17,8,2.95,3.45,3.2,0,0,0,0,Pagado,1,0
+EST-0E972CC3A6,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,292,15,,4,4,2,1,2,1,2,2,7,4,3.6,3.2,3.4000000000000004,0,1,0,0,Pagado,1,0
+EST-EFC97E8E29,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.6,5,3,4,3,2,0,0,0,2,0,2.45,3.25,2.85,1,1,0,0,Pendiente,0,1
+EST-EAD2115FD6,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,14,2.8,5,6,7,0,3,2,0,5,10,5,2.75,2.2,2.475,1,0,0,0,Pagado,1,0
+EST-85539EDEE4,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,391,16,4.0,9,3,8,0,4,4,8,4,20,12,4.55,3.9,4.225,0,0,0,0,Pagado,1,0
+EST-A04879B329,Ingeniería Informática,Ingenierías,2,Privado,294,17,3.0,2,6,5,3,0,6,3,3,12,6,2.55,4.0,3.275,0,0,0,0,Pagado,1,0
+EST-EEDB4F6373,Ingeniería Informática,Ingenierías,2,Oficial,275,18,3.4,6,6,4,4,8,3,8,0,19,8,4.0,2.75,3.375,0,0,1,0,Pendiente,0,1
+EST-00F06F137B,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,253,16,2.2,2,2,0,2,1,1,0,0,2,0,2.65,1.1,1.875,1,1,0,0,Pendiente,0,1
+EST-EAD9D03D5D,Psicología,Ciencias Sociales y Humanas,2,Privado,251,15,2.4,4,3,6,5,2,3,2,0,7,2,3.0,2.3,2.65,1,1,0,0,Pagado,1,0
+EST-9C0877857E,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,287,17,2.9,1,2,3,0,7,1,1,0,9,1,2.35,2.55,2.45,1,0,0,0,Pagado,1,0
+EST-95C49B34E7,Ingeniería Industrial,Ingenierías,1,Oficial,263,14,3.1,11,7,7,12,5,8,10,7,30,17,2.75,3.5,3.125,0,0,0,0,Pagado,1,0
+EST-E724F4FB00,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,272,15,3.7,5,8,7,9,6,7,3,5,21,8,3.85,3.05,3.45,0,0,0,0,Pagado,1,0
+EST-9A5E2A47FB,Ingeniería Industrial,Ingenierías,2,Privado,243,16,3.2,7,7,6,5,8,3,2,6,19,8,2.85,2.85,2.85,1,0,0,0,Pendiente,1,0
+EST-59B884E6C3,Ingeniería Informática,Ingenierías,6,Oficial,244,16,2.7,5,4,2,6,4,3,3,5,15,8,2.9,2.3,2.5999999999999996,1,0,0,0,Pendiente,0,1
+EST-B0A53C1EE5,Ingeniería Informática,Ingenierías,4,Privado,409,16,3.6,8,10,10,7,8,11,11,4,34,15,1.65,4.6,3.125,0,0,0,1,Pendiente,0,1
+EST-1DCCADE91F,Ingeniería Industrial,Ingenierías,2,Oficial,266,15,2.1,0,0,1,0,0,0,0,0,0,0,3.5,2.4,2.95,1,1,0,1,Sin liquidación,0,1
+EST-E8543DC600,Ingeniería Informática,Ingenierías,2,Oficial,301,16,3.1,4,9,6,13,6,3,10,6,25,16,2.7,3.45,3.075,0,0,0,0,Pagado,1,0
+EST-03645ED4A7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,3,3,1,8,2,6,7,0,15,7,2.65,2.9,2.775,1,0,1,0,Pendiente,0,1
+EST-1E99B3E68D,Ingeniería Informática,Ingenierías,2,Oficial,317,17,3.4,4,5,6,11,6,8,9,2,25,11,3.85,2.8,3.325,0,0,0,1,Pagado,1,0
+EST-40D4CBA48F,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,16,2.6,4,2,3,2,6,3,6,0,15,6,2.3,3.1,2.7,1,0,1,1,Sin liquidación,0,1
+EST-8832DCC97F,Psicología,Ciencias Sociales y Humanas,3,Privado,299,18,3.7,12,13,6,6,8,3,9,10,30,19,3.6,3.35,3.475,0,0,0,1,Pagado,1,0
+EST-AA207F34ED,Psicología,Ciencias Sociales y Humanas,3,Privado,294,17,3.7,5,3,5,8,4,6,5,5,20,10,3.55,3.25,3.4,0,0,0,0,Pagado,1,0
+EST-F7D3897187,Ingeniería Industrial,Ingenierías,2,Oficial,305,16,3.9,5,12,5,9,9,3,8,6,26,14,2.9,4.5,3.7,0,0,0,0,Pagado,1,0
+EST-82398F5688,Ingeniería Industrial,Ingenierías,2,Privado,289,17,3.1,1,1,3,1,2,4,1,0,7,1,3.9,3.6,3.75,0,1,0,0,Pendiente,0,1
+EST-A998514CDA,Ingeniería Industrial,Ingenierías,3,Privado,253,14,3.5,8,8,10,7,5,9,4,5,23,9,3.55,2.9,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-741D472FE2,Ingeniería Informática,Ingenierías,2,Oficial,360,16,4.4,11,7,7,15,6,5,12,12,35,24,4.4,2.4,3.4000000000000004,0,0,0,0,Pagado,1,0
+EST-48F8BC8A00,Ingeniería Industrial,Ingenierías,1,Oficial,265,18,3.9,9,5,7,13,10,8,9,7,34,16,3.45,3.45,3.45,0,0,0,0,Pendiente,1,0
+EST-F822394BB0,Ingeniería Informática,Ingenierías,2,Privado,290,14,2.8,5,5,6,6,3,1,4,2,10,6,3.55,2.6,3.075,0,0,0,1,Sin liquidación,0,1
+EST-2204CFED4A,Ingeniería Informática,Ingenierías,2,Oficial,297,16,3.1,4,6,7,3,5,1,7,11,24,18,1.6,3.6,2.6,1,0,0,0,Pagado,1,0
+EST-5EE5C92A39,Ingeniería Industrial,Ingenierías,2,Oficial,185,15,1.7,3,7,0,2,1,0,0,0,1,0,1.3,2.55,1.9249999999999998,1,1,0,0,Sin liquidación,0,1
+EST-65FE02C171,Psicología,Ciencias Sociales y Humanas,5,Privado,320,16,3.8,4,3,7,2,1,3,5,8,17,13,4.1,3.3,3.6999999999999997,0,0,0,0,Pagado,1,0
+EST-37A1E3509D,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,18,3.3,8,4,6,8,6,2,2,10,20,12,3.3,3.75,3.525,0,0,0,0,Pagado,1,0
+EST-43247A61B9,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,269,14,3.2,3,2,0,4,2,2,6,5,15,11,3.0,2.95,2.975,1,0,0,0,Pendiente,0,1
+EST-C0F82A5057,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,229,16,3.4,4,7,7,11,6,5,12,9,32,21,3.75,2.7,3.225,0,0,0,0,Pagado,1,0
+EST-8E3B8A2EA6,Psicología,Ciencias Sociales y Humanas,1,Privado,352,18,3.9,4,2,3,3,7,6,6,6,25,12,3.8,2.7,3.25,0,0,0,1,Pagado,1,0
+EST-1714D4B0F2,Psicología,Ciencias Sociales y Humanas,4,Oficial,338,16,3.9,4,2,7,5,7,4,2,2,15,4,4.6,3.6,4.1,0,0,0,0,Pagado,1,0
+EST-FC4628E3AF,Ingeniería Informática,Ingenierías,4,Oficial,368,16,4.3,10,7,6,5,9,7,2,7,25,9,4.05,5.0,4.525,0,0,0,0,Pagado,1,0
+EST-21F310B59C,Ingeniería Informática,Ingenierías,2,Privado,328,16,3.4,4,2,2,0,8,7,4,5,24,9,2.85,3.3,3.075,0,0,0,0,Pagado,1,0
+EST-124BED9F9B,Ingeniería Informática,Ingenierías,6,Oficial,296,15,4.0,8,6,9,9,7,9,7,8,31,15,4.25,3.35,3.8,0,0,0,0,Pagado,1,0
+EST-39EA065BEE,Ingeniería Industrial,Ingenierías,3,Oficial,385,15,3.7,5,8,12,4,8,2,3,8,21,11,3.4,3.55,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-2A6C2BD940,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,15,3.4,2,4,7,8,8,8,4,6,26,10,3.2,2.9,3.05,0,0,0,0,Pagado,1,0
+EST-97A96080CA,Psicología,Ciencias Sociales y Humanas,2,Oficial,331,16,3.8,1,7,3,3,2,2,6,4,14,10,3.6,3.1,3.35,0,0,0,0,Pagado,1,0
+EST-6774EA9B12,Psicología,Ciencias Sociales y Humanas,3,Privado,323,18,3.3,5,8,8,5,5,6,6,4,21,10,3.25,2.9,3.075,0,0,0,0,Pagado,1,0
+EST-F98CB375F6,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,276,14,3.4,6,6,5,7,9,7,4,5,25,9,2.9,3.9,3.4,0,0,0,0,Pagado,1,0
+EST-7C7C126BFD,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,266,16,3.1,4,1,3,12,4,5,6,5,20,11,3.35,3.5,3.425,0,0,0,0,Pagado,1,0
+EST-9649A700B0,Ingeniería Informática,Ingenierías,1,Oficial,309,16,2.8,4,5,5,4,3,6,5,4,18,9,2.5,2.7,2.6,1,0,0,0,Pagado,1,0
+EST-C7D16F08B3,Ingeniería Informática,Ingenierías,3,Privado,305,14,3.0,2,3,2,5,4,1,3,3,11,6,2.4,2.6,2.5,1,0,0,0,Pagado,1,0
+EST-1639871FDB,Ingeniería Informática,Ingenierías,2,Privado,234,16,2.8,0,6,11,4,7,3,7,4,21,11,3.05,3.45,3.25,0,0,0,0,Pagado,1,0
+EST-A4031F90F5,Psicología,Ciencias Sociales y Humanas,2,Oficial,293,15,3.1,12,5,4,3,7,5,10,4,26,14,3.4,2.55,2.9749999999999996,1,0,0,0,Pagado,1,0
+EST-1F6A437B2D,Psicología,Ciencias Sociales y Humanas,4,Privado,264,16,3.1,3,11,3,3,6,2,1,6,15,7,2.7,3.3,3.0,0,0,0,0,Pagado,1,0
+EST-096EE0DB6D,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,319,15,3.1,4,3,2,8,3,10,7,2,22,9,3.25,3.0,3.125,0,0,0,0,Pagado,1,0
+EST-EB1D77DE6E,Administración de Empresas,Ciencias Económicas y Administrativas,6,Privado,269,18,3.1,6,6,2,7,3,6,5,4,18,9,4.3,4.4,4.35,0,0,0,0,Pagado,1,0
+EST-BCB11309F2,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,362,17,4.1,4,3,9,7,6,6,4,4,20,8,4.55,3.05,3.8,0,0,0,0,Pagado,1,0
+EST-887B263378,Psicología,Ciencias Sociales y Humanas,3,Privado,375,16,3.7,5,7,7,8,6,5,3,6,20,9,3.15,3.65,3.4,0,0,0,0,Pagado,1,0
+EST-FF16931397,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,312,17,3.5,7,4,10,5,4,7,3,1,15,4,3.75,3.1,3.425,0,0,0,0,Pagado,1,0
+EST-452066E5A8,Ingeniería Industrial,Ingenierías,3,Privado,352,17,3.8,8,7,2,4,3,1,2,4,10,6,2.75,4.1,3.425,0,0,0,0,Pagado,1,0
+EST-A8BDE4D1A6,Ingeniería Informática,Ingenierías,4,Oficial,259,18,3.6,5,6,2,7,6,11,6,3,26,9,3.2,3.45,3.325,0,0,0,0,Pagado,1,0
+EST-0E823F33CF,Ingeniería Informática,Ingenierías,1,Privado,323,17,4.0,7,6,12,10,8,10,12,10,40,22,4.0,4.8,4.4,0,0,0,0,Pagado,1,0
+EST-71725508CF,Psicología,Ciencias Sociales y Humanas,3,Privado,290,18,3.7,4,8,3,4,3,5,7,3,18,10,4.1,3.5,3.8,0,0,0,0,Pagado,1,0
+EST-3BB7407F97,Ingeniería Industrial,Ingenierías,3,Privado,266,18,3.7,9,10,4,14,7,10,9,9,35,18,3.3,3.75,3.525,0,0,0,0,Pagado,1,0
+EST-DF6104B354,Ingeniería Informática,Ingenierías,3,Oficial,218,14,2.5,1,0,1,1,0,1,0,2,3,2,2.15,2.7,2.425,1,1,0,0,Pagado,1,0
+EST-4551614A87,Ingeniería Industrial,Ingenierías,2,Oficial,260,14,2.5,7,4,3,5,2,2,5,4,13,9,1.5,2.7,2.1,1,0,0,0,Pagado,1,0
+EST-4C84E3E6F2,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,290,15,3.9,5,0,3,3,3,5,10,3,21,13,4.7,3.05,3.875,0,0,0,0,Pagado,1,0
+EST-47C1C99702,Psicología,Ciencias Sociales y Humanas,3,Privado,246,18,3.2,2,12,9,5,1,6,3,3,13,6,2.15,3.7,2.925,1,0,0,0,Pagado,1,0
+EST-8F640975A7,Ingeniería Informática,Ingenierías,2,Privado,294,14,3.8,9,4,9,5,6,5,8,3,22,11,3.2,5.0,4.1,0,0,0,1,Pendiente,0,1
+EST-6EB539C33C,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,357,17,4.5,9,4,5,6,6,7,5,4,22,9,4.5,4.2,4.35,0,0,0,0,Pagado,1,0
+EST-0CCB40F2CD,Psicología,Ciencias Sociales y Humanas,2,Privado,238,18,2.8,3,4,5,2,4,7,3,8,22,11,3.6,2.95,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-1654CA1D9C,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,195,18,2.8,4,2,1,4,4,3,3,1,11,4,2.6,4.65,3.625,0,0,0,0,Pagado,1,0
+EST-9EF135D200,Ingeniería Informática,Ingenierías,2,Oficial,304,14,4.0,7,11,7,7,5,6,10,3,24,13,3.65,4.2,3.925,0,0,0,0,Pagado,1,0
+EST-EE7124090C,Ingeniería Informática,Ingenierías,2,Privado,307,18,3.3,6,3,2,6,3,4,1,3,11,4,3.05,4.2,3.625,0,0,0,0,Sin liquidación,0,1
+EST-8E331F125A,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,16,3.4,4,6,5,4,4,7,6,2,19,8,2.8,3.55,3.175,0,0,0,1,Pagado,1,0
+EST-D5F809131B,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,317,18,2.6,2,5,3,1,4,0,0,1,5,1,2.9,2.65,2.775,1,1,0,0,Pendiente,0,1
+EST-D9C607711D,Ingeniería Industrial,Ingenierías,2,Oficial,318,15,3.8,8,5,2,9,8,5,8,7,28,15,2.35,3.9,3.125,0,0,0,0,Pagado,1,0
+EST-63D2FB4A39,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,284,14,2.7,5,3,1,4,4,3,1,1,9,2,2.75,2.5,2.625,1,0,0,0,Pagado,1,0
+EST-9728F0D78A,Ingeniería Industrial,Ingenierías,1,Oficial,282,14,3.2,15,7,9,8,6,9,10,6,31,16,3.05,4.55,3.8,0,0,0,0,Pagado,1,0
+EST-8281DEE690,Ingeniería Informática,Ingenierías,3,Oficial,284,16,3.0,7,3,8,5,12,10,6,6,34,12,3.95,2.1,3.0250000000000004,0,0,0,0,Pagado,1,0
+EST-8A3592994C,Psicología,Ciencias Sociales y Humanas,2,Oficial,351,16,3.9,6,4,6,5,6,5,3,8,22,11,3.25,3.8,3.525,0,0,0,0,Pagado,1,0
+EST-6DF6994D69,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,338,18,4.0,4,4,5,9,3,11,6,5,25,11,4.25,3.55,3.9,0,0,0,0,Pagado,1,0
+EST-DEBCE58280,Ingeniería Informática,Ingenierías,2,Privado,356,17,4.1,15,11,8,9,6,6,4,8,24,12,3.85,4.25,4.05,0,0,0,1,Pagado,1,0
+EST-E4E7EBC593,Ingeniería Industrial,Ingenierías,6,Oficial,319,18,3.8,1,11,7,5,1,7,4,4,16,8,4.3,2.9,3.5999999999999996,0,0,0,0,Pendiente,1,0
+EST-5CB1CC20F9,Ingeniería Industrial,Ingenierías,2,Oficial,285,16,4.5,7,8,3,6,4,6,6,7,23,13,4.45,4.8,4.625,0,0,0,0,Pagado,1,0
+EST-802137A5B7,Ingeniería Informática,Ingenierías,3,Oficial,317,16,3.3,5,6,3,5,5,2,6,3,16,9,2.2,3.1,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-3BBAC54DE6,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,290,15,3.8,11,3,12,10,16,9,11,9,45,20,3.6,2.9,3.25,0,0,0,0,Pagado,1,0
+EST-B9371A1846,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,322,15,3.5,9,5,5,4,4,2,8,3,17,11,3.65,3.95,3.8,0,0,0,0,Pagado,1,0
+EST-142A0D0D3C,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,286,16,3.3,5,10,6,9,8,12,9,10,39,19,3.6,3.8,3.7,0,0,0,0,Pagado,1,0
+EST-4003EEEADE,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,16,3.6,4,8,5,4,11,5,6,7,29,13,3.65,2.85,3.25,0,0,0,0,Pagado,1,0
+EST-617DB6DB18,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,274,14,3.1,8,8,4,6,7,5,3,5,20,8,2.95,2.5,2.725,1,0,0,0,Pagado,1,0
+EST-F919CBD66A,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,249,16,3.2,5,5,3,2,2,4,4,3,13,7,2.8,4.3,3.55,0,0,0,0,Pagado,1,0
+EST-E20C57F964,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,269,14,2.6,9,6,6,9,7,7,3,4,21,7,3.3,3.1,3.2,0,0,0,0,Pagado,1,0
+EST-E8B4034FBB,Ingeniería Industrial,Ingenierías,3,Privado,274,18,3.7,5,5,4,6,5,7,6,7,25,13,3.25,3.65,3.45,0,0,0,1,Pagado,1,0
+EST-B2DFF4DA3B,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,298,17,2.8,4,3,2,3,4,2,3,3,12,6,3.2,2.35,2.7750000000000004,1,0,0,0,Pagado,1,0
+EST-B4EB4B0272,Ingeniería Informática,Ingenierías,6,Oficial,279,15,3.2,6,4,10,6,4,4,2,4,14,6,2.75,4.05,3.4,0,0,0,0,Pagado,1,0
+EST-59B1526BD6,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,256,17,3.0,3,5,4,6,1,0,7,4,12,11,3.35,2.35,2.85,1,0,0,1,Pagado,1,0
+EST-550ECE8515,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,18,2.9,8,9,12,4,4,3,4,12,23,16,3.45,3.4,3.425,0,0,1,1,Pendiente,0,1
+EST-E8977358E0,Ingeniería Informática,Ingenierías,2,Privado,288,15,4.4,9,8,9,8,8,6,8,8,30,16,5.0,4.35,4.675,0,0,0,0,Pagado,1,0
+EST-B47E71890E,Ingeniería Industrial,Ingenierías,3,Oficial,271,17,3.0,4,7,4,7,4,7,9,7,27,16,2.8,4.2,3.5,0,0,0,0,Pagado,1,0
+EST-2E7A7D3665,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,272,15,2.7,5,3,3,4,5,7,0,7,19,7,2.35,4.6,3.4749999999999996,0,0,0,0,Pendiente,0,1
+EST-6E3A99F884,Ingeniería Informática,Ingenierías,3,Privado,279,14,3.4,3,3,2,2,3,5,1,7,16,8,2.35,3.8,3.075,0,0,0,0,Pagado,1,0
+EST-FF4EB6D89D,Ingeniería Industrial,Ingenierías,3,Privado,348,17,4.1,9,9,8,6,7,13,11,12,43,23,4.45,3.5,3.975,0,0,0,0,Pagado,1,0
+EST-0DD5664E00,Ingeniería Industrial,Ingenierías,3,Privado,406,17,4.2,5,8,11,5,15,10,7,10,42,17,4.75,3.3,4.025,0,0,0,0,Pagado,1,0
+EST-80F00F912D,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,269,18,3.2,3,3,3,0,3,1,3,1,8,4,3.35,3.35,3.35,0,1,0,0,Pagado,1,0
+EST-6A99A112D8,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,256,18,2.7,10,7,3,4,4,3,10,0,17,10,2.6,1.8,2.2,1,0,0,0,Pagado,1,0
+EST-6CC554848C,Psicología,Ciencias Sociales y Humanas,2,Oficial,243,16,4.2,6,5,5,5,2,7,8,5,22,13,4.9,4.05,4.475,0,0,0,0,Pagado,1,0
+EST-73AB8F5E9A,Ingeniería Industrial,Ingenierías,3,Oficial,282,16,,10,5,6,16,7,5,3,7,22,10,2.95,4.05,3.5,0,0,0,0,Pagado,1,0
+EST-63E2FECB54,Ingeniería Informática,Ingenierías,1,Oficial,323,18,3.2,9,7,5,6,1,3,5,2,11,7,3.85,3.5,3.675,0,0,0,0,Pagado,1,0
+EST-E58EB5EE75,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,246,16,2.8,3,2,3,4,4,0,2,1,7,3,2.5,3.05,2.775,1,1,0,0,Sin liquidación,0,1
+EST-D7F9DBB285,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,326,18,3.7,6,7,11,6,7,7,10,13,37,23,3.55,3.6,3.575,0,0,0,0,Pagado,1,0
+EST-22D6B0B01D,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,240,14,3.1,4,9,3,3,1,6,4,4,15,8,3.5,3.9,3.7,0,0,0,0,Pagado,1,0
+EST-509F4012EA,Psicología,Ciencias Sociales y Humanas,1,Oficial,361,18,3.8,11,3,6,10,8,9,9,10,36,19,2.9,2.95,2.925,1,0,0,1,Pagado,1,0
+EST-9BF266C9F5,Ingeniería Informática,Ingenierías,1,Oficial,295,18,2.5,1,0,1,0,3,0,0,0,3,0,3.0,2.55,2.775,1,1,0,0,Pendiente,0,1
+EST-65B026410D,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,17,3.5,5,2,2,8,3,5,4,4,16,8,4.7,2.55,3.625,0,0,0,0,Pagado,1,0
+EST-8488653908,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,311,14,3.7,6,5,5,10,5,8,6,5,24,11,3.65,3.8,3.7249999999999996,0,0,0,0,Pagado,1,0
+EST-F9B2910FF6,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,349,17,4.6,15,13,11,10,10,8,9,11,38,20,4.4,4.5,4.45,0,0,0,0,Pendiente,1,0
+EST-FFFFA10D44,Ingeniería Industrial,Ingenierías,2,Oficial,266,16,2.9,7,3,6,3,6,9,4,4,23,8,3.1,2.75,2.925,1,0,0,0,Pagado,1,0
+EST-3B42969E98,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,299,16,4.0,2,8,7,5,5,10,8,5,28,13,3.5,3.4,3.45,0,0,0,0,Pagado,1,0
+EST-4F491B6284,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,387,15,3.6,8,6,9,8,5,8,5,9,27,14,4.3,2.85,3.575,0,0,0,0,Pagado,1,0
+EST-636A72916E,Ingeniería Industrial,Ingenierías,2,Privado,331,16,3.8,10,7,8,4,4,7,6,9,26,15,4.05,2.95,3.5,0,0,0,0,Pagado,1,0
+EST-FCF6293B5F,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,279,18,3.6,1,1,3,10,4,4,2,9,19,11,4.2,3.55,3.875,0,0,0,0,Pagado,1,0
+EST-AAE23BCE3C,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,278,14,3.3,1,3,6,3,4,2,1,3,10,4,2.95,2.8,2.875,1,0,0,0,Pagado,1,0
+EST-14F72FF297,Psicología,Ciencias Sociales y Humanas,3,Privado,273,15,3.4,5,3,10,3,5,6,7,8,26,15,4.15,4.05,4.1,0,0,0,0,Pagado,1,0
+EST-75662EAEE4,Ingeniería Informática,Ingenierías,3,Oficial,284,16,3.4,8,5,4,3,5,4,3,5,17,8,3.85,3.6,3.725,0,0,0,0,Pagado,1,0
+EST-1D66D1A1AD,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,251,15,3.4,5,8,5,10,5,8,3,6,22,9,2.9,3.6,3.25,0,0,0,0,Pagado,1,0
+EST-DA02A1135E,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.5,4,2,2,2,4,0,4,2,10,6,4.3,3.15,3.7249999999999996,0,0,0,0,Sin liquidación,0,1
+EST-4D1E67D3B6,Psicología,Ciencias Sociales y Humanas,5,Oficial,212,18,3.0,2,4,5,6,5,10,4,4,23,8,3.4,3.25,3.325,0,0,0,0,Pagado,1,0
+EST-ABA429753A,Psicología,Ciencias Sociales y Humanas,6,Oficial,240,15,2.3,3,2,2,1,0,3,3,0,6,3,2.5,2.15,2.325,1,1,0,0,Pagado,1,0
+EST-14B5C8AE08,Ingeniería Informática,Ingenierías,2,Oficial,328,14,4.0,8,3,10,2,9,5,8,9,31,17,3.9,4.05,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-E933A273DF,Psicología,Ciencias Sociales y Humanas,3,Privado,264,15,1.9,0,1,4,3,2,2,1,4,9,5,1.75,1.6,1.675,1,0,0,0,Pendiente,0,1
+EST-EC9B3B95F0,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,232,14,2.2,8,5,4,5,3,5,2,2,12,4,2.6,1.1,1.85,1,0,1,0,Pendiente,0,1
+EST-52C848F84F,Psicología,Ciencias Sociales y Humanas,1,Oficial,275,18,3.1,2,5,3,3,3,4,8,5,20,13,2.0,4.95,3.475,0,0,1,1,Sin liquidación,0,1
+EST-5034C0F877,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,3.9,7,6,8,3,7,3,6,6,22,12,3.95,5.0,4.475,0,0,0,0,Pagado,1,0
+EST-40BAAA3E68,Ingeniería Industrial,Ingenierías,5,Privado,292,14,2.5,1,3,5,0,3,2,4,1,10,5,1.7,1.75,1.725,1,0,0,0,Pagado,1,0
+EST-24E59C813F,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,346,17,,11,7,10,8,11,12,7,9,39,16,4.5,4.85,4.675,0,0,0,0,Pagado,1,0
+EST-0D4C27DA1B,Ingeniería Informática,Ingenierías,2,Privado,257,15,2.9,6,3,5,2,9,6,0,0,15,0,3.1,4.0,3.55,1,0,0,0,Pendiente,0,1
+EST-E79F0A8E1F,Psicología,Ciencias Sociales y Humanas,1,Oficial,260,17,3.2,9,4,6,4,9,9,5,6,29,11,3.2,3.8,3.5,0,0,0,1,Pagado,1,0
+EST-CF279CCCD1,Ingeniería Industrial,Ingenierías,2,Oficial,262,18,1.9,0,1,1,0,0,1,1,0,2,1,2.3,2.55,2.425,1,1,0,0,Pagado,1,0
+EST-B312B2A121,Ingeniería Industrial,Ingenierías,3,Oficial,254,17,3.2,5,4,8,6,3,7,7,3,20,10,1.9,3.2,2.55,1,0,0,0,Pagado,1,0
+EST-F76E5E4D6D,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,265,17,3.0,3,6,8,6,5,5,3,8,21,11,3.7,4.6,4.15,0,0,0,0,Pagado,1,0
+EST-AB5C6EF9F3,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,17,3.4,2,4,2,3,3,5,2,4,14,6,2.5,2.4,2.45,1,0,0,0,Pendiente,1,0
+EST-27294EE1E3,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,262,18,2.2,4,1,2,2,2,4,2,4,12,6,2.75,1.8,2.275,1,0,0,0,Pagado,1,0
+EST-652A587D6A,Psicología,Ciencias Sociales y Humanas,3,Oficial,270,15,2.6,2,0,7,0,3,2,2,1,8,3,2.65,3.65,3.15,0,1,0,0,Pagado,1,0
+EST-1B96B48BD1,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.0,3,1,1,1,0,0,0,0,0,0,1.35,2.65,2.0,1,1,1,0,Pendiente,0,1
+EST-3CC90F20B6,Ingeniería Informática,Ingenierías,2,Oficial,370,18,3.9,6,7,6,8,7,6,3,7,23,10,3.9,4.65,4.275,0,0,0,0,Pagado,1,0
+EST-3FCE5B0E1C,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,228,18,2.3,1,1,1,2,3,2,2,2,9,4,3.45,2.55,3.0,0,0,1,0,Sin liquidación,0,1
+EST-D1D2322733,Ingeniería Informática,Ingenierías,2,Privado,336,17,4.2,5,5,6,5,7,5,2,7,21,9,4.35,3.5,3.925,0,0,0,0,Pagado,1,0
+EST-7CFE39D276,Psicología,Ciencias Sociales y Humanas,1,Oficial,236,18,2.4,3,0,5,5,7,7,2,7,23,9,2.65,2.55,2.5999999999999996,1,0,0,0,Pagado,1,0
+EST-8D50E8C9DE,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,317,15,4.2,5,4,3,6,10,11,8,8,37,16,3.6,3.85,3.725,0,0,0,0,Pagado,1,0
+EST-C5D31CA795,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,269,16,2.6,3,3,4,3,5,2,4,3,14,7,3.5,3.8,3.65,0,0,0,0,Pagado,1,0
+EST-0F0777B929,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,297,16,3.6,5,4,6,4,6,6,8,4,24,12,3.95,3.65,3.8,0,0,0,0,Pagado,1,0
+EST-4DFA181644,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,353,17,4.2,3,2,8,5,10,5,5,5,25,10,4.05,3.55,3.8,0,0,0,0,Pagado,1,0
+EST-FAE46FC8B1,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,18,3.1,6,8,4,5,6,6,9,6,27,15,3.8,3.4,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-6B890FEB4C,Psicología,Ciencias Sociales y Humanas,2,Oficial,333,14,3.3,6,4,5,4,5,11,2,7,25,9,3.4,3.9,3.65,0,0,0,0,Pendiente,1,0
+EST-8A41139747,Ingeniería Informática,Ingenierías,3,Privado,337,14,4.5,5,8,7,5,4,4,10,10,28,20,4.75,4.45,4.6,0,0,0,0,Pagado,1,0
+EST-3B92F1F6B2,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,281,14,3.0,3,3,3,5,3,3,8,1,15,9,3.6,3.55,3.575,0,0,1,1,Pendiente,0,1
+EST-46140C9424,Psicología,Ciencias Sociales y Humanas,5,Oficial,264,14,1.7,3,1,2,1,5,4,2,2,13,4,1.1,1.7,1.4,1,0,0,0,Pagado,1,0
+EST-07F941D0EA,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,273,16,2.3,8,4,3,3,3,2,4,6,15,10,1.9,1.45,1.6749999999999998,1,0,0,0,Pagado,1,0
+EST-1CAB978F7D,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,261,16,3.1,6,2,4,4,8,4,3,4,19,7,3.15,2.25,2.7,1,0,0,0,Pagado,1,0
+EST-6F5CD6FE11,Ingeniería Informática,Ingenierías,3,Privado,222,15,2.1,2,0,0,0,0,0,1,1,2,2,2.45,2.1,2.2750000000000004,1,1,1,1,Sin liquidación,0,1
+EST-EFA569EB8A,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.1,8,7,4,4,6,7,8,7,28,15,2.7,2.8,2.75,1,0,0,0,Pagado,1,0
+EST-8E79BE8B89,Ingeniería Informática,Ingenierías,1,Oficial,319,14,3.9,9,9,6,8,12,8,7,12,39,19,4.1,3.6,3.8499999999999996,0,0,0,0,Pagado,1,0
+EST-85C8AFB3F8,Ingeniería Industrial,Ingenierías,3,Oficial,300,15,3.2,4,4,6,7,3,4,5,6,18,11,2.9,2.8,2.8499999999999996,1,0,0,0,Pagado,1,0
+EST-434D9EEB5A,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,264,15,3.0,6,4,4,4,1,4,8,6,19,14,3.4,2.9,3.15,0,0,0,0,Pagado,1,0
+EST-171F5DB2E3,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,17,3.2,4,2,5,6,4,7,3,4,18,7,4.15,1.85,3.0,0,0,0,0,Pagado,1,0
+EST-BF8962EB40,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,238,14,2.9,4,2,7,4,5,6,5,3,19,8,2.3,3.15,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-E68A45221A,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,17,3.2,6,1,6,5,4,9,5,7,25,12,3.35,3.25,3.3,0,0,0,0,Pagado,1,0
+EST-41EB394538,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,327,15,4.2,4,4,3,4,3,12,6,5,26,11,4.3,3.85,4.075,0,0,0,0,Pagado,1,0
+EST-C7972A1205,Ingeniería Industrial,Ingenierías,1,Oficial,269,15,3.6,9,4,4,2,5,0,0,2,7,2,3.6,4.4,4.0,0,1,0,1,Anulado,0,1
+EST-CEFD3F2068,Ingeniería Informática,Ingenierías,3,Oficial,312,18,3.3,1,2,5,3,4,6,3,5,18,8,2.75,4.15,3.45,0,0,0,0,Pagado,1,0
+EST-79F6B60A7A,Ingeniería Informática,Ingenierías,2,Privado,234,17,3.2,3,6,5,6,6,6,5,0,17,5,2.8,2.85,2.825,1,0,1,0,Sin liquidación,0,1
+EST-D9D9DC1364,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,4.4,10,7,6,14,14,10,8,13,45,21,4.75,4.15,4.45,0,0,0,0,Pagado,1,0
+EST-9C3A220F6D,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,,10,7,9,11,8,6,14,4,32,18,4.4,4.4,4.4,0,0,0,0,Pagado,1,0
+EST-88F6ADC49F,Ingeniería Informática,Ingenierías,4,Privado,258,15,3.1,3,3,4,4,6,2,5,2,15,7,3.15,3.0,3.075,0,0,0,0,Pagado,1,0
+EST-E46E83FE93,Ingeniería Industrial,Ingenierías,3,Oficial,265,16,4.1,8,8,6,12,10,9,9,10,38,19,4.35,4.9,4.625,0,0,0,0,Pagado,1,0
+EST-C5A0EB372B,Ingeniería Industrial,Ingenierías,2,Oficial,310,15,3.6,7,4,6,9,1,6,9,5,21,14,2.85,4.45,3.6500000000000004,0,0,0,0,Pendiente,1,0
+EST-223EEA66B1,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,342,17,2.9,8,3,6,5,5,1,4,5,15,9,2.3,3.55,2.925,1,0,0,0,Pagado,1,0
+EST-17449EF793,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,305,17,3.7,7,7,4,3,2,0,1,0,3,1,3.25,3.3,3.275,0,1,0,0,Sin liquidación,0,1
+EST-F6BD4867C6,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,243,17,3.0,4,10,6,13,11,4,12,12,39,24,1.95,2.7,2.325,1,0,0,0,Pagado,1,0
+EST-94C174C4D4,Ingeniería Informática,Ingenierías,4,Privado,257,17,3.2,10,3,11,8,10,6,8,9,33,17,2.6,3.0,2.8,1,0,0,0,Pagado,1,0
+EST-7A4AD28252,Ingeniería Informática,Ingenierías,3,Oficial,304,15,4.4,4,6,7,4,11,5,11,4,31,15,3.1,4.5,3.8,0,0,0,0,Pagado,1,0
+EST-59D8DDC90F,Ingeniería Industrial,Ingenierías,2,Privado,277,18,3.3,10,4,4,3,4,7,6,3,20,9,3.25,3.85,3.55,0,0,0,0,Pagado,1,0
+EST-E2A998F3A2,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,272,16,3.1,11,6,3,5,9,4,4,5,22,9,2.55,3.25,2.9,1,0,0,0,Anulado,0,1
+EST-41982DA094,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,249,17,2.0,1,2,2,3,3,4,1,4,12,5,1.95,1.45,1.7,1,0,0,0,Sin liquidación,0,1
+EST-2F54347ACE,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,330,15,4.4,8,7,5,11,7,11,12,8,38,20,4.85,4.65,4.75,0,0,0,0,Pagado,1,0
+EST-627558B4CD,Psicología,Ciencias Sociales y Humanas,1,Oficial,312,18,2.7,4,4,6,6,5,6,2,7,20,9,1.75,2.35,2.05,1,0,0,0,Pagado,1,0
+EST-052247C6AD,Ingeniería Industrial,Ingenierías,1,Oficial,299,16,3.3,1,4,2,2,3,2,0,3,8,3,2.85,3.35,3.1,0,1,0,0,Pagado,1,0
+EST-84181A898C,Ingeniería Informática,Ingenierías,4,Privado,301,16,3.5,5,2,5,8,2,12,8,5,27,13,3.5,3.7,3.6,0,0,0,0,Pagado,1,0
+EST-0BF523F788,Ingeniería Informática,Ingenierías,2,Oficial,221,16,1.7,1,0,0,2,2,0,3,0,5,3,2.75,1.1,1.925,1,1,0,0,Pendiente,0,1
+EST-1F47C35935,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,18,,4,6,6,5,6,7,1,6,20,7,1.7,2.7,2.2,1,0,0,0,Pagado,1,0
+EST-4F1034EBB8,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,319,18,3.3,6,1,6,8,3,6,5,5,19,10,3.35,2.75,3.05,0,0,0,0,Pagado,1,0
+EST-DA895E7C42,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,297,16,3.8,2,6,2,5,9,5,4,3,21,7,5.0,3.0,4.0,0,0,0,0,Pagado,1,0
+EST-BAD3821B15,Ingeniería Industrial,Ingenierías,3,Oficial,228,14,2.5,1,1,1,1,2,0,0,1,3,1,2.95,2.9,2.925,1,1,0,0,Pagado,1,0
+EST-4F9B1AC4FF,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.3,2,7,6,5,4,4,4,3,15,7,3.95,3.25,3.6,0,0,0,0,Pagado,1,0
+EST-1D5210E095,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,300,16,4.2,4,7,9,5,4,9,5,9,27,14,3.7,3.6,3.6500000000000004,0,0,0,0,Pagado,1,0
+EST-A5A45225B9,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,225,14,3.8,8,4,5,4,7,6,3,6,22,9,4.8,4.25,4.525,0,0,0,0,Pagado,1,0
+EST-E55F10FA75,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,16,3.8,7,8,5,6,3,7,6,10,26,16,3.1,3.65,3.375,0,0,0,0,Pagado,1,0
+EST-E88DD40AB9,Psicología,Ciencias Sociales y Humanas,2,Privado,306,15,2.8,4,9,7,4,10,8,6,5,29,11,2.4,3.3,2.8499999999999996,1,0,0,0,Pagado,1,0
+EST-7D48C2AD4E,Ingeniería Industrial,Ingenierías,4,Oficial,241,16,2.8,3,6,5,5,4,5,4,4,17,8,2.7,2.85,2.7750000000000004,1,0,0,0,Pagado,1,0
+EST-D1E6B3DB83,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,15,2.8,1,0,3,1,2,4,2,2,10,4,2.55,2.7,2.625,1,0,0,0,Pendiente,0,1
+EST-8B4AEB36AA,Ingeniería Informática,Ingenierías,2,Oficial,330,14,4.2,8,4,15,14,10,6,8,7,31,15,3.35,4.75,4.05,0,0,0,0,Pagado,1,0
+EST-FC0653F981,Ingeniería Industrial,Ingenierías,2,Privado,382,15,4.1,14,6,11,9,11,7,9,5,32,14,4.05,3.5,3.775,0,0,0,0,Pagado,1,0
+EST-C3F54B54AD,Ingeniería Informática,Ingenierías,2,Privado,310,16,4.0,4,3,4,7,10,3,5,3,21,8,3.3,4.2,3.75,0,0,0,0,Pagado,1,0
+EST-6A43D45617,Ingeniería Informática,Ingenierías,4,Oficial,408,15,4.4,8,5,4,7,3,5,2,6,16,8,4.05,4.15,4.1,0,0,0,0,Pagado,1,0
+EST-D2E6335927,Ingeniería Industrial,Ingenierías,3,Privado,348,16,4.0,8,5,10,6,10,6,12,5,33,17,3.4,3.4,3.4,0,0,0,0,Pagado,1,0
+EST-539F688AB5,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,191,16,2.6,1,1,5,1,2,3,2,2,9,4,3.6,2.05,2.825,1,0,1,0,Sin liquidación,0,1
+EST-E98F3465C0,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,308,15,4.5,6,8,8,11,6,6,15,5,32,20,4.4,4.0,4.2,0,0,0,0,Pagado,1,0
+EST-B349BC852D,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,314,15,3.9,9,4,4,4,3,10,6,4,23,10,3.35,3.0,3.175,0,0,0,0,Pagado,1,0
+EST-414D89C46B,Ingeniería Informática,Ingenierías,3,Oficial,277,18,3.3,3,3,5,7,4,9,2,7,22,9,2.75,3.6,3.175,0,0,0,0,Pendiente,1,0
+EST-B25466A9C1,Ingeniería Informática,Ingenierías,3,Oficial,204,15,3.7,4,6,6,4,3,5,7,8,23,15,3.3,3.8,3.55,0,0,0,0,Pagado,1,0
+EST-A9EF6E0C06,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,312,16,4.0,2,3,6,5,6,2,2,4,14,6,3.9,4.5,4.2,0,0,0,0,Pagado,1,0
+EST-788B02E7A9,Ingeniería Industrial,Ingenierías,6,Oficial,275,17,2.0,2,4,6,3,2,4,3,3,12,6,2.45,1.7,2.075,1,0,1,1,Pendiente,0,1
+EST-C9DD064916,Ingeniería Informática,Ingenierías,2,Privado,271,17,3.1,11,5,2,3,4,8,9,6,27,15,3.65,2.15,2.9,1,0,0,0,Pagado,1,0
+EST-4ED1FB4A9D,Ingeniería Informática,Ingenierías,6,Oficial,285,16,3.9,6,1,6,1,5,6,4,7,22,11,2.4,3.2,2.8,1,0,0,0,Pagado,1,0
+EST-547C827320,Ingeniería Industrial,Ingenierías,3,Oficial,266,17,4.2,6,11,3,5,11,7,10,10,38,20,3.65,5.0,4.325,0,0,0,0,Pagado,1,0
+EST-EB5FFA74EC,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,274,16,3.0,5,6,1,6,6,3,8,9,26,17,3.85,2.5,3.175,0,0,0,0,Pagado,1,0
+EST-00250EF5C8,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,269,14,4.2,10,6,5,5,7,2,6,7,22,13,5.0,4.45,4.725,0,0,0,0,Pagado,1,0
+EST-29E92A6FBB,Ingeniería Informática,Ingenierías,3,Oficial,334,17,2.6,2,2,4,1,7,2,3,1,13,4,1.8,3.2,2.5,1,0,0,0,Pendiente,0,1
+EST-CB3CE89F5F,Psicología,Ciencias Sociales y Humanas,2,Privado,275,18,2.9,6,3,4,2,3,3,7,3,16,10,2.65,2.55,2.5999999999999996,1,0,0,1,Pagado,1,0
+EST-BEA436F4A7,Psicología,Ciencias Sociales y Humanas,1,Oficial,345,15,4.2,2,7,8,3,6,8,8,5,27,13,3.35,3.6,3.475,0,0,0,1,Pagado,1,0
+EST-23F012C48C,Ingeniería Informática,Ingenierías,1,Privado,331,16,3.6,6,9,4,2,3,3,6,6,18,12,3.65,3.3,3.4749999999999996,0,0,0,1,Sin liquidación,0,1
+EST-95904F8A05,Ingeniería Industrial,Ingenierías,2,Privado,292,18,2.7,7,8,8,8,6,7,7,6,26,13,2.7,2.5,2.6,1,0,0,0,Pagado,1,0
+EST-34822ED487,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,320,18,3.5,8,8,6,5,5,8,13,8,34,21,4.0,4.15,4.075,0,0,0,0,Pagado,1,0
+EST-DF851AEAA9,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,14,3.0,4,4,3,6,5,5,7,5,22,12,2.9,3.05,2.9749999999999996,1,0,0,0,Pagado,1,0
+EST-58AAD0716D,Psicología,Ciencias Sociales y Humanas,3,Oficial,303,16,2.8,8,3,2,5,3,3,3,6,15,9,3.5,3.1,3.3,0,0,0,0,Pagado,1,0
+EST-2A7B34EC86,Psicología,Ciencias Sociales y Humanas,1,Oficial,327,14,4.0,4,6,6,5,5,6,5,6,22,11,3.65,4.05,3.8499999999999996,0,0,1,0,Anulado,0,1
+EST-BF96261281,Psicología,Ciencias Sociales y Humanas,2,Privado,346,15,3.8,7,6,5,11,6,5,8,4,23,12,3.35,4.25,3.8,0,0,0,1,Pagado,1,0
+EST-50D56EDA66,Psicología,Ciencias Sociales y Humanas,3,Privado,323,15,3.7,5,1,4,4,5,2,5,5,17,10,4.2,3.3,3.75,0,0,0,0,Pagado,1,0
+EST-8FA7B5930D,Ingeniería Informática,Ingenierías,2,Oficial,234,16,2.4,2,1,0,1,2,1,3,3,9,6,2.6,2.3,2.45,1,0,0,0,Pagado,1,0
+EST-C2C1CD66B6,Ingeniería Industrial,Ingenierías,6,Privado,346,15,4.2,7,3,6,7,7,4,4,4,19,8,4.15,4.05,4.1,0,0,0,0,Pagado,1,0
+EST-BD36F95639,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,299,17,3.0,3,2,3,5,1,8,3,0,12,3,3.75,3.25,3.5,0,0,0,0,Anulado,0,1
+EST-5C17D94682,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,269,16,3.5,8,3,4,9,5,6,4,2,17,6,2.8,4.05,3.425,0,0,0,0,Pagado,1,0
+EST-D37A91C195,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,276,18,3.6,6,8,4,4,4,5,5,7,21,12,3.05,3.2,3.125,0,0,0,0,Pagado,1,0
+EST-ACE1E4539B,Ingeniería Industrial,Ingenierías,6,Privado,269,16,4.0,5,7,8,8,4,7,10,6,27,16,4.3,4.95,4.625,0,0,0,0,Pagado,1,0
+EST-B13C43B589,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,15,3.4,4,4,10,0,5,6,4,2,17,6,3.3,3.5,3.4,0,0,0,0,Pagado,1,0
+EST-2839E6C66F,Psicología,Ciencias Sociales y Humanas,1,Oficial,325,14,3.4,3,2,3,5,2,3,3,2,10,5,3.65,3.45,3.55,0,0,0,0,Pagado,1,0
+EST-D45DD8D5CE,Ingeniería Industrial,Ingenierías,2,Privado,244,14,3.0,0,9,6,3,7,6,2,7,22,9,2.2,3.65,2.925,1,0,1,0,Pendiente,0,1
+EST-3D94F8F5D6,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,282,16,3.7,13,10,11,4,16,8,16,11,51,27,3.85,4.65,4.25,0,0,0,0,Pagado,1,0
+EST-BC0E4FF686,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,229,14,2.8,4,4,4,6,2,6,1,4,13,5,3.1,2.55,2.825,1,0,0,0,Pagado,1,0
+EST-EEB1A73487,Ingeniería Informática,Ingenierías,4,Oficial,212,18,1.9,1,0,2,1,0,0,0,0,0,0,2.35,1.65,2.0,1,1,0,0,Pendiente,0,1
+EST-E776961A5A,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,307,15,3.3,6,2,5,4,7,7,6,4,24,10,3.35,4.5,3.925,0,0,0,0,Pendiente,1,0
+EST-78F25F182D,Psicología,Ciencias Sociales y Humanas,4,Oficial,266,17,3.6,5,8,7,6,5,7,6,3,21,9,3.8,5.0,4.4,0,0,0,0,Pagado,1,0
+EST-756CDA40B1,Ingeniería Informática,Ingenierías,4,Oficial,279,16,3.0,2,8,8,4,0,4,2,2,8,4,2.65,3.7,3.175,0,1,1,0,Sin liquidación,0,1
+EST-540064C9DF,Psicología,Ciencias Sociales y Humanas,4,Privado,362,15,3.3,6,13,9,8,8,10,4,6,28,10,3.1,3.15,3.125,0,0,0,0,Pagado,1,0
+EST-A2A61FD653,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,229,15,2.8,5,10,4,5,10,0,0,1,11,1,3.0,2.8,2.9,1,0,0,1,Sin liquidación,0,1
+EST-485196668D,Ingeniería Industrial,Ingenierías,3,Privado,332,16,2.9,5,2,4,2,6,7,2,6,21,8,3.3,2.55,2.925,1,0,0,0,Pagado,1,0
+EST-490B7B2F76,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,345,14,3.1,8,9,2,10,6,5,3,7,21,10,3.45,2.95,3.2,0,0,0,0,Pagado,1,0
+EST-BDEEBD6628,Psicología,Ciencias Sociales y Humanas,3,Oficial,287,17,3.3,4,4,1,6,2,2,1,3,8,4,2.6,2.4,2.5,1,1,0,0,Pendiente,1,0
+EST-64A0A3E153,Ingeniería Informática,Ingenierías,2,Oficial,325,16,5.0,7,8,11,8,4,1,7,6,18,13,4.25,4.65,4.45,0,0,0,0,Pagado,1,0
+EST-299344594E,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,216,16,3.8,5,3,2,3,3,5,4,3,15,7,3.1,4.05,3.575,0,0,0,0,Pagado,1,0
+EST-71CDE67342,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,192,14,3.4,9,9,2,5,9,7,7,6,29,13,4.05,3.35,3.7,0,0,0,0,Pagado,1,0
+EST-223F8D895E,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,16,2.3,2,0,0,2,2,0,3,2,7,5,1.2,3.05,2.125,1,1,1,0,Pendiente,0,1
+EST-54FDC75DC6,Psicología,Ciencias Sociales y Humanas,4,Privado,324,18,3.5,1,4,6,3,3,4,7,5,19,12,3.8,3.95,3.875,0,0,0,0,Pagado,1,0
+EST-8459AA3FFF,Ingeniería Informática,Ingenierías,3,Privado,323,14,4.5,9,11,12,12,4,12,13,12,41,25,4.8,4.75,4.775,0,0,0,0,Pagado,1,0
+EST-4BE7FAB5EB,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,264,15,3.9,6,6,6,3,4,5,1,3,13,4,3.55,4.05,3.8,0,0,0,0,Pagado,1,0
+EST-3DC2513531,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,270,17,2.4,6,3,4,2,4,3,2,4,13,6,2.9,1.35,2.125,1,0,1,1,Pendiente,0,1
+EST-C22B0767BF,Ingeniería Industrial,Ingenierías,2,Privado,302,18,3.2,4,3,11,8,1,1,0,0,2,0,3.6,3.65,3.625,1,1,0,0,Pendiente,0,1
+EST-0D4B7B13A7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,262,15,2.6,4,2,2,0,2,2,2,4,10,6,3.6,2.2,2.9000000000000004,1,0,0,0,Pagado,1,0
+EST-D72790A3F4,Psicología,Ciencias Sociales y Humanas,2,Oficial,340,17,4.4,7,7,5,5,10,6,10,8,34,18,4.7,4.25,4.475,0,0,0,0,Pendiente,1,0
+EST-5A908CDFFC,Ingeniería Informática,Ingenierías,1,Oficial,319,16,3.4,3,3,5,6,2,2,3,5,12,8,3.95,3.25,3.6,0,0,0,0,Pendiente,1,0
+EST-7420C07CD1,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,17,3.1,2,1,3,6,1,7,6,5,19,11,3.45,4.45,3.95,0,0,0,0,Pagado,1,0
+EST-97C02E9FAC,Ingeniería Industrial,Ingenierías,3,Oficial,331,18,4.0,5,2,3,10,8,4,7,9,28,16,3.8,5.0,4.4,0,0,0,0,Pagado,1,0
+EST-220091C95C,Psicología,Ciencias Sociales y Humanas,6,Oficial,403,17,4.0,11,11,12,10,9,1,10,7,27,17,3.95,4.3,4.125,0,0,0,0,Pagado,1,0
+EST-E9E4CDFC80,Ingeniería Informática,Ingenierías,2,Oficial,311,16,2.8,2,4,3,2,5,3,0,8,16,8,2.6,3.05,2.825,1,0,0,0,Pagado,1,0
+EST-766F903321,Ingeniería Informática,Ingenierías,1,Oficial,361,14,4.5,9,9,4,9,7,8,7,6,28,13,4.95,3.85,4.4,0,0,0,0,Pagado,1,0
+EST-EBBFCF5A68,Psicología,Ciencias Sociales y Humanas,3,Privado,299,15,3.1,4,4,6,5,3,6,5,5,19,10,2.8,2.65,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-08FA737979,Psicología,Ciencias Sociales y Humanas,2,Oficial,227,17,3.1,4,5,9,5,4,7,5,3,19,8,4.0,2.8,3.4,0,0,0,0,Pagado,1,0
+EST-EB7E16593E,Psicología,Ciencias Sociales y Humanas,2,Privado,272,16,3.1,9,9,7,5,11,4,6,4,25,10,3.7,2.65,3.175,0,0,0,0,Pagado,1,0
+EST-E6DF2456B8,Psicología,Ciencias Sociales y Humanas,2,Oficial,335,18,4.5,5,5,3,8,10,3,8,7,28,15,4.1,4.55,4.324999999999999,0,0,0,0,Pagado,1,0
+EST-01BAD5A9F1,Psicología,Ciencias Sociales y Humanas,5,Privado,334,17,3.4,6,7,8,3,6,5,0,6,17,6,2.35,3.8,3.075,0,0,0,1,Pagado,1,0
+EST-A442F5F50B,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,283,16,2.7,0,4,3,3,5,5,2,2,14,4,3.0,2.9,2.95,1,0,0,0,Pendiente,0,1
+EST-8FB933DFAF,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.4,6,8,5,8,3,8,5,7,23,12,2.8,4.3,3.55,0,0,0,0,Pagado,1,0
+EST-720299440E,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,293,18,2.7,2,4,5,2,2,3,1,3,9,4,2.6,2.45,2.5250000000000004,1,0,0,0,Pagado,1,0
+EST-903F1ECFAD,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,196,18,3.0,7,1,3,2,3,3,4,5,15,9,3.2,3.95,3.575,0,0,0,0,Pagado,1,0
+EST-BA89E22DC8,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,248,15,2.4,1,0,1,2,1,0,2,2,5,4,1.3,1.7,1.5,1,1,0,0,Pendiente,0,1
+EST-5F4896388A,Ingeniería Industrial,Ingenierías,5,Privado,254,16,3.2,5,2,5,6,4,7,7,2,20,9,3.25,3.3,3.275,0,0,0,0,Pagado,1,0
+EST-2EDF862BFA,Ingeniería Industrial,Ingenierías,6,Privado,287,16,4.2,7,5,4,4,6,6,5,5,22,10,3.8,4.55,4.175,0,0,0,0,Pagado,1,0
+EST-08280ED2CF,Ingeniería Industrial,Ingenierías,2,Privado,264,16,2.9,3,0,3,3,4,1,3,1,9,4,3.25,4.0,3.625,0,0,0,0,Pagado,1,0
+EST-5B990CB43E,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,317,15,3.9,11,13,8,5,12,5,9,9,35,18,3.5,3.25,3.375,0,0,0,0,Pagado,1,0
+EST-639F28DA37,Ingeniería Informática,Ingenierías,2,Privado,352,15,3.1,4,4,6,8,7,7,3,3,20,6,4.1,3.1,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-330310FBD3,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,316,17,3.9,10,11,7,6,5,11,10,6,32,16,3.1,3.0,3.05,0,0,0,0,Pagado,1,0
+EST-9212A80A2C,Psicología,Ciencias Sociales y Humanas,5,Oficial,280,15,2.6,3,5,4,5,3,1,9,6,19,15,1.8,3.6,2.7,1,0,0,0,Pagado,1,0
+EST-035BFB5696,Psicología,Ciencias Sociales y Humanas,2,Oficial,239,15,3.5,13,5,9,4,10,9,10,11,40,21,3.45,4.15,3.8000000000000003,0,0,0,0,Pagado,1,0
+EST-FFABA89F11,Ingeniería Informática,Ingenierías,2,Privado,312,18,3.4,10,9,9,16,7,6,6,5,24,11,3.6,2.5,3.05,0,0,0,0,Pagado,1,0
+EST-285552BBD7,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,302,15,3.2,9,4,3,4,3,5,6,5,19,11,3.6,3.75,3.675,0,0,0,0,Pagado,1,0
+EST-4FD9849316,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,362,16,4.1,8,5,10,6,9,5,5,7,26,12,4.4,4.55,4.475,0,0,0,1,Pagado,1,0
+EST-B0401F75FA,Psicología,Ciencias Sociales y Humanas,3,Oficial,305,18,3.4,9,4,8,5,17,9,5,3,34,8,4.6,3.45,4.025,0,0,0,0,Pagado,1,0
+EST-1277C9DD0F,Psicología,Ciencias Sociales y Humanas,6,Privado,358,16,,7,7,6,7,8,1,7,9,25,16,3.6,4.6,4.1,0,0,0,0,Pagado,1,0
+EST-8583007FB6,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,263,15,3.3,10,6,12,3,10,4,8,10,32,18,3.2,3.9,3.55,0,0,0,0,Pagado,1,0
+EST-98526899E4,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,323,18,2.7,4,5,3,5,5,2,3,4,14,7,3.7,2.3,3.0,0,0,0,0,Pendiente,0,1
+EST-F1FEBF582A,Ingeniería Industrial,Ingenierías,2,Oficial,318,14,3.2,3,3,4,5,5,0,0,4,9,4,2.9,3.55,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-68BCA94527,Ingeniería Industrial,Ingenierías,1,Oficial,327,15,3.1,7,11,7,7,8,5,6,2,21,8,1.9,4.5,3.2,0,0,0,0,Pagado,1,0
+EST-DAA7D7361E,Psicología,Ciencias Sociales y Humanas,5,Oficial,292,17,3.4,8,3,7,7,13,1,6,6,26,12,3.45,3.75,3.6,0,0,0,0,Pagado,1,0
+EST-C11E4972BD,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,386,18,5.0,8,15,11,9,10,9,13,12,44,25,5.0,4.9,4.95,0,0,0,0,Pagado,1,0
+EST-607AB3252B,Ingeniería Informática,Ingenierías,1,Privado,284,15,2.9,6,6,2,3,5,7,3,9,24,12,1.8,2.7,2.25,1,0,0,0,Pagado,1,0
+EST-A4D0E0E820,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,14,2.7,8,6,4,4,5,3,5,8,21,13,1.3,2.3,1.7999999999999998,1,0,0,0,Pagado,1,0
+EST-F95A1E7D94,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,313,18,3.4,5,3,5,8,6,3,8,4,21,12,4.25,2.95,3.6,0,0,0,0,Pagado,1,0
+EST-03A328E51E,Psicología,Ciencias Sociales y Humanas,6,Oficial,279,15,3.7,8,6,6,6,5,9,10,5,29,15,2.95,3.8,3.375,0,0,0,0,Pagado,1,0
+EST-DC2DD64AFF,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,14,3.8,8,1,7,6,4,6,7,0,17,7,4.05,3.65,3.8499999999999996,0,0,0,0,Pagado,1,0
+EST-5AD0CC0BB1,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,302,17,4.0,12,10,10,15,13,8,5,9,35,14,4.7,4.9,4.800000000000001,0,0,0,0,Pagado,1,0
+EST-A5560D575E,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,268,14,2.4,2,2,4,1,1,2,6,4,13,10,2.45,2.45,2.45,1,0,0,1,Pendiente,0,1
+EST-7101E64E75,Ingeniería Industrial,Ingenierías,2,Oficial,272,17,2.7,4,8,7,4,7,7,4,7,25,11,3.45,3.05,3.25,0,0,0,0,Pagado,1,0
+EST-E4E014FD59,Psicología,Ciencias Sociales y Humanas,2,Privado,276,14,2.9,5,7,8,6,5,6,8,5,24,13,3.4,2.4,2.9,1,0,0,0,Pagado,1,0
+EST-75FBDED189,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,314,15,4.2,10,14,8,9,9,5,8,5,27,13,4.0,5.0,4.5,0,0,0,0,Pagado,1,0
+EST-930839807F,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,301,16,3.6,3,5,7,6,6,2,7,5,20,12,4.4,4.15,4.275,0,0,0,0,Pagado,1,0
+EST-656848DAA6,Psicología,Ciencias Sociales y Humanas,6,Privado,243,14,3.3,8,2,2,5,5,3,2,8,18,10,3.3,3.15,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-3859D9C59B,Psicología,Ciencias Sociales y Humanas,2,Privado,266,16,3.5,10,7,3,2,11,5,5,2,23,7,2.95,3.95,3.45,0,0,0,0,Pagado,1,0
+EST-66679E8D25,Ingeniería Industrial,Ingenierías,2,Oficial,310,14,4.1,3,3,10,8,4,4,7,5,20,12,4.3,4.6,4.449999999999999,0,0,0,0,Pagado,1,0
+EST-677650A8D4,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,254,18,3.1,6,8,2,10,9,7,6,4,26,10,1.75,3.0,2.375,1,0,0,0,Pagado,1,0
+EST-7C644B26A2,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,269,18,3.5,4,4,6,7,3,6,4,3,16,7,2.8,3.75,3.275,0,0,0,0,Pagado,1,0
+EST-A6AA084DE8,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,17,3.1,6,13,5,5,8,7,10,5,30,15,1.9,2.3,2.0999999999999996,1,0,0,0,Pendiente,1,0
+EST-1437EDD09C,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,309,16,2.7,8,7,5,4,6,5,1,3,15,4,2.25,2.85,2.55,1,0,0,0,Pagado,1,0
+EST-A68D5F874D,Psicología,Ciencias Sociales y Humanas,1,Privado,297,17,3.1,6,4,8,6,5,4,0,6,15,6,2.75,3.3,3.025,0,0,0,0,Pagado,1,0
+EST-7B2235A902,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,270,17,2.9,4,6,6,7,5,3,4,9,21,13,3.6,3.55,3.575,0,0,0,0,Pagado,1,0
+EST-18E6221757,Ingeniería Informática,Ingenierías,3,Privado,307,16,3.6,2,3,9,7,7,7,4,6,24,10,2.65,3.75,3.2,0,0,0,0,Pagado,1,0
+EST-35C00031FE,Ingeniería Industrial,Ingenierías,3,Oficial,352,18,3.4,7,14,6,8,11,9,6,14,40,20,3.25,3.4,3.325,0,0,0,0,Pagado,1,0
+EST-30DB4A24ED,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,302,17,3.8,7,8,10,6,7,8,9,8,32,17,3.8,3.7,3.75,0,0,0,0,Pagado,1,0
+EST-B57DD264EB,Ingeniería Informática,Ingenierías,5,Oficial,274,18,3.0,5,5,2,7,2,1,5,4,12,9,2.3,4.1,3.1999999999999997,0,0,0,0,Pagado,1,0
+EST-AE0E8FF5FC,Ingeniería Industrial,Ingenierías,4,Oficial,267,17,3.3,5,2,7,4,3,5,7,6,21,13,4.0,3.95,3.975,0,0,0,0,Pagado,1,0
+EST-83BFE207CE,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.9,9,10,7,9,5,1,2,4,12,6,3.65,3.3,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-D91B8CAFBD,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,16,5.0,7,2,6,6,15,12,10,9,46,19,4.45,5.0,4.725,0,0,0,1,Pagado,1,0
+EST-157B535ED9,Psicología,Ciencias Sociales y Humanas,5,Privado,272,14,3.8,3,5,7,2,7,6,8,6,27,14,3.8,4.7,4.25,0,0,0,0,Pagado,1,0
+EST-A6E81FA872,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,294,14,3.9,11,4,4,5,5,5,6,12,28,18,4.95,4.0,4.475,0,0,0,0,Pagado,1,0
+EST-60181DEF66,Ingeniería Informática,Ingenierías,6,Oficial,316,17,3.9,9,8,11,5,4,5,4,9,22,13,3.65,4.95,4.3,0,0,0,0,Pagado,1,0
+EST-6ECE816021,Ingeniería Informática,Ingenierías,2,Oficial,332,18,2.9,2,6,7,0,6,6,3,10,25,13,3.0,3.2,3.1,0,0,0,0,Pagado,1,0
+EST-A19F9BA677,Ingeniería Industrial,Ingenierías,1,Oficial,275,18,3.7,8,7,11,9,13,4,7,9,33,16,3.2,3.4,3.3,0,0,0,1,Pagado,1,0
+EST-C1AC4DEBEB,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,272,14,3.6,10,5,14,4,3,8,7,3,21,10,2.75,4.3,3.525,0,0,0,0,Pagado,1,0
+EST-F93521B0AF,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,236,18,1.9,6,3,5,2,1,5,5,4,15,9,1.6,1.5,1.55,1,0,0,1,Pagado,1,0
+EST-F4D9F66F19,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,14,4.1,6,9,9,3,7,7,8,6,28,14,4.2,3.8,4.0,0,0,0,0,Pendiente,1,0
+EST-5AB1C50DB7,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,263,15,3.1,1,5,1,7,3,9,6,3,21,9,2.8,2.7,2.75,1,0,0,0,Pendiente,0,1
+EST-92F20F830D,Ingeniería Industrial,Ingenierías,3,Oficial,330,16,4.3,9,9,8,8,4,12,4,5,25,9,4.1,4.85,4.475,0,0,0,0,Pagado,1,0
+EST-60350EB769,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,268,15,2.7,3,3,9,5,5,5,7,3,20,10,3.65,4.15,3.9000000000000004,0,0,0,0,Pagado,1,0
+EST-20CED8A602,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,229,16,2.4,4,5,9,4,5,1,8,5,19,13,2.75,2.9,2.825,1,0,0,0,Pendiente,1,0
+EST-6FDAA5312F,Ingeniería Industrial,Ingenierías,2,Oficial,307,14,3.3,1,4,4,6,2,3,3,5,13,8,3.85,3.25,3.55,0,0,0,0,Pagado,1,0
+EST-062448EA4B,Ingeniería Industrial,Ingenierías,3,Oficial,293,14,3.9,5,9,7,10,9,11,11,11,42,22,4.2,4.8,4.5,0,0,0,1,Pagado,1,0
+EST-ADAA24B6A6,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,276,14,4.7,6,6,8,8,8,9,6,6,29,12,3.95,5.0,4.475,0,0,0,0,Pagado,1,0
+EST-38D32CA80F,Ingeniería Industrial,Ingenierías,1,Oficial,268,14,3.4,4,2,1,3,4,4,2,4,14,6,3.8,4.25,4.025,0,0,0,0,Pagado,1,0
+EST-FD26232BFD,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,18,3.3,5,4,4,7,4,2,7,2,15,9,3.55,2.95,3.25,0,0,0,0,Pagado,1,0
+EST-DB0A5B12DD,Ingeniería Industrial,Ingenierías,2,Oficial,322,18,3.3,3,7,8,6,2,5,7,4,18,11,3.5,3.75,3.625,0,0,0,0,Pagado,1,0
+EST-80200D3A81,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,238,18,3.4,3,3,3,5,9,7,6,8,30,14,3.85,3.2,3.5250000000000004,0,0,0,0,Pagado,1,0
+EST-7B7F0D4B2D,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.6,7,7,8,6,11,10,7,9,37,16,4.3,2.75,3.525,0,0,0,0,Pagado,1,0
+EST-06AC215547,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,337,18,3.4,0,7,4,1,5,7,2,3,17,5,3.0,3.5,3.25,0,0,0,0,Pagado,1,0
+EST-C3900A6A54,Ingeniería Industrial,Ingenierías,1,Privado,290,18,,5,7,6,7,3,3,5,7,18,12,3.35,2.9,3.125,0,0,0,0,Pagado,1,0
+EST-9F197830C7,Ingeniería Industrial,Ingenierías,1,Oficial,265,18,1.9,0,0,1,0,0,0,0,0,0,0,1.15,0.95,1.0499999999999998,1,1,0,0,Pagado,1,0
+EST-9911A3AB05,Ingeniería Industrial,Ingenierías,2,Oficial,325,15,3.9,7,4,8,5,6,4,4,5,19,9,4.05,3.5,3.775,0,0,0,0,Pagado,1,0
+EST-9F0F31678A,Psicología,Ciencias Sociales y Humanas,3,Oficial,300,18,4.5,7,10,15,10,16,9,14,6,45,20,4.55,4.35,4.449999999999999,0,0,0,0,Pagado,1,0
+EST-B0937D5E5E,Ingeniería Industrial,Ingenierías,6,Privado,245,14,3.0,4,6,6,9,6,8,6,4,24,10,2.8,2.6,2.7,1,0,0,0,Pagado,1,0
+EST-BFF3ACAEAB,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,321,14,3.9,5,7,14,10,7,10,7,6,30,13,5.0,3.75,4.375,0,0,0,0,Pagado,1,0
+EST-C9F8BB5571,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,18,3.9,4,4,7,6,5,10,2,8,25,10,4.6,3.6,4.1,0,0,0,0,Pagado,1,0
+EST-7BF6277375,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,304,14,3.9,6,7,8,7,5,3,9,6,23,15,3.75,3.95,3.85,0,0,0,0,Pagado,1,0
+EST-7C46BBE4F3,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,273,15,4.0,6,10,8,7,9,4,8,5,26,13,4.15,2.65,3.4000000000000004,0,0,0,0,Pagado,1,0
+EST-D66656A0B1,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,336,16,3.4,6,7,4,5,7,4,4,5,20,9,2.4,2.7,2.55,1,0,0,0,Pagado,1,0
+EST-F5FDC9C995,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,286,18,3.5,7,7,8,6,5,7,7,7,26,14,4.6,3.5,4.05,0,0,0,0,Pagado,1,0
+EST-E0FCEE147E,Ingeniería Industrial,Ingenierías,1,Oficial,286,15,3.6,7,11,6,2,5,2,5,6,18,11,3.5,4.4,3.95,0,0,0,1,Pagado,1,0
+EST-C025D17417,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,347,16,3.3,6,6,4,8,10,12,11,10,43,21,3.5,4.0,3.75,0,0,0,0,Pagado,1,0
+EST-05B3200DE4,Ingeniería Informática,Ingenierías,3,Oficial,278,17,3.2,3,3,8,8,6,5,3,4,18,7,3.45,2.4,2.925,1,0,0,0,Pagado,1,0
+EST-B79B7AC2D1,Psicología,Ciencias Sociales y Humanas,2,Oficial,313,17,4.0,7,4,7,3,7,7,5,5,24,10,3.45,3.5,3.475,0,0,0,0,Pagado,1,0
+EST-FE751E1A9E,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,284,16,3.2,2,8,3,3,9,2,4,7,22,11,3.1,3.1,3.1,0,0,0,1,Pagado,1,0
+EST-5913CAF613,Ingeniería Industrial,Ingenierías,1,Privado,228,17,2.7,3,3,3,3,3,4,4,5,16,9,3.65,2.15,2.9,1,0,0,0,Pagado,1,0
+EST-62A94A03CC,Ingeniería Industrial,Ingenierías,6,Oficial,384,18,4.9,9,9,5,7,5,9,15,8,37,23,5.0,4.7,4.85,0,0,0,0,Pagado,1,0
+EST-8A1E28C384,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,389,14,3.9,5,6,12,8,12,8,13,8,41,21,4.75,4.85,4.8,0,0,0,0,Pagado,1,0
+EST-D8741EBD04,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,299,18,3.1,5,5,5,9,8,4,8,5,25,13,3.85,3.8,3.825,0,0,0,0,Pagado,1,0
+EST-3F96C3E089,Psicología,Ciencias Sociales y Humanas,4,Privado,280,14,2.6,2,2,1,2,4,4,1,1,10,2,2.0,2.8,2.4,1,0,0,0,Pagado,1,0
+EST-86B2717E4F,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,314,17,3.3,3,6,4,8,5,4,3,3,15,6,3.75,3.4,3.575,0,0,0,1,Pendiente,0,1
+EST-4F64B8DBD4,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,275,14,3.7,3,3,3,6,7,3,2,10,22,12,3.9,3.05,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-3B32E217DA,Ingeniería Industrial,Ingenierías,3,Privado,241,18,2.9,4,2,4,4,4,1,6,3,14,9,3.15,2.4,2.775,1,0,0,0,Pagado,1,0
+EST-C488CC1B0B,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,225,18,2.3,0,4,5,2,5,2,4,4,15,8,1.75,1.6,1.675,1,0,1,0,Sin liquidación,0,1
+EST-418E12FAD5,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,309,15,3.7,3,4,3,4,2,6,5,4,17,9,3.3,4.2,3.75,0,0,0,0,Pagado,1,0
+EST-600138BA08,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,277,15,2.9,1,6,5,5,3,3,2,4,12,6,3.4,2.6,3.0,0,0,0,0,Pagado,1,0
+EST-F9DB608B09,Ingeniería Informática,Ingenierías,3,Privado,286,16,3.5,2,1,4,6,8,3,2,0,13,2,3.95,2.65,3.3,0,0,0,0,Sin liquidación,0,1
+EST-504A696E8B,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,17,3.1,3,10,7,13,7,5,8,6,26,14,2.75,3.55,3.15,0,0,0,0,Pagado,1,0
+EST-D691651D00,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,317,16,3.1,4,0,6,4,4,5,5,5,19,10,2.95,3.6,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-A3409BE8C8,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,269,15,3.3,4,7,1,3,2,6,4,2,14,6,3.3,3.3,3.3,0,0,0,0,Pagado,1,0
+EST-22A980CABE,Ingeniería Informática,Ingenierías,1,Oficial,213,14,2.5,3,7,2,4,3,6,5,6,20,11,2.9,1.75,2.325,1,0,0,0,Pagado,1,0
+EST-73A5CE7C09,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,222,15,1.8,1,0,2,1,0,1,0,1,2,1,2.55,1.45,2.0,1,1,0,0,Pagado,1,0
+EST-1712EE09EE,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,310,17,2.7,4,7,8,4,6,7,2,6,21,8,3.45,2.4,2.925,1,0,0,0,Pagado,1,0
+EST-286476F5A6,Ingeniería Industrial,Ingenierías,2,Oficial,304,18,4.0,8,6,4,2,5,2,2,4,13,6,4.2,3.1,3.6500000000000004,0,0,0,0,Pagado,1,0
+EST-43431442ED,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,15,3.3,4,5,6,3,5,4,4,3,16,7,4.0,2.2,3.1,0,0,0,0,Sin liquidación,0,1
+EST-805BD80BEC,Psicología,Ciencias Sociales y Humanas,5,Oficial,238,16,3.2,9,9,11,4,5,10,8,12,35,20,3.55,2.5,3.025,0,0,0,0,Pagado,1,0
+EST-BB242B6961,Psicología,Ciencias Sociales y Humanas,1,Privado,320,18,2.9,4,5,3,2,2,3,2,2,9,4,3.05,2.55,2.8,1,0,0,0,Pagado,1,0
+EST-D4C1638AF0,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,354,15,3.7,8,6,6,8,6,13,11,7,37,18,4.25,2.45,3.35,0,0,0,0,Pagado,1,0
+EST-C98D796342,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,259,15,3.1,9,5,6,1,7,10,7,3,27,10,2.45,3.6,3.0250000000000004,0,0,0,1,Pagado,1,0
+EST-B2E46E6245,Psicología,Ciencias Sociales y Humanas,1,Privado,313,18,3.3,7,8,6,3,7,7,9,6,29,15,3.45,4.25,3.85,0,0,0,0,Pagado,1,0
+EST-F8B20120A3,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,256,17,3.4,2,3,8,2,5,3,3,12,23,15,3.95,3.7,3.825,0,0,0,0,Pagado,1,0
+EST-2179989F97,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,283,15,3.7,5,5,6,1,8,7,6,3,24,9,3.55,2.5,3.025,0,0,0,0,Pagado,1,0
+EST-14062C8016,Ingeniería Informática,Ingenierías,3,Oficial,329,14,4.1,9,9,5,11,10,13,11,6,40,17,4.45,4.65,4.550000000000001,0,0,0,0,Pagado,1,0
+EST-905CF85A10,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,235,14,2.3,1,2,1,1,2,2,0,3,7,3,1.65,1.8,1.725,1,1,0,1,Pendiente,0,1
+EST-F30DD67B24,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,295,18,3.4,1,3,3,2,1,2,2,1,6,3,4.05,3.2,3.625,0,1,0,0,Pagado,1,0
+EST-255C1A473C,Ingeniería Industrial,Ingenierías,2,Oficial,297,14,4.0,4,4,5,7,5,9,6,6,26,12,3.95,3.7,3.825,0,0,0,0,Pagado,1,0
+EST-32324201EF,Ingeniería Informática,Ingenierías,2,Oficial,223,14,3.1,4,13,6,7,5,9,11,4,29,15,2.15,3.4,2.775,1,0,0,0,Pagado,1,0
+EST-49EA9EBF54,Psicología,Ciencias Sociales y Humanas,6,Oficial,297,16,3.5,4,5,7,4,8,7,5,3,23,8,3.3,3.6,3.45,0,0,0,0,Pagado,1,0
+EST-CFBBCE9CE5,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,336,15,3.5,5,3,8,5,6,7,6,10,29,16,2.2,3.05,2.625,1,0,0,0,Pagado,1,0
+EST-624DF86E5C,Ingeniería Informática,Ingenierías,2,Oficial,288,15,4.0,5,2,9,5,3,11,4,7,25,11,4.8,4.7,4.75,0,0,0,0,Pagado,1,0
+EST-E5CC822F89,Psicología,Ciencias Sociales y Humanas,3,Oficial,279,14,3.0,2,4,4,2,0,0,0,1,1,1,3.25,2.55,2.9,1,1,0,0,Pendiente,0,1
+EST-91CC609556,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,287,15,3.2,8,8,6,2,6,7,5,7,25,12,3.3,3.9,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-7052B87FE4,Ingeniería Informática,Ingenierías,1,Privado,300,17,4.1,7,3,5,2,5,5,7,5,22,12,3.5,4.55,4.025,0,0,0,0,Pagado,1,0
+EST-C4E7FD5C36,Ingeniería Industrial,Ingenierías,2,Oficial,295,18,3.4,7,4,6,4,7,2,3,6,18,9,2.95,5.0,3.975,0,0,0,0,Pagado,1,0
+EST-14FB29D748,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,396,18,4.0,5,4,6,11,4,4,6,8,22,14,4.05,3.8,3.925,0,0,0,0,Pagado,1,0
+EST-FFEC986FEA,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,15,3.7,10,9,8,11,4,8,8,12,32,20,4.35,3.5,3.925,0,0,0,0,Pagado,1,0
+EST-FD73C22F09,Ingeniería Informática,Ingenierías,5,Oficial,317,16,3.2,1,3,3,1,4,0,3,1,8,4,4.15,2.9,3.5250000000000004,0,1,0,0,Pagado,1,0
+EST-C154F64E2D,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,323,18,3.4,6,8,2,9,6,12,10,9,37,19,2.85,3.05,2.95,1,0,0,0,Pagado,1,0
+EST-7E0A8B0B3D,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,18,3.0,4,3,5,4,8,6,7,10,31,17,3.05,2.3,2.675,1,0,0,1,Pendiente,0,1
+EST-63F1F63D45,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,320,18,4.0,3,4,6,9,5,4,6,7,22,13,1.8,4.9,3.35,0,0,0,0,Pagado,1,0
+EST-BDE41D0DF1,Ingeniería Informática,Ingenierías,1,Privado,180,18,2.3,6,4,4,6,0,11,3,2,16,5,1.45,2.7,2.075,1,0,0,0,Pagado,1,0
+EST-A144C303F6,Ingeniería Informática,Ingenierías,5,Oficial,269,17,3.4,4,4,1,9,5,5,6,6,22,12,2.95,3.9,3.425,0,0,0,0,Pagado,1,0
+EST-C1FACDF302,Ingeniería Informática,Ingenierías,3,Oficial,309,17,3.0,4,3,2,4,2,1,3,0,6,3,3.05,3.2,3.125,0,1,0,0,Pagado,1,0
+EST-B66204E954,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,295,16,3.3,8,10,3,8,4,3,4,6,17,10,4.5,2.85,3.675,0,0,0,0,Pagado,1,0
+EST-A5AE753136,Psicología,Ciencias Sociales y Humanas,2,Privado,283,18,3.0,1,2,3,2,3,3,2,1,9,3,3.85,2.7,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-A2908CDAC7,Ingeniería Industrial,Ingenierías,6,Oficial,379,18,4.6,10,5,11,10,10,3,10,16,39,26,4.5,4.9,4.7,0,0,0,0,Pagado,1,0
+EST-6FFB6DCDEE,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,18,3.7,11,7,11,7,11,4,11,7,33,18,4.5,3.65,4.075,0,0,0,0,Pagado,1,0
+EST-6B3676ACC2,Ingeniería Industrial,Ingenierías,6,Oficial,247,17,3.5,6,10,6,9,11,7,11,5,34,16,4.05,3.9,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-837E9E4CD8,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,235,18,2.8,4,6,3,1,6,6,6,5,23,11,3.0,3.85,3.425,0,0,0,0,Pagado,1,0
+EST-D688970570,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,265,16,3.3,2,2,3,6,4,1,5,6,16,11,3.65,3.35,3.5,0,0,0,0,Pagado,1,0
+EST-A3BD835119,Ingeniería Industrial,Ingenierías,6,Oficial,326,15,3.1,3,7,6,7,5,4,4,8,21,12,1.75,3.0,2.375,1,0,0,0,Pendiente,1,0
+EST-42E5EB8799,Psicología,Ciencias Sociales y Humanas,2,Oficial,285,15,3.8,10,15,8,7,3,13,9,4,29,13,4.7,2.65,3.675,0,0,0,0,Pagado,1,0
+EST-B73784EEF9,Ingeniería Informática,Ingenierías,3,Oficial,355,17,3.5,7,4,8,10,1,7,2,1,11,3,3.2,3.45,3.325,0,0,0,0,Pagado,1,0
+EST-6EB8B37529,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,313,18,,2,5,5,4,3,3,2,6,14,8,3.2,2.4,2.8,1,0,0,0,Pagado,1,0
+EST-D1DD09F46D,Psicología,Ciencias Sociales y Humanas,3,Privado,271,18,3.2,4,4,4,3,3,2,5,3,13,8,2.3,2.55,2.425,1,0,0,0,Pagado,1,0
+EST-C62573BBA1,Psicología,Ciencias Sociales y Humanas,4,Oficial,288,15,3.2,3,5,5,6,6,7,6,2,21,8,3.3,4.55,3.925,0,0,0,0,Pagado,1,0
+EST-DDAC1951BE,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,14,3.4,3,3,5,7,1,4,4,4,13,8,2.7,2.85,2.7750000000000004,1,0,0,0,Pagado,1,0
+EST-093BCCAC6A,Psicología,Ciencias Sociales y Humanas,3,Oficial,202,14,3.2,7,2,6,4,4,1,7,8,20,15,3.3,3.75,3.525,0,0,0,0,Pagado,1,0
+EST-AC634C9EF4,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,238,17,2.7,1,1,2,3,0,1,3,2,6,5,3.35,2.75,3.05,0,1,0,0,Pagado,1,0
+EST-059B947F4B,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,340,18,3.5,4,8,8,5,7,3,6,4,20,10,2.65,4.75,3.7,0,0,0,1,Pagado,1,0
+EST-1159C178B2,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,15,3.3,6,2,3,7,5,4,1,5,15,6,2.1,3.2,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-06EFE3B4D4,Ingeniería Industrial,Ingenierías,6,Oficial,197,16,2.3,1,2,4,1,3,9,4,0,16,4,1.4,3.4,2.4,1,0,0,0,Pagado,1,0
+EST-56869BB2A2,Psicología,Ciencias Sociales y Humanas,3,Privado,283,14,3.6,6,5,4,11,9,10,8,11,38,19,2.05,3.7,2.875,1,0,0,0,Pagado,1,0
+EST-433562E7F7,Ingeniería Informática,Ingenierías,6,Privado,322,18,3.3,4,6,5,5,2,2,4,7,15,11,2.1,3.85,2.975,1,0,0,0,Pagado,1,0
+EST-A32C173737,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,3.2,0,6,4,2,5,4,7,6,22,13,2.65,3.45,3.05,0,0,0,0,Pendiente,1,0
+EST-A64093E386,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,255,17,2.8,3,3,9,4,7,5,4,5,21,9,2.75,3.05,2.9,1,0,0,0,Pagado,1,0
+EST-4C31AE463D,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,327,14,3.6,6,7,5,7,7,5,8,4,24,12,3.85,4.4,4.125,0,0,0,0,Pagado,1,0
+EST-1B1954EE16,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,15,4.1,10,13,7,7,7,7,7,8,29,15,4.55,2.95,3.75,0,0,0,0,Pagado,1,0
+EST-AA57997640,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,18,2.6,2,1,1,5,3,5,3,3,14,6,2.9,2.95,2.925,1,0,0,0,Sin liquidación,0,1
+EST-B72621A8E3,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,286,16,2.8,6,2,4,2,4,0,0,1,5,1,3.35,2.3,2.825,1,1,0,1,Anulado,0,1
+EST-B5BC27F20A,Ingeniería Informática,Ingenierías,6,Oficial,309,14,3.8,5,5,8,4,6,6,7,4,23,11,3.6,4.35,3.9749999999999996,0,0,0,0,Pagado,1,0
+EST-62CE4271F3,Ingeniería Informática,Ingenierías,3,Oficial,298,14,4.1,9,2,8,5,5,6,3,4,18,7,3.7,4.85,4.275,0,0,0,0,Pagado,1,0
+EST-99AA92EEA1,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,351,17,3.9,7,12,2,11,9,5,6,10,30,16,2.75,3.25,3.0,0,0,0,0,Pagado,1,0
+EST-D0C6BDE4C1,Ingeniería Industrial,Ingenierías,1,Privado,243,17,3.1,6,6,7,5,4,5,9,6,24,15,3.55,3.25,3.4,0,0,0,1,Pagado,1,0
+EST-8332C1F0FC,Ingeniería Informática,Ingenierías,4,Privado,308,16,2.8,5,1,1,3,3,5,0,4,12,4,3.1,3.9,3.5,0,0,0,0,Pagado,1,0
+EST-08F249EFDF,Ingeniería Informática,Ingenierías,1,Oficial,313,18,3.3,5,3,4,7,5,12,4,8,29,12,4.3,3.2,3.75,0,0,0,0,Pagado,1,0
+EST-FBFEE9CC4E,Ingeniería Industrial,Ingenierías,2,Oficial,281,14,3.2,11,3,6,6,7,7,13,10,37,23,2.85,2.6,2.725,1,0,0,0,Pagado,1,0
+EST-9EA9E58B52,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,262,18,3.1,3,1,2,4,8,3,4,7,22,11,3.8,1.75,2.775,1,0,0,1,Pagado,1,0
+EST-8C7A1556BC,Ingeniería Industrial,Ingenierías,4,Privado,293,17,3.9,4,1,4,5,7,4,4,4,19,8,3.95,3.45,3.7,0,0,0,0,Pagado,1,0
+EST-B84AD39545,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,278,15,2.8,5,5,5,4,6,2,3,1,12,4,1.95,3.05,2.5,1,0,1,0,Anulado,0,1
+EST-54714A8359,Ingeniería Informática,Ingenierías,1,Oficial,295,16,3.8,8,10,6,10,8,5,12,5,30,17,3.9,4.2,4.05,0,0,0,0,Pagado,1,0
+EST-C049F57E5D,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,285,14,4.2,6,7,7,5,12,3,7,9,31,16,4.05,5.0,4.525,0,0,0,0,Pagado,1,0
+EST-7408E50E10,Ingeniería Informática,Ingenierías,1,Privado,290,16,3.1,1,7,1,7,4,1,3,4,12,7,3.5,3.6,3.55,0,0,0,0,Pendiente,0,1
+EST-F60A54CD18,Ingeniería Informática,Ingenierías,3,Oficial,319,14,3.5,5,2,7,5,8,5,7,6,26,13,3.3,3.0,3.15,0,0,0,0,Pagado,1,0
+EST-5FF9829DAC,Psicología,Ciencias Sociales y Humanas,5,Privado,348,15,3.7,3,9,6,12,8,8,8,6,30,14,3.0,3.6,3.3,0,0,0,0,Pagado,1,0
+EST-41E08531FC,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,15,4.0,10,11,9,5,8,4,5,12,29,17,3.1,3.5,3.3,0,0,0,0,Pagado,1,0
+EST-3873AEC0F8,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,308,15,3.6,4,10,5,4,8,3,5,6,22,11,3.9,3.7,3.8,0,0,0,0,Pagado,1,0
+EST-FA292D8F25,Ingeniería Informática,Ingenierías,2,Privado,318,18,2.9,3,8,4,3,5,6,5,6,22,11,3.35,3.2,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-057C598945,Ingeniería Informática,Ingenierías,2,Oficial,299,18,2.8,4,2,5,8,1,3,4,5,13,9,2.2,2.5,2.35,1,0,0,0,Pagado,1,0
+EST-796665A3A0,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,301,17,2.6,2,5,5,1,3,3,3,6,15,9,3.65,2.3,2.9749999999999996,1,0,1,0,Pendiente,0,1
+EST-24CF62E406,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,384,15,4.1,9,4,10,7,10,12,7,9,38,16,3.65,3.5,3.575,0,0,0,0,Pagado,1,0
+EST-6FAC1EA40D,Ingeniería Industrial,Ingenierías,3,Oficial,294,18,3.4,5,3,2,4,4,5,7,3,19,10,3.1,4.35,3.7249999999999996,0,0,0,0,Pagado,1,0
+EST-FC4450AD35,Ingeniería Informática,Ingenierías,2,Privado,333,17,3.9,10,4,7,5,5,7,3,3,18,6,3.4,4.2,3.8,0,0,0,0,Pagado,1,0
+EST-E0D333403A,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,15,3.1,5,7,6,2,3,4,4,6,17,10,3.5,2.65,3.075,0,0,0,0,Pagado,1,0
+EST-B5183CA67E,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,261,17,2.5,7,9,6,8,7,3,5,5,20,10,2.9,2.35,2.625,1,0,0,0,Pagado,1,0
+EST-AD6939268D,Ingeniería Industrial,Ingenierías,4,Oficial,323,15,3.9,6,8,4,6,4,5,5,4,18,9,3.25,3.6,3.425,0,0,0,0,Pagado,1,0
+EST-15C0327144,Psicología,Ciencias Sociales y Humanas,2,Oficial,294,16,3.2,3,3,9,7,7,5,6,6,24,12,3.9,3.45,3.675,0,0,0,0,Pagado,1,0
+EST-CB9EC25A0F,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,14,3.4,7,12,11,8,9,3,10,6,28,16,2.2,2.7,2.45,1,0,0,0,Pagado,1,0
+EST-263FA9F511,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,330,17,4.3,6,6,12,4,9,6,6,6,27,12,4.45,3.95,4.2,0,0,0,0,Pagado,1,0
+EST-6E8EF610E3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,295,18,3.7,12,5,8,11,4,9,13,9,35,22,3.75,3.45,3.6,0,0,0,0,Pagado,1,0
+EST-FC819123E3,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,284,15,3.8,7,13,7,5,7,6,7,8,28,15,2.5,4.65,3.575,0,0,0,1,Pagado,1,0
+EST-E407C2DAE9,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,261,17,4.1,5,5,7,7,5,6,10,5,26,15,3.55,5.0,4.275,0,0,0,0,Pendiente,1,0
+EST-72F8B52058,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,280,15,3.0,3,4,2,1,3,1,0,2,6,2,4.4,2.1,3.25,0,1,0,0,Pagado,1,0
+EST-9BA1FEFDCF,Ingeniería Informática,Ingenierías,2,Oficial,338,18,3.7,11,7,7,12,7,13,5,8,33,13,3.7,3.75,3.725,0,0,0,0,Pagado,1,0
+EST-208E5E08A3,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.2,7,3,5,3,4,1,1,0,6,1,3.9,2.65,3.275,0,1,0,1,Pendiente,0,1
+EST-D7BBE798D5,Ingeniería Informática,Ingenierías,5,Oficial,349,17,4.0,8,9,6,6,7,3,6,7,23,13,3.6,1.95,2.775,1,0,0,1,Pagado,1,0
+EST-31A10D0ADD,Ingeniería Informática,Ingenierías,6,Oficial,301,17,,10,5,5,9,12,5,6,10,33,16,3.15,3.35,3.25,0,0,0,0,Pagado,1,0
+EST-87D5B8932B,Ingeniería Industrial,Ingenierías,2,Oficial,305,18,4.0,9,3,4,8,9,7,4,5,25,9,4.5,5.0,4.75,0,0,0,0,Pagado,1,0
+EST-D6B4785BA4,Psicología,Ciencias Sociales y Humanas,2,Privado,320,16,2.6,0,6,4,2,5,3,4,5,17,9,2.3,3.1,2.7,1,0,0,0,Pagado,1,0
+EST-D20D49E98B,Ingeniería Informática,Ingenierías,1,Oficial,276,16,3.4,3,3,2,1,0,1,0,0,1,0,3.45,3.2,3.325,1,1,0,0,Sin liquidación,0,1
+EST-29917102B9,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,380,18,4.4,4,12,11,10,10,7,10,16,43,26,4.75,4.55,4.65,0,0,0,0,Pagado,1,0
+EST-4BA3B4F3C6,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,409,14,4.6,2,6,13,2,12,10,6,7,35,13,3.8,4.3,4.05,0,0,0,0,Pagado,1,0
+EST-00B9F90EAD,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,264,14,2.8,6,8,8,6,7,7,2,7,23,9,2.85,1.6,2.225,1,0,0,0,Pagado,1,0
+EST-63D88274E3,Ingeniería Informática,Ingenierías,2,Privado,273,15,2.7,4,2,2,1,0,4,2,3,9,5,3.2,2.6,2.9000000000000004,1,0,1,1,Sin liquidación,0,1
+EST-AC66CFC63C,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,14,3.9,6,8,3,4,3,3,6,10,22,16,3.75,4.3,4.025,0,0,0,0,Pagado,1,0
+EST-99DBEFC2F9,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,260,16,3.2,5,1,5,6,6,3,1,5,15,6,2.85,3.55,3.2,0,0,0,0,Pagado,1,0
+EST-31ECAEEA4A,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,288,18,3.7,10,11,3,10,6,0,0,0,6,0,2.6,4.0,3.3,1,1,1,0,Sin liquidación,0,1
+EST-8CB81627FF,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,15,2.7,7,3,2,7,8,7,3,5,23,8,2.0,2.8,2.4,1,0,1,0,Pendiente,0,1
+EST-2058935E4E,Psicología,Ciencias Sociales y Humanas,3,Oficial,234,14,3.2,5,7,10,3,5,6,5,6,22,11,3.65,2.25,2.95,1,0,0,1,Pagado,1,0
+EST-EE6CC21910,Ingeniería Informática,Ingenierías,4,Oficial,243,14,2.7,6,2,2,3,3,4,3,4,14,7,2.75,2.7,2.725,1,0,0,0,Pagado,1,0
+EST-11EC80E9D1,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,351,16,3.0,6,1,8,5,7,5,5,7,24,12,3.6,3.25,3.425,0,0,0,0,Pagado,1,0
+EST-5289948A56,Psicología,Ciencias Sociales y Humanas,3,Privado,276,17,3.3,6,4,3,6,7,6,6,5,24,11,4.5,3.1,3.8,0,0,0,0,Pagado,1,0
+EST-6DB6295A91,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.1,7,2,3,4,5,3,4,0,12,4,3.2,2.75,2.975,1,0,0,0,Pagado,1,0
+EST-81635F0640,Psicología,Ciencias Sociales y Humanas,4,Privado,323,14,3.8,6,8,8,8,5,4,5,5,19,10,4.2,4.9,4.550000000000001,0,0,0,0,Pagado,1,0
+EST-74F725517A,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,275,18,3.2,1,1,1,6,3,3,3,5,14,8,2.55,3.4,2.9749999999999996,1,0,0,0,Pagado,1,0
+EST-46EECFECC2,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,17,4.6,6,6,7,6,6,5,6,5,22,11,4.65,5.0,4.825,0,0,0,0,Pagado,1,0
+EST-B3B71EE63D,Psicología,Ciencias Sociales y Humanas,4,Oficial,272,18,3.0,9,5,4,8,8,4,6,6,24,12,3.25,2.7,2.975,1,0,0,0,Pagado,1,0
+EST-29FCA50343,Psicología,Ciencias Sociales y Humanas,4,Oficial,323,14,3.0,7,5,6,7,4,5,8,7,24,15,2.95,2.35,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-16E8C63F80,Ingeniería Informática,Ingenierías,1,Oficial,285,14,3.6,5,5,8,10,4,10,6,2,22,8,3.4,3.5,3.45,0,0,0,0,Pagado,1,0
+EST-851C747EEA,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,321,18,2.4,3,4,0,5,1,0,0,2,3,2,2.4,3.3,2.8499999999999996,1,1,1,1,Sin liquidación,0,1
+EST-5E7FB82EDB,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,234,14,3.4,4,2,4,5,7,6,4,2,19,6,2.5,2.95,2.725,1,0,0,0,Pagado,1,0
+EST-54DF484586,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,215,15,3.7,8,4,4,4,6,3,9,6,24,15,4.55,2.95,3.75,0,0,0,0,Pagado,1,0
+EST-A969A998A1,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,373,17,4.6,4,9,6,2,3,5,9,7,24,16,4.55,5.0,4.775,0,0,0,0,Pagado,1,0
+EST-1D1E7ED7A8,Ingeniería Industrial,Ingenierías,1,Oficial,309,15,3.7,2,7,4,6,5,2,6,6,19,12,3.95,2.8,3.375,0,0,0,0,Pagado,1,0
+EST-CA194F222F,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,324,18,4.4,8,2,5,5,5,7,6,3,21,9,3.6,5.0,4.3,0,0,0,0,Pagado,1,0
+EST-9EB7964695,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,257,16,3.5,3,1,3,6,8,8,12,6,34,18,2.85,2.7,2.7750000000000004,1,0,0,0,Pagado,1,0
+EST-4675D0C989,Ingeniería Informática,Ingenierías,3,Privado,268,17,3.8,5,1,0,2,2,5,6,2,15,8,4.6,3.85,4.225,0,0,0,0,Pagado,1,0
+EST-E81A13AB2C,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,302,18,2.6,4,5,2,7,5,3,2,5,15,7,2.3,2.0,2.15,1,0,0,0,Pagado,1,0
+EST-A040B17FB6,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,15,3.1,6,6,8,4,3,7,5,5,20,10,3.4,3.3,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-45C5C13212,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,339,17,3.2,6,3,4,4,5,5,4,6,20,10,4.3,3.25,3.775,0,0,0,0,Pagado,1,0
+EST-F6B23E1F21,Ingeniería Informática,Ingenierías,3,Oficial,251,15,2.5,4,1,2,2,6,4,1,2,13,3,2.05,3.65,2.8499999999999996,1,0,0,0,Pagado,1,0
+EST-547254EC9C,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,243,17,2.8,5,5,3,8,5,6,4,7,22,11,1.85,2.5,2.175,1,0,0,1,Pagado,1,0
+EST-6114E972CB,Ingeniería Industrial,Ingenierías,5,Oficial,217,15,2.4,4,2,1,1,1,2,2,6,11,8,2.9,2.55,2.7249999999999996,1,0,1,1,Sin liquidación,0,1
+EST-FFA729118A,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,293,18,3.6,5,3,5,5,5,5,7,7,24,14,4.7,2.65,3.675,0,0,0,0,Pagado,1,0
+EST-6DB964C2D6,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,253,17,3.1,2,8,4,4,4,5,4,5,18,9,4.0,3.6,3.8,0,0,0,0,Pagado,1,0
+EST-4BC7622BA7,Ingeniería Informática,Ingenierías,2,Oficial,316,18,4.3,2,3,4,8,8,7,6,7,28,13,4.75,4.45,4.6,0,0,0,0,Pagado,1,0
+EST-05947D07B9,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,349,16,4.4,12,7,14,12,11,7,4,11,33,15,4.9,4.4,4.65,0,0,0,0,Pagado,1,0
+EST-99A07F6E58,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,306,17,3.5,8,4,10,8,9,8,8,3,28,11,4.7,3.7,4.2,0,0,0,0,Pagado,1,0
+EST-2FFC446A3C,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,364,14,3.8,3,7,9,3,6,9,4,1,20,5,3.35,3.45,3.4000000000000004,0,0,0,0,Pagado,1,0
+EST-7A8E969442,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.0,13,7,7,3,7,11,7,11,36,18,3.7,2.7,3.2,0,0,0,0,Pagado,1,0
+EST-37E06BB0DF,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,14,4.0,9,5,11,1,3,4,8,9,24,17,3.55,4.1,3.8249999999999997,0,0,0,0,Pagado,1,0
+EST-69FC865788,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,291,15,3.4,3,0,1,1,5,1,1,3,10,4,2.5,2.6,2.55,1,0,0,0,Pagado,1,0
+EST-DB08CCFF83,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,14,4.0,4,7,11,7,8,8,11,9,36,20,4.6,4.25,4.425,0,0,0,0,Pagado,1,0
+EST-FBA2DE5C00,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,220,16,2.8,6,4,6,4,2,8,2,7,19,9,3.5,2.05,2.775,1,0,0,0,Pagado,1,0
+EST-F845DCC9D9,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,17,3.4,4,8,4,9,2,6,7,7,22,14,3.25,3.55,3.4,0,0,0,0,Pagado,1,0
+EST-AFC3518D09,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,319,17,4.7,8,8,7,7,15,8,9,9,41,18,4.5,4.9,4.7,0,0,0,0,Pagado,1,0
+EST-19ABFEED54,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,270,16,3.1,2,5,5,6,4,4,8,8,24,16,3.4,3.7,3.55,0,0,0,0,Pagado,1,0
+EST-528F6DF8C8,Ingeniería Informática,Ingenierías,5,Oficial,281,16,4.0,11,5,3,5,5,5,11,9,30,20,3.5,3.05,3.275,0,0,0,0,Pagado,1,0
+EST-69675DFD1B,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,307,18,4.2,13,11,7,7,11,8,7,6,32,13,3.45,4.1,3.775,0,0,0,0,Pagado,1,0
+EST-5C672BBB81,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,246,17,2.0,3,1,4,1,2,2,3,4,11,7,1.6,2.5,2.05,1,0,0,0,Pagado,1,0
+EST-134FAE20DB,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,237,18,2.2,3,0,5,2,7,3,2,5,17,7,2.8,3.05,2.925,1,0,0,1,Pagado,1,0
+EST-02D264AC3F,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,291,14,3.0,8,1,9,4,7,9,3,5,24,8,2.5,3.45,2.975,1,0,0,0,Pagado,1,0
+EST-6F3F7838FA,Ingeniería Informática,Ingenierías,4,Privado,244,14,3.6,9,10,4,8,8,3,9,9,29,18,3.75,4.6,4.175,0,0,0,0,Pagado,1,0
+EST-AD97F8B6FA,Ingeniería Informática,Ingenierías,6,Privado,292,18,3.2,3,6,2,1,5,11,7,4,27,11,3.95,4.0,3.975,0,0,0,0,Pagado,1,0
+EST-ED092E336B,Ingeniería Informática,Ingenierías,3,Oficial,250,17,2.9,7,1,7,5,6,7,6,9,28,15,2.65,2.75,2.7,1,0,0,0,Pagado,1,0
+EST-F4B2974D30,Ingeniería Informática,Ingenierías,2,Oficial,271,17,2.8,4,2,3,2,5,2,3,4,14,7,2.2,3.1,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-415F14A540,Ingeniería Industrial,Ingenierías,2,Oficial,308,18,2.9,2,0,4,2,1,0,4,5,10,9,3.05,2.95,3.0,0,0,0,0,Pagado,1,0
+EST-600ED1FAFD,Ingeniería Informática,Ingenierías,5,Privado,336,17,3.9,10,5,12,8,6,3,8,2,19,10,4.05,4.85,4.449999999999999,0,0,0,0,Pendiente,0,1
+EST-0542451D8A,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,257,15,3.5,8,7,2,7,2,1,3,4,10,7,3.9,4.25,4.075,0,0,0,0,Pagado,1,0
+EST-B11AFA7909,Ingeniería Industrial,Ingenierías,2,Oficial,304,14,3.4,5,4,6,3,3,3,5,5,16,10,2.8,3.6,3.2,0,0,0,0,Pagado,1,0
+EST-7FB78BC2C5,Ingeniería Industrial,Ingenierías,3,Privado,286,14,3.3,5,11,6,6,7,4,12,8,31,20,3.9,2.95,3.425,0,0,0,0,Pagado,1,0
+EST-8E1B45A5F7,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,316,15,3.3,3,2,4,2,3,4,1,3,11,4,3.4,4.45,3.925,0,0,0,1,Pagado,1,0
+EST-8BAB3C3B1C,Psicología,Ciencias Sociales y Humanas,3,Oficial,306,17,4.4,5,5,7,6,7,8,12,8,35,20,4.5,3.95,4.225,0,0,0,0,Pagado,1,0
+EST-0C748EEAC4,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,268,14,3.1,6,5,7,6,6,3,6,4,19,10,3.5,3.35,3.425,0,0,1,0,Pendiente,0,1
+EST-1E67412320,Ingeniería Industrial,Ingenierías,3,Privado,313,14,2.9,2,2,2,5,6,1,2,2,11,4,2.95,3.0,2.975,1,0,0,0,Pagado,1,0
+EST-57D45B5435,Ingeniería Informática,Ingenierías,3,Oficial,247,15,3.3,2,2,3,0,2,4,4,1,11,5,3.5,4.35,3.925,0,0,0,1,Sin liquidación,0,1
+EST-A64194EE72,Ingeniería Industrial,Ingenierías,3,Oficial,257,16,3.3,2,4,5,4,3,5,7,7,22,14,2.85,3.1,2.975,1,0,1,0,Sin liquidación,0,1
+EST-67B90F362E,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,379,15,4.4,4,10,8,4,5,7,4,6,22,10,4.25,3.65,3.95,0,0,0,0,Pagado,1,0
+EST-21A248DD6F,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,364,14,4.7,4,1,4,7,12,6,5,3,26,8,3.4,5.0,4.2,0,0,0,0,Pagado,1,0
+EST-A38EB94B59,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,233,17,2.8,1,3,1,4,3,0,4,2,9,6,3.0,3.85,3.425,0,0,0,0,Pagado,1,0
+EST-FD28489287,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,4,1,3,2,2,4,2,0,8,2,3.35,2.5,2.925,1,1,0,0,Pagado,1,0
+EST-6676A7F3C4,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,282,18,3.5,0,4,3,1,2,3,3,3,11,6,3.9,3.15,3.525,0,0,0,0,Pagado,1,0
+EST-E0D4EEBB9D,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,333,14,3.5,6,6,3,8,11,6,8,11,36,19,4.05,4.65,4.35,0,0,0,0,Pagado,1,0
+EST-5F8228EF45,Ingeniería Informática,Ingenierías,3,Oficial,223,14,3.0,8,7,8,8,6,5,5,7,23,12,2.25,2.65,2.45,1,0,0,0,Pagado,1,0
+EST-8F107E0232,Ingeniería Informática,Ingenierías,1,Oficial,194,17,2.3,9,8,4,4,8,2,6,3,19,9,2.45,2.0,2.225,1,0,0,0,Pendiente,0,1
+EST-761D0E9E8F,Ingeniería Industrial,Ingenierías,1,Privado,297,14,3.5,8,8,5,5,6,7,11,6,30,17,2.9,5.0,3.95,0,0,0,1,Pagado,1,0
+EST-94B3D7754C,Ingeniería Industrial,Ingenierías,3,Oficial,355,16,3.9,7,6,9,7,3,10,1,11,25,12,4.45,3.95,4.2,0,0,0,0,Pagado,1,0
+EST-AE44C08768,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,314,17,3.1,9,6,6,4,11,7,4,7,29,11,2.95,3.3,3.125,0,0,0,0,Pagado,1,0
+EST-C44F1C8141,Psicología,Ciencias Sociales y Humanas,1,Privado,293,17,3.3,3,0,5,1,0,1,2,3,6,5,3.2,4.0,3.6,0,1,0,0,Pagado,1,0
+EST-591C43FE60,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,277,16,2.0,1,0,1,2,0,2,3,1,6,4,2.95,1.4,2.175,1,1,0,0,Pagado,1,0
+EST-CD5914F6E4,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,378,14,3.9,12,6,9,6,6,3,9,8,26,17,3.45,3.95,3.7,0,0,0,0,Pagado,1,0
+EST-4B47EB4565,Ingeniería Informática,Ingenierías,2,Privado,217,14,2.9,1,4,2,7,1,6,5,5,17,10,2.4,1.8,2.1,1,0,0,0,Pagado,1,0
+EST-618AE59C2D,Ingeniería Informática,Ingenierías,3,Oficial,343,18,3.0,6,10,4,3,2,4,4,2,12,6,2.2,3.2,2.7,1,0,0,0,Pagado,1,0
+EST-E0D0E1BB81,Ingeniería Informática,Ingenierías,4,Oficial,370,16,4.3,9,6,6,8,3,7,7,2,19,9,4.05,4.15,4.1,0,0,0,1,Pagado,1,0
+EST-D669E445BD,Psicología,Ciencias Sociales y Humanas,1,Oficial,300,14,2.9,6,5,6,9,4,7,6,10,27,16,2.5,2.85,2.675,1,0,0,0,Pagado,1,0
+EST-85830A9B7E,Ingeniería Industrial,Ingenierías,3,Oficial,351,15,,8,3,5,4,3,2,8,8,21,16,4.5,4.9,4.7,0,0,0,0,Pagado,1,0
+EST-8AAC79553E,Ingeniería Informática,Ingenierías,1,Oficial,203,16,2.7,6,1,3,3,3,2,3,4,12,7,2.4,3.45,2.925,1,0,0,1,Pagado,1,0
+EST-E9BDFDD4E7,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,260,15,2.7,1,5,3,5,2,3,0,1,6,1,3.2,2.6,2.9000000000000004,1,1,0,0,Pendiente,0,1
+EST-772DBFCCC3,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,246,18,3.3,0,5,2,7,5,8,8,5,26,13,2.8,4.7,3.75,0,0,0,0,Pagado,1,0
+EST-F6679723A6,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,285,16,3.1,3,5,4,3,3,1,5,5,14,10,4.25,2.1,3.175,0,0,0,0,Pendiente,0,1
+EST-D5076379EF,Ingeniería Industrial,Ingenierías,2,Oficial,269,14,2.7,4,3,2,2,6,3,2,2,13,4,2.5,2.8,2.65,1,0,0,0,Pagado,1,0
+EST-31EFD53C1F,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,284,18,4.2,10,9,8,10,11,10,11,9,41,20,4.9,5.0,4.95,0,0,0,0,Pagado,1,0
+EST-8624A29D51,Psicología,Ciencias Sociales y Humanas,3,Oficial,332,18,2.8,7,6,2,4,5,0,2,10,17,12,3.95,3.6,3.7750000000000004,0,0,0,0,Pendiente,0,1
+EST-BA0FFF66E0,Psicología,Ciencias Sociales y Humanas,6,Oficial,274,16,2.7,5,5,4,4,4,4,3,2,13,5,2.9,3.15,3.025,0,0,0,0,Pagado,1,0
+EST-632729B47C,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,344,16,3.4,7,11,3,3,7,3,9,5,24,14,4.2,3.35,3.7750000000000004,0,0,0,0,Pagado,1,0
+EST-06F13A12B4,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,276,18,2.9,7,5,3,7,7,9,5,12,33,17,2.5,3.0,2.75,1,0,0,0,Pendiente,1,0
+EST-6D6E68493A,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,283,14,3.6,3,5,6,3,2,4,5,4,15,9,4.8,3.0,3.9,0,0,0,0,Pagado,1,0
+EST-CE073D414E,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.5,5,4,6,6,6,5,5,5,21,10,4.45,3.45,3.95,0,0,0,0,Pagado,1,0
+EST-43BA954EC5,Ingeniería Informática,Ingenierías,3,Privado,326,17,3.3,5,5,9,7,2,6,7,6,21,13,3.15,3.35,3.25,0,0,0,0,Pagado,1,0
+EST-771471D3A1,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,206,14,3.0,8,6,10,4,5,10,5,4,24,9,3.3,2.85,3.075,0,0,0,0,Pagado,1,0
+EST-F07E188A5E,Ingeniería Informática,Ingenierías,3,Oficial,343,17,4.1,7,8,3,4,3,3,5,11,22,16,4.65,4.0,4.325,0,0,0,0,Pagado,1,0
+EST-AFAFD54872,Psicología,Ciencias Sociales y Humanas,5,Privado,299,14,3.6,3,8,5,12,7,5,4,6,22,10,2.8,4.0,3.4,0,0,0,0,Pagado,1,0
+EST-B6231B963B,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,232,17,2.6,4,2,1,7,4,1,4,3,12,7,2.6,2.55,2.575,1,0,0,0,Pagado,1,0
+EST-2C439FCF49,Psicología,Ciencias Sociales y Humanas,2,Privado,355,14,3.7,0,6,1,1,1,0,4,3,8,7,3.5,4.65,4.075,0,1,0,0,Pagado,1,0
+EST-0877C02BF1,Ingeniería Informática,Ingenierías,5,Oficial,308,17,2.9,4,7,3,8,0,0,0,1,1,1,2.6,3.3,2.95,1,1,1,0,Sin liquidación,0,1
+EST-AEB6C208DF,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,307,14,4.0,6,5,12,9,3,5,7,5,20,12,3.6,3.15,3.375,0,0,0,0,Pagado,1,0
+EST-3319416A07,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,283,18,3.6,3,0,2,1,5,0,0,0,5,0,3.55,3.55,3.55,1,1,0,0,Pagado,1,0
+EST-263F3FE9BB,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,300,16,3.6,3,6,5,3,1,2,4,2,9,6,3.3,4.05,3.675,0,0,0,0,Pagado,1,0
+EST-D670FBA7B8,Ingeniería Informática,Ingenierías,2,Oficial,268,17,2.4,4,2,3,0,3,2,2,0,7,2,1.8,2.8,2.3,1,1,0,0,Pagado,1,0
+EST-ABED64172D,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,295,17,2.8,8,11,6,12,4,7,0,0,11,0,3.9,3.25,3.575,1,0,1,0,Pendiente,0,1
+EST-186881BD76,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,296,15,3.2,2,5,5,9,7,5,9,8,29,17,2.8,3.6,3.2,0,0,0,0,Pagado,1,0
+EST-0EFF4FFB83,Ingeniería Informática,Ingenierías,1,Oficial,269,16,4.0,10,9,9,8,4,9,8,6,27,14,4.2,4.2,4.2,0,0,0,0,Pagado,1,0
+EST-A7E21B974A,Psicología,Ciencias Sociales y Humanas,3,Oficial,265,18,2.2,2,0,1,1,0,2,2,3,7,5,2.05,2.85,2.45,1,1,0,0,Sin liquidación,0,1
+EST-CF4A8ADCAB,Ingeniería Informática,Ingenierías,3,Oficial,253,17,3.7,3,3,3,5,5,7,4,7,23,11,4.05,3.65,3.8499999999999996,0,0,0,0,Pagado,1,0
+EST-B621270E86,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,416,16,5.0,8,1,8,9,10,11,7,9,37,16,5.0,4.1,4.55,0,0,0,0,Pagado,1,0
+EST-F728E9D86E,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,233,15,3.4,7,4,4,7,8,6,2,6,22,8,3.95,3.65,3.8,0,0,0,0,Pagado,1,0
+EST-A00AD56B0E,Ingeniería Informática,Ingenierías,3,Privado,353,18,4.0,9,7,9,8,8,4,11,5,28,16,3.5,4.35,3.925,0,0,0,0,Pagado,1,0
+EST-DFD3E7F1C9,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,15,2.9,3,4,5,7,3,4,7,5,19,12,2.85,4.0,3.425,0,0,0,0,Pagado,1,0
+EST-36F8ECB064,Ingeniería Informática,Ingenierías,2,Oficial,273,14,3.6,4,6,6,8,5,7,7,4,23,11,3.9,4.95,4.425,0,0,0,0,Pagado,1,0
+EST-BE06FFA1B0,Ingeniería Informática,Ingenierías,2,Privado,326,15,3.8,5,8,2,3,2,11,3,5,21,8,3.9,3.3,3.5999999999999996,0,0,0,0,Pagado,1,0
+EST-F7A94E8E2C,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,310,14,3.0,4,5,2,6,7,6,4,4,21,8,2.8,2.5,2.65,1,0,0,0,Pagado,1,0
+EST-D39E33AF0D,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,280,18,3.4,5,5,8,5,7,3,6,3,19,9,2.45,4.1,3.275,0,0,0,0,Pagado,1,0
+EST-5D7A449DBC,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,318,14,4.1,8,4,8,8,7,7,12,9,35,21,3.8,4.45,4.125,0,0,0,0,Pagado,1,0
+EST-89CBCCB636,Ingeniería Informática,Ingenierías,4,Privado,345,18,3.4,5,5,7,4,6,2,5,1,14,6,3.95,3.4,3.675,0,0,0,1,Pagado,1,0
+EST-046A16F5A1,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,18,4.4,7,12,15,8,7,12,6,10,35,16,5.0,4.65,4.825,0,0,0,1,Pagado,1,0
+EST-7894E754C5,Psicología,Ciencias Sociales y Humanas,2,Oficial,255,16,4.1,3,2,8,8,4,8,2,12,26,14,4.05,4.5,4.275,0,0,0,0,Pagado,1,0
+EST-CE3D5C5022,Psicología,Ciencias Sociales y Humanas,2,Oficial,283,18,4.1,12,11,9,9,12,7,7,8,34,15,3.85,4.05,3.95,0,0,0,0,Pendiente,1,0
+EST-BB68ACAE52,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,15,3.4,7,6,7,10,7,3,6,4,20,10,4.75,3.3,4.025,0,0,0,0,Pagado,1,0
+EST-C801CBEECC,Ingeniería Informática,Ingenierías,1,Oficial,284,18,3.7,1,3,1,4,6,5,6,3,20,9,3.35,3.45,3.4000000000000004,0,0,0,0,Pagado,1,0
+EST-E909178489,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,225,14,2.5,1,0,6,3,2,0,2,2,6,4,2.3,2.5,2.4,1,1,0,0,Anulado,0,1
+EST-BB0508A390,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,328,14,4.5,9,8,5,6,11,13,15,7,46,22,5.0,4.75,4.875,0,0,0,0,Pagado,1,0
+EST-870A9291FE,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,256,15,2.4,1,0,0,0,0,2,0,1,3,1,2.65,1.95,2.3,1,1,0,1,Pagado,1,0
+EST-72DA8CE61F,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,257,18,3.5,6,5,3,2,4,7,3,6,20,9,3.6,3.75,3.675,0,0,1,0,Pendiente,0,1
+EST-67FD8C331C,Ingeniería Industrial,Ingenierías,4,Privado,328,16,3.0,7,13,5,5,6,7,9,7,29,16,2.45,2.6,2.5250000000000004,1,0,0,0,Pagado,1,0
+EST-3FE7B11C32,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,252,16,3.6,2,9,5,6,5,3,6,8,22,14,4.8,3.1,3.95,0,0,0,0,Pagado,1,0
+EST-D826D091AD,Ingeniería Informática,Ingenierías,1,Oficial,343,17,3.8,4,7,7,2,3,3,9,6,21,15,3.35,3.75,3.55,0,0,0,0,Pagado,1,0
+EST-D4E8F73DA7,Psicología,Ciencias Sociales y Humanas,2,Oficial,354,14,4.8,5,4,6,10,9,7,3,4,23,7,4.9,5.0,4.95,0,0,0,0,Pagado,1,0
+EST-380C81AABA,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,200,14,2.5,1,1,2,0,6,3,5,2,16,7,1.9,1.6,1.75,1,0,0,0,Pagado,1,0
+EST-9413774E4E,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,239,15,3.0,7,6,3,6,5,3,0,1,9,1,3.25,3.15,3.2,0,0,0,0,Pendiente,0,1
+EST-E06817F58D,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,15,4.2,10,5,6,6,9,7,17,9,42,26,4.3,5.0,4.65,0,0,0,0,Pagado,1,0
+EST-1E419D594C,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,335,15,3.1,5,2,1,2,0,3,1,5,9,6,3.05,2.7,2.875,1,0,0,0,Pagado,1,0
+EST-DF54BA7549,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,296,17,3.1,9,2,6,1,6,8,4,9,27,13,2.4,2.15,2.275,1,0,0,0,Pagado,1,0
+EST-1B1D40FE4D,Ingeniería Informática,Ingenierías,3,Privado,313,15,4.2,6,9,5,2,8,10,11,5,34,16,4.85,2.9,3.875,0,0,0,0,Pagado,1,0
+EST-37735E809A,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,380,16,4.4,8,8,11,7,8,3,10,11,32,21,4.4,3.85,4.125,0,0,0,0,Pagado,1,0
+EST-9B3316BD98,Ingeniería Informática,Ingenierías,3,Oficial,320,14,3.5,7,8,5,5,4,2,7,8,21,15,2.95,4.25,3.6,0,0,0,0,Pagado,1,0
+EST-1F53B33AE3,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,207,17,2.6,0,0,0,0,0,1,0,2,3,2,3.35,2.25,2.8,1,1,0,0,Pagado,1,0
+EST-A9E6355D41,Ingeniería Informática,Ingenierías,2,Privado,306,15,3.0,8,3,1,3,5,5,4,2,16,6,3.45,2.55,3.0,0,0,0,0,Pagado,1,0
+EST-AE1C94C3A5,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,298,17,4.5,5,8,8,7,5,10,6,8,29,14,3.55,4.85,4.199999999999999,0,0,0,0,Pagado,1,0
+EST-74E5D632DD,Ingeniería Informática,Ingenierías,1,Oficial,278,15,3.0,3,5,5,8,6,8,6,7,27,13,2.05,2.7,2.375,1,0,0,0,Pendiente,0,1
+EST-500A49C4FC,Ingeniería Industrial,Ingenierías,3,Privado,249,17,3.8,4,12,3,8,1,7,1,4,13,5,3.15,2.9,3.025,0,0,0,0,Pagado,1,0
+EST-667058B8DD,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,273,18,2.9,2,6,1,3,4,3,1,3,11,4,3.35,2.25,2.8,1,0,0,0,Pagado,1,0
+EST-D7609AA88A,Ingeniería Informática,Ingenierías,2,Oficial,324,18,5.0,10,10,8,9,6,9,9,19,43,28,4.0,4.45,4.225,0,0,0,0,Pagado,1,0
+EST-C8BBF2E80A,Psicología,Ciencias Sociales y Humanas,2,Oficial,274,17,2.8,3,4,6,2,5,1,3,4,13,7,3.8,2.7,3.25,0,0,0,0,Anulado,0,1
+EST-9D1553F3D7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,263,15,2.8,0,1,1,2,0,4,2,2,8,4,3.05,2.55,2.8,1,1,0,0,Pagado,1,0
+EST-24A4C4B5C4,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,204,17,2.7,3,2,2,4,3,4,5,3,15,8,2.15,1.6,1.875,1,0,0,0,Pendiente,1,0
+EST-28FD55BA44,Psicología,Ciencias Sociales y Humanas,2,Privado,295,15,4.0,15,12,8,8,9,5,7,13,34,20,3.75,3.65,3.7,0,0,0,0,Pagado,1,0
+EST-0D9FDCA525,Ingeniería Informática,Ingenierías,3,Oficial,283,15,3.2,1,3,3,4,6,3,5,9,23,14,2.8,4.15,3.475,0,0,0,0,Pagado,1,0
+EST-1C9D82BE10,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,17,2.8,8,6,1,1,2,4,10,6,22,16,3.55,4.1,3.8249999999999997,0,0,0,0,Pagado,1,0
+EST-F1889B7C41,Ingeniería Industrial,Ingenierías,2,Privado,247,14,3.3,4,5,9,2,8,1,8,4,21,12,3.35,2.9,3.125,0,0,0,0,Pagado,1,0
+EST-C10413F831,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,329,17,4.0,6,7,6,2,8,7,5,8,28,13,4.15,3.4,3.7750000000000004,0,0,0,0,Pagado,1,0
+EST-B7F907040E,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,288,14,4.2,13,6,10,7,14,13,7,7,41,14,4.05,4.45,4.25,0,0,0,0,Pagado,1,0
+EST-84FB1488EF,Ingeniería Informática,Ingenierías,3,Privado,231,17,2.6,6,5,8,1,8,8,3,5,24,8,2.55,3.55,3.05,0,0,0,0,Pagado,1,0
+EST-0D85AB18BF,Ingeniería Informática,Ingenierías,3,Privado,283,15,3.9,7,12,6,6,6,4,7,4,21,11,3.75,3.7,3.725,0,0,0,0,Pagado,1,0
+EST-863BFD51B0,Psicología,Ciencias Sociales y Humanas,3,Privado,313,17,2.6,5,3,1,3,2,1,3,0,6,3,1.75,2.9,2.325,1,1,1,0,Pendiente,0,1
+EST-4A9903FA72,Ingeniería Industrial,Ingenierías,2,Privado,361,14,4.3,4,6,7,11,6,9,8,11,34,19,4.95,4.5,4.725,0,0,0,0,Pagado,1,0
+EST-D6F879E2D5,Psicología,Ciencias Sociales y Humanas,1,Privado,260,15,3.3,4,8,7,3,9,8,10,4,31,14,1.75,4.0,2.875,1,0,0,0,Pagado,1,0
+EST-915C7E2422,Psicología,Ciencias Sociales y Humanas,2,Privado,297,17,3.8,2,3,4,5,9,3,8,7,27,15,4.15,3.6,3.875,0,0,0,0,Pendiente,1,0
+EST-A6C7ACA3EE,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,281,17,3.2,4,4,4,4,5,4,5,4,18,9,3.4,3.3,3.3499999999999996,0,0,0,0,Pagado,1,0
+EST-5F466D2E9B,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,333,16,3.7,3,4,2,5,5,4,4,2,15,6,4.1,3.15,3.625,0,0,0,0,Pagado,1,0
+EST-6DD58E5659,Ingeniería Informática,Ingenierías,1,Oficial,349,14,3.9,7,7,11,10,11,11,5,6,33,11,2.6,3.35,2.975,1,0,0,0,Pagado,1,0
+EST-C8EDAA8713,Ingeniería Informática,Ingenierías,2,Privado,364,16,4.0,4,7,4,3,9,3,10,6,28,16,5.0,4.05,4.525,0,0,0,0,Pagado,1,0
+EST-AF08A6CFD2,Psicología,Ciencias Sociales y Humanas,3,Privado,299,17,4.0,4,6,5,8,4,6,5,3,18,8,4.35,3.7,4.025,0,0,0,0,Pagado,1,0
+EST-873E27EC34,Ingeniería Informática,Ingenierías,2,Privado,334,18,4.2,13,10,7,10,9,10,7,13,39,20,3.55,2.8,3.175,0,0,0,0,Pagado,1,0
+EST-3F12D6F742,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,317,16,3.4,8,4,3,9,7,7,5,6,25,11,4.35,3.3,3.8249999999999997,0,0,0,1,Pagado,1,0
+EST-68BF5B3BB2,Psicología,Ciencias Sociales y Humanas,4,Privado,268,14,2.7,2,1,4,3,3,1,6,5,15,11,2.5,3.1,2.8,1,0,0,0,Pagado,1,0
+EST-3F83036F9E,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,272,14,3.3,9,8,4,8,9,6,6,10,31,16,3.25,3.2,3.225,0,0,0,0,Pagado,1,0
+EST-5BBF3A4EA3,Ingeniería Informática,Ingenierías,1,Oficial,286,18,2.8,4,3,6,2,4,4,5,7,20,12,2.9,2.6,2.75,1,0,1,1,Pendiente,0,1
+EST-AAE7E81534,Psicología,Ciencias Sociales y Humanas,2,Privado,306,14,2.9,2,2,6,4,6,5,6,4,21,10,2.4,3.05,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-C45F163294,Ingeniería Informática,Ingenierías,5,Oficial,336,16,3.6,4,7,5,4,8,7,7,8,30,15,3.6,2.65,3.125,0,0,0,0,Pagado,1,0
+EST-47CD1D80A8,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,282,18,3.0,3,3,3,5,2,4,1,1,8,2,2.35,3.25,2.8,1,1,0,0,Pagado,1,0
+EST-66208A3558,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,354,18,3.2,5,7,9,3,7,7,5,3,22,8,3.9,3.85,3.875,0,0,0,0,Pagado,1,0
+EST-279E4E5148,Psicología,Ciencias Sociales y Humanas,1,Privado,269,14,3.6,10,12,7,8,6,8,8,4,26,12,3.05,4.25,3.65,0,0,0,0,Pagado,1,0
+EST-5DBDF287CB,Ingeniería Industrial,Ingenierías,1,Oficial,257,16,3.0,8,10,4,11,4,7,8,6,25,14,2.35,3.5,2.925,1,0,0,1,Pagado,1,0
+EST-B74E296716,Ingeniería Industrial,Ingenierías,1,Oficial,368,15,4.7,8,9,3,8,5,5,17,9,36,26,5.0,4.5,4.75,0,0,0,0,Pagado,1,0
+EST-F88D9D658D,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,427,15,4.7,10,6,6,10,15,7,9,8,39,17,4.65,3.9,4.275,0,0,0,0,Pagado,1,0
+EST-19C5DE7046,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,258,15,2.6,8,4,3,3,4,2,3,6,15,9,2.35,2.15,2.25,1,0,0,0,Pendiente,0,1
+EST-DF0FA4B257,Ingeniería Industrial,Ingenierías,2,Oficial,253,17,3.2,3,5,2,8,6,6,10,4,26,14,3.05,2.7,2.875,1,0,0,0,Pagado,1,0
+EST-9F35707315,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,254,15,2.9,2,4,2,6,13,7,5,1,26,6,2.75,3.1,2.925,1,0,0,0,Pagado,1,0
+EST-518DB5D382,Ingeniería Informática,Ingenierías,1,Oficial,298,18,,4,7,5,5,7,3,4,3,17,7,3.7,2.05,2.875,1,0,0,0,Pagado,1,0
+EST-AA00CEFECA,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,330,18,3.7,7,5,3,2,7,4,7,10,28,17,2.9,2.95,2.925,1,0,0,0,Pagado,1,0
+EST-23FD24515C,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,18,3.6,1,7,5,7,9,4,5,2,20,7,2.55,3.55,3.05,0,0,0,0,Pagado,1,0
+EST-71765D4094,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,253,17,3.4,3,2,1,5,4,3,4,8,19,12,3.75,4.3,4.025,0,0,0,0,Pagado,1,0
+EST-291B45CFBF,Ingeniería Informática,Ingenierías,5,Privado,260,17,3.1,3,6,1,7,3,3,0,4,10,4,2.9,2.3,2.5999999999999996,1,0,0,0,Pagado,1,0
+EST-EB0B713925,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,335,18,3.0,9,6,5,4,6,10,6,3,25,9,3.35,3.85,3.6,0,0,1,0,Pendiente,0,1
+EST-F45E37F558,Psicología,Ciencias Sociales y Humanas,1,Oficial,212,18,2.5,3,1,2,2,1,4,0,1,6,1,2.6,2.3,2.45,1,1,0,1,Pagado,1,0
+EST-BC2C6E0413,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,318,14,,9,9,15,8,7,9,11,8,35,19,4.35,4.45,4.4,0,0,0,1,Pagado,1,0
+EST-33B56A99E6,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,17,2.9,1,5,2,2,3,2,5,0,10,5,3.25,3.2,3.225,0,0,0,0,Pagado,1,0
+EST-9AAE87E248,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,293,17,3.8,6,7,6,4,5,3,7,5,20,12,4.0,2.8,3.4,0,0,0,0,Pagado,1,0
+EST-F013518FE0,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,318,17,3.5,5,5,6,5,5,4,5,5,19,10,3.45,2.9,3.175,0,0,0,0,Pagado,1,0
+EST-36A0B22663,Psicología,Ciencias Sociales y Humanas,3,Oficial,315,16,3.8,5,5,3,10,2,2,5,5,14,10,2.8,2.65,2.7249999999999996,1,0,0,0,Pagado,1,0
+EST-FAFB255448,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,278,14,3.7,10,8,6,4,4,7,4,2,17,6,4.3,2.95,3.625,0,0,0,0,Pagado,1,0
+EST-C7017C1DDB,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.9,9,12,10,9,6,9,14,12,41,26,3.2,4.4,3.8000000000000003,0,0,0,0,Pagado,1,0
+EST-8A5D473D11,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,364,18,4.1,4,12,7,5,6,5,7,10,28,17,3.3,4.55,3.925,0,0,0,0,Pagado,1,0
+EST-BB7BD3BB0D,Psicología,Ciencias Sociales y Humanas,3,Oficial,355,16,3.8,4,11,8,2,9,1,6,7,23,13,3.25,3.8,3.525,0,0,0,0,Pagado,1,0
+EST-B82D149C7C,Ingeniería Industrial,Ingenierías,3,Oficial,308,14,4.1,4,6,9,8,5,10,7,7,29,14,3.85,3.35,3.6,0,0,0,0,Pagado,1,0
+EST-2D48048314,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.0,5,1,10,6,1,2,6,2,11,8,1.35,4.9,3.125,0,0,0,0,Pagado,1,0
+EST-18CCA5CEFC,Ingeniería Industrial,Ingenierías,2,Privado,377,16,4.5,11,12,6,4,6,7,10,7,30,17,4.4,4.45,4.425000000000001,0,0,0,0,Pagado,1,0
+EST-EE0BE5D439,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,329,15,4.1,3,8,10,9,0,6,8,3,17,11,3.9,3.7,3.8,0,0,0,0,Pagado,1,0
+EST-B4BE8BCCBC,Ingeniería Informática,Ingenierías,1,Oficial,344,14,4.2,3,8,8,5,6,6,7,7,26,14,3.5,3.35,3.425,0,0,0,0,Pagado,1,0
+EST-708750746A,Psicología,Ciencias Sociales y Humanas,3,Privado,341,16,3.9,7,7,8,10,10,3,8,6,27,14,4.0,4.5,4.25,0,0,0,0,Pagado,1,0
+EST-7B1A5D9E84,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,311,14,3.5,11,11,3,2,4,4,5,8,21,13,4.25,3.35,3.8,0,0,0,0,Pagado,1,0
+EST-FCBC372E72,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,261,15,2.5,3,3,5,3,6,5,5,1,17,6,2.2,2.7,2.45,1,0,0,0,Pagado,1,0
+EST-4AEE82C7D4,Ingeniería Industrial,Ingenierías,2,Oficial,279,15,2.4,6,4,5,6,2,1,2,2,7,4,1.9,2.4,2.15,1,1,1,1,Anulado,0,1
+EST-75A617B142,Ingeniería Industrial,Ingenierías,1,Oficial,193,17,2.8,3,5,3,2,3,6,2,1,12,3,3.6,2.4,3.0,0,0,0,0,Pagado,1,0
+EST-8C375E66E3,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,18,4.0,9,12,7,6,10,4,9,5,28,14,4.6,3.0,3.8,0,0,0,0,Pagado,1,0
+EST-980597225D,Ingeniería Industrial,Ingenierías,1,Privado,319,15,3.5,7,5,5,9,4,5,0,1,10,1,4.2,4.2,4.2,0,0,0,1,Pagado,1,0
+EST-EE6A0E5A2E,Ingeniería Informática,Ingenierías,2,Oficial,295,16,4.3,6,1,8,6,6,9,9,6,30,15,5.0,4.05,4.525,0,0,0,0,Pagado,1,0
+EST-38FAF81D78,Psicología,Ciencias Sociales y Humanas,2,Oficial,264,14,4.4,12,5,7,4,8,14,7,8,37,15,5.0,5.0,5.0,0,0,0,1,Pagado,1,0
+EST-25F9B56081,Psicología,Ciencias Sociales y Humanas,3,Oficial,326,15,3.2,6,7,4,2,3,0,2,2,7,4,2.35,3.85,3.1,0,1,0,0,Pagado,1,0
+EST-6B9BF7CF5B,Psicología,Ciencias Sociales y Humanas,3,Oficial,289,16,2.8,5,4,2,2,7,2,3,1,13,4,3.1,2.3,2.7,1,0,0,0,Pagado,1,0
+EST-84FC13A7AF,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,4.4,17,7,6,8,4,9,7,9,29,16,4.85,5.0,4.925,0,0,0,1,Pagado,1,0
+EST-524FB3BC11,Ingeniería Informática,Ingenierías,2,Oficial,295,15,3.2,6,2,5,13,4,5,1,6,16,7,2.4,2.2,2.3,1,0,0,0,Pagado,1,0
+EST-4A752A7804,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,317,17,2.8,5,2,4,3,2,4,2,3,11,5,2.25,3.85,3.05,0,0,0,0,Pendiente,0,1
+EST-D8FC039C55,Ingeniería Industrial,Ingenierías,2,Privado,247,16,3.4,12,7,5,6,4,5,4,2,15,6,3.3,3.65,3.4749999999999996,0,0,0,0,Pagado,1,0
+EST-C1E91928F3,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.5,5,3,3,7,6,4,6,9,25,15,2.7,3.35,3.0250000000000004,0,0,0,0,Pagado,1,0
+EST-4CA6595085,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,273,17,3.0,9,3,2,5,1,2,5,4,12,9,3.75,3.5,3.625,0,0,0,0,Pagado,1,0
+EST-386700A394,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,337,18,3.7,6,11,4,5,6,6,8,7,27,15,3.45,3.8,3.625,0,0,0,0,Pagado,1,0
+EST-7BD25F53BB,Ingeniería Informática,Ingenierías,1,Oficial,308,14,3.3,1,7,7,4,5,9,6,5,25,11,3.1,3.75,3.425,0,0,0,0,Pagado,1,0
+EST-1ED838F4A2,Ingeniería Informática,Ingenierías,2,Privado,303,16,3.0,3,7,4,5,5,6,9,7,27,16,4.3,2.95,3.625,0,0,1,0,Pendiente,0,1
+EST-7F755DD057,Ingeniería Informática,Ingenierías,5,Oficial,319,18,3.8,5,6,3,7,7,6,1,9,23,10,2.4,2.3,2.3499999999999996,1,0,0,0,Pagado,1,0
+EST-7C638239A8,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,316,17,3.6,11,8,5,3,6,7,11,5,29,16,2.95,4.15,3.5500000000000003,0,0,0,0,Pagado,1,0
+EST-949B434BF3,Ingeniería Informática,Ingenierías,4,Privado,217,15,1.9,1,0,3,3,0,1,0,0,1,0,0.75,3.75,2.25,1,1,1,1,Sin liquidación,0,1
+EST-ECDC177B58,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,221,15,3.2,3,7,8,3,6,8,5,6,25,11,3.0,3.2,3.1,0,0,0,0,Pagado,1,0
+EST-4D80DEC881,Ingeniería Industrial,Ingenierías,3,Oficial,290,18,3.0,4,4,2,3,5,2,7,4,18,11,3.6,2.5,3.05,0,0,0,0,Pagado,1,0
+EST-4255AF169B,Ingeniería Industrial,Ingenierías,2,Oficial,266,14,3.8,8,9,11,6,6,7,6,8,27,14,4.0,3.5,3.75,0,0,0,0,Pagado,1,0
+EST-77D304D0D2,Psicología,Ciencias Sociales y Humanas,3,Privado,345,14,3.4,9,8,8,6,4,9,7,5,25,12,2.7,3.45,3.075,0,0,0,0,Pagado,1,0
+EST-B0983C6132,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,326,17,3.6,2,7,4,2,5,1,4,2,12,6,3.7,3.25,3.475,0,0,0,0,Pendiente,1,0
+EST-0A3E8D5C5D,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,14,3.0,6,7,3,6,2,4,2,4,12,6,3.45,3.9,3.675,0,0,0,0,Pagado,1,0
+EST-D993137DE0,Psicología,Ciencias Sociales y Humanas,1,Oficial,276,15,3.2,8,1,3,7,4,5,3,1,13,4,3.5,3.05,3.275,0,0,0,0,Pagado,1,0
+EST-6BDD91C96B,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,365,15,3.9,12,6,9,8,7,4,4,9,24,13,4.5,4.95,4.725,0,0,0,0,Pagado,1,0
+EST-9F7784C871,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,226,18,2.6,3,5,6,7,4,4,3,8,19,11,4.35,2.8,3.5749999999999997,0,0,0,0,Sin liquidación,0,1
+EST-D58184370E,Psicología,Ciencias Sociales y Humanas,5,Privado,351,18,3.8,9,5,8,5,6,9,11,6,32,17,3.3,4.55,3.925,0,0,0,0,Pagado,1,0
+EST-61589DD600,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,16,3.2,3,7,3,2,2,3,2,1,8,3,1.9,3.25,2.575,1,1,0,0,Pagado,1,0
+EST-A9FFACCEE7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,304,18,4.0,6,7,5,9,5,8,5,6,24,11,4.35,2.95,3.65,0,0,0,0,Pagado,1,0
+EST-DB984589B2,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,328,16,3.5,4,5,4,6,2,7,1,3,13,4,2.9,3.55,3.2249999999999996,0,0,0,0,Pagado,1,0
+EST-A265D68684,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,217,15,3.0,10,9,6,6,16,13,6,5,40,11,2.7,2.6,2.6500000000000004,1,0,0,0,Pagado,1,0
+EST-9AE2DDC590,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,298,14,3.9,10,4,5,10,14,13,7,6,40,13,3.75,3.3,3.525,0,0,0,0,Pagado,1,0
+EST-4148A80BA9,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,16,3.9,5,6,6,9,8,8,12,8,36,20,4.1,4.8,4.449999999999999,0,0,0,0,Pagado,1,0
+EST-FA970BDADB,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,254,17,3.6,10,7,5,7,3,10,4,6,23,10,3.9,3.0,3.45,0,0,0,0,Pagado,1,0
+EST-BFB48E44C5,Psicología,Ciencias Sociales y Humanas,3,Oficial,241,14,2.2,0,2,3,2,0,0,0,1,1,1,2.9,1.85,2.375,1,1,0,0,Pendiente,0,1
+EST-DD39CE66E1,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,330,17,3.1,5,4,5,10,8,6,3,4,21,7,3.35,3.2,3.2750000000000004,0,0,0,0,Pagado,1,0
+EST-1048C3E48C,Ingeniería Industrial,Ingenierías,3,Oficial,282,14,2.4,1,1,2,1,0,0,0,0,0,0,1.8,2.15,1.975,1,1,1,0,Pendiente,0,1
+EST-F60468E478,Ingeniería Industrial,Ingenierías,3,Privado,349,15,4.5,13,8,12,6,11,10,7,13,41,20,5.0,5.0,5.0,0,0,0,0,Pagado,1,0
+EST-6BE7A2B7BA,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,311,14,3.2,4,10,3,8,2,7,7,9,25,16,3.3,4.75,4.025,0,0,0,0,Pagado,1,0
+EST-E2B6955669,Ingeniería Informática,Ingenierías,1,Privado,264,14,3.8,6,7,5,7,9,4,8,5,26,13,3.75,3.0,3.375,0,0,0,0,Pagado,1,0
+EST-1E96826FB3,Ingeniería Informática,Ingenierías,1,Oficial,235,17,3.6,9,8,3,6,6,6,3,3,18,6,3.4,3.0,3.2,0,0,0,0,Pagado,1,0
+EST-6B554DB126,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,274,14,3.7,6,4,5,6,7,5,0,1,13,1,3.2,2.6,2.9000000000000004,1,0,0,0,Sin liquidación,0,1
+EST-F31A32CBEF,Ingeniería Industrial,Ingenierías,3,Privado,290,17,3.4,6,6,10,7,7,11,9,6,33,15,3.8,3.35,3.575,0,0,0,0,Pagado,1,0
+EST-2191CA3120,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,403,15,3.9,5,8,8,9,5,5,5,10,25,15,2.35,3.1,2.725,1,0,0,0,Pagado,1,0
+EST-3420B5D828,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,268,14,4.0,10,6,8,9,6,9,9,7,31,16,3.15,4.9,4.025,0,0,0,0,Pagado,1,0
+EST-F994B90F0B,Ingeniería Industrial,Ingenierías,3,Oficial,274,17,3.2,5,2,4,11,5,6,9,1,21,10,3.85,2.55,3.2,0,0,0,0,Pagado,1,0
+EST-4932ABB14A,Ingeniería Informática,Ingenierías,2,Oficial,206,16,3.0,12,4,5,6,9,7,7,9,32,16,2.65,3.85,3.25,0,0,0,0,Pagado,1,0
+EST-BF06B9CA24,Ingeniería Industrial,Ingenierías,4,Oficial,212,17,2.0,3,4,2,2,3,3,2,2,10,4,3.45,2.05,2.75,1,0,0,0,Pagado,1,0
+EST-26CE6558AA,Psicología,Ciencias Sociales y Humanas,3,Oficial,296,16,4.2,6,10,10,12,8,8,4,15,35,19,4.0,3.85,3.925,0,0,0,0,Pagado,1,0
+EST-A5ED824BEC,Ingeniería Informática,Ingenierías,1,Oficial,256,18,2.7,4,6,4,4,7,5,4,7,23,11,3.2,3.2,3.2,0,0,0,0,Pagado,1,0
+EST-B7143873F7,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,352,15,4.4,9,9,5,10,8,10,9,7,34,16,4.95,3.75,4.35,0,0,0,0,Pagado,1,0
+EST-E832EC515F,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,220,18,2.9,5,6,5,5,3,5,5,8,21,13,1.95,4.1,3.025,0,0,0,0,Pendiente,0,1
+EST-D09B726858,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,16,3.9,8,8,8,4,5,6,5,5,21,10,4.1,3.5,3.8,0,0,0,0,Pagado,1,0
+EST-4D3364949A,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,355,15,3.0,7,5,7,1,5,2,2,6,15,8,3.0,3.05,3.025,0,0,0,0,Pagado,1,0
+EST-AE4E53FDBC,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,324,15,3.9,4,6,11,8,4,7,6,7,24,13,3.85,3.4,3.625,0,0,0,0,Pagado,1,0
+EST-ECD05AD4CE,Psicología,Ciencias Sociales y Humanas,1,Privado,263,18,4.1,4,3,3,4,1,5,4,2,12,6,4.4,3.4,3.9000000000000004,0,0,0,0,Pagado,1,0
+EST-BE35697C2E,Ingeniería Informática,Ingenierías,4,Oficial,300,17,3.5,7,7,11,10,7,13,7,11,38,18,3.6,3.7,3.6500000000000004,0,0,0,0,Pagado,1,0
+EST-2F368A924B,Psicología,Ciencias Sociales y Humanas,3,Privado,227,17,2.6,4,2,1,2,5,1,2,3,11,5,1.55,3.1,2.325,1,0,0,0,Pendiente,0,1
+EST-752D6749D3,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,346,15,3.7,5,3,4,6,9,6,6,3,24,9,4.85,3.0,3.925,0,0,0,1,Pagado,1,0
+EST-7BD0A4B938,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,291,18,2.4,1,1,4,3,2,3,5,3,13,8,2.5,2.2,2.35,1,0,1,0,Sin liquidación,0,1
+EST-D280BCCD20,Ingeniería Informática,Ingenierías,2,Oficial,330,16,3.3,4,2,3,4,5,8,6,7,26,13,3.2,3.25,3.225,0,0,0,0,Pagado,1,0
+EST-B6F7D1DBC8,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,355,14,3.8,6,6,4,3,4,5,6,3,18,9,2.7,4.2,3.45,0,0,0,0,Pagado,1,0
+EST-AE034429F9,Ingeniería Informática,Ingenierías,2,Oficial,220,16,2.9,4,2,1,5,4,6,0,1,11,1,2.2,3.4,2.8,1,0,0,0,Pendiente,0,1
+EST-B0D7AEC3A5,Ingeniería Industrial,Ingenierías,2,Oficial,294,14,3.0,5,3,2,3,5,8,4,0,17,4,3.8,3.85,3.825,0,0,1,0,Sin liquidación,0,1
+EST-4DEF568CE6,Ingeniería Informática,Ingenierías,2,Oficial,291,18,3.0,2,8,8,6,1,3,4,5,13,9,3.9,3.1,3.5,0,0,0,0,Pagado,1,0
+EST-C57E8A4ACF,Ingeniería Industrial,Ingenierías,2,Oficial,362,18,3.5,7,5,6,7,8,5,8,3,24,11,3.3,3.25,3.275,0,0,0,0,Pagado,1,0
+EST-D449649C51,Psicología,Ciencias Sociales y Humanas,2,Oficial,379,18,4.3,1,1,8,9,1,7,13,7,28,20,4.45,4.2,4.325,0,0,0,0,Pagado,1,0
+EST-C534742061,Psicología,Ciencias Sociales y Humanas,1,Privado,291,18,,2,2,5,3,1,3,5,0,9,5,2.0,1.65,1.825,1,0,0,1,Pagado,1,0
+EST-5741DB9095,Psicología,Ciencias Sociales y Humanas,4,Oficial,244,17,3.5,10,9,10,8,9,9,6,9,33,15,3.75,4.35,4.05,0,0,0,0,Pagado,1,0
+EST-D3C60BEE67,Psicología,Ciencias Sociales y Humanas,3,Oficial,322,17,3.2,7,6,7,6,10,10,7,6,33,13,2.5,3.05,2.775,1,0,0,0,Pagado,1,0
+EST-7BEC953B59,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,245,14,3.1,7,6,4,2,4,3,3,3,13,6,2.9,3.2,3.05,0,0,0,0,Pagado,1,0
+EST-47AF0B6F7A,Psicología,Ciencias Sociales y Humanas,2,Privado,245,17,2.2,0,0,0,1,1,0,0,0,1,0,3.2,2.1,2.6500000000000004,1,1,1,0,Sin liquidación,0,1
